@@ -1,0 +1,137 @@
+---
+ecli: "ECLI:NL:RVS:2003:AF8978"
+court: "Raad van State"
+court_code: "RVS"
+docket: "200201934/1"
+decided: "2003-05-21"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2003:AF8978"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RVS:2003:AF8978 Raad van State , 21-05-2003 / 200201934/1
+
+## Uitspraak
+
+200201934/1.
+
+Datum uitspraak: 21 mei 2003
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak in het geding tussen:
+
+1.    de vereniging "Koninklijke Nederlandse Jagersvereniging", gevestigd te Amersfoort, en de wildbeheereenheid "De Marren", gevestigd te IJlst,
+
+2.    het college van burgemeester en wethouders van Wymbritseradiel,
+
+appellanten,
+
+en
+
+de staatssecretaris van Landbouw, Natuurbeheer en Visserij,
+
+verweerder.
+
+1.    Procesverloop
+
+Bij besluit van 24 maart 2000 (Stcrt. 31 maart 2000, nr. 65) heeft verweerder het op de bij dat besluit behorende kaart aangegeven gebied, bekend onder de naam Witte en Zwarte Brekken en Oudhof, aangewezen als speciale beschermingszone in de zin van artikel 4, eerste en tweede lid, van de richtlijn 79/409/EEG van de Raad van de Europese Gemeenschappen van 2 april 1979 inzake het behoud van de vogelstand (PbEG L 103; hierna: Vogelrichtlijn).
+
+Bij besluit van 20 maart 2002 heeft verweerder het hiertegen gemaakte bezwaar ongegrond verklaard.
+
+Tegen dit besluit hebben appellanten sub 1 bij brief van 24 april 2002, bij de Raad van State ingekomen op 25 april 2002, en appellant sub 2 bij brief van 25 april 2002, bij de Raad van State ingekomen op 26 april 2002, beroep ingesteld.
+
+Bij brief van 24 juli 2002 heeft verweerder een verweerschrift ingediend.
+
+De Afdeling heeft de zaak ter zitting behandeld op 6 mei 2003, waar appellanten sub 1 (hierna: de KNJV en anderen), vertegenwoordigd door [gemachtigde], en verweerder, vertegenwoordigd door mr. C.A.H.J. Anthonisse, mr. M. Nagel en mr. J.A.W.M. Ponten, ambtenaren van het ministerie, zijn verschenen.
+
+Appellant sub 2 (hierna: het college van burgemeester en wethouders van Wymbritseradiel) is, met kennisgeving, niet verschenen.
+
+2.    Overwegingen
+
+Juridisch kader
+
+2.1.    Ingevolge artikel 1 van de Vogelrichtlijn heeft deze richtlijn betrekking op de instandhouding van alle natuurlijk in het wild levende vogelsoorten op het Europese grondgebied van de lidstaten. Zij betreft de bescherming, het beheer en de regulering van deze soorten en stelt regels voor de exploitatie daarvan.
+
+Ingevolge artikel 3, eerste lid, van de Vogelrichtlijn dienen de Lidstaten alle benodigde maatregelen te nemen om voor alle natuurlijk in het wild levende vogelsoorten op het Europese grondgebied van de Lidstaten een voldoende gevarieerdheid van leefgebieden en een voldoende omvang ervan te beschermen, in stand te houden of te herstellen.
+
+Ingevolge artikel 4, eerste lid, van de Vogelrichtlijn dienen de Lidstaten voor de leefgebieden van de in Bijlage I van de richtlijn genoemde vogelsoorten speciale beschermingsmaatregelen te treffen, met name door het aanwijzen van de naar aantal en oppervlakte voor de instandhouding van deze soorten meest geschikte gebieden als speciale beschermingszone (hierna: SBZ).
+
+Ingevolge artikel 4, tweede lid, dienen de Lidstaten soortgelijke maatregelen te nemen ten aanzien van de niet in bijlage I genoemde en geregeld voorkomende trekvogels, waarbij rekening wordt gehouden met de behoeften van het gebied van bescherming in de geografische zee- en landzone waar deze richtlijn van toepassing is, ten aanzien van hun broed-, rui- en overwinteringsgebieden en rustplaatsen in hun trekzones. Met het oog hierop dienen de Lidstaten zelf bijzondere aandacht te besteden aan de bescherming van watergebieden en in het bijzonder aan watergebieden van internationale betekenis.
+
+In artikel 4, vierde lid, eerste volzin, is bepaald dat de Lidstaten passende maatregelen nemen om vervuiling en verslechtering van de woongebieden in de in het eerste en tweede lid bedoelde beschermingszones te voorkomen, alsmede om te voorkomen dat de vogels aldaar worden verstoord, voor zover deze vervuiling, verslechtering en storing, gelet op de doelstellingen van dit artikel, van wezenlijke invloed zijn.
+
+2.1.1.    In artikel 3, eerste lid, van de richtlijn 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna (PbEG L 206; hierna: Habitatrichtlijn) is bepaald dat een coherent Europees ecologisch netwerk wordt gevormd van speciale beschermingszones, Natura 2000 genaamd. Dit netwerk, dat bestaat uit gebieden met in bijlage I van deze richtlijn vermelde typen natuurlijke habitats en habitats van in bijlage II genoemde soorten, moet de betrokken typen natuurlijke habitats en habitats van soorten in hun natuurlijke verspreidingsgebied in een gunstige staat van instandhouding behouden of in voorkomend geval herstellen. Het Natura 2000-netwerk bestrijkt ook de door de Lidstaten overeenkomstig de Vogelrichtlijn aangewezen speciale beschermingszones.
+
+In artikel 6, tweede lid, is bepaald dat de Lidstaten passende maatregelen treffen om ervoor te zorgen dat de kwaliteit van de natuurlijke habitats en de habitats van soorten in de speciale beschermingszones niet verslechtert en er geen storende factoren optreden voor de soorten waarvoor de zones zijn aangewezen voor zover die factoren, gelet op de doelstellingen van de richtlijn, een significant effect zouden kunnen hebben.
+
+In artikel 6, derde lid, is bepaald dat voor plannen of projecten die significante gevolgen kunnen hebben voor een speciale beschermingszone een passende beoordeling wordt gemaakt van de gevolgen voor het gebied, rekening houdend met de instandhoudingsdoelstellingen van dat gebied. De bevoegde instanties mogen slechts toestemming voor het plan of project geven, nadat zij de zekerheid hebben verkregen dat het de natuurlijke kenmerken van het gebied niet zal aantasten.
+
+In artikel 6, vierde lid, is onder meer bepaald dat indien een plan of project, ondanks negatieve conclusies van de beoordeling van de gevolgen voor het gebied, bij ontstentenis van alternatieve oplossingen, om dwingende redenen van groot openbaar belang, met inbegrip van redenen van sociale of economische aard, toch moet worden gerealiseerd, de Lidstaat alle nodige compenserende maatregelen neemt om te waarborgen dat de algehele samenhang van Natura 2000 bewaard blijft.
+
+Ingevolge artikel 7 komen de uit artikel 6, tweede, derde en vierde lid, voortvloeiende verplichtingen in de plaats van de verplichtingen die voortvloeien uit artikel 4, vierde lid, eerste zin, van de Vogelrichtlijn, voor wat betreft de speciale beschermingszones die overeenkomstig artikel 4, eerste lid, van die richtlijn zijn aangewezen of bij analogie overeenkomstig artikel 4, tweede lid, van die richtlijn zijn erkend, zulks vanaf de datum van toepassing van de onderhavige richtlijn, dan wel vanaf de datum van de aanwijzing of erkenning door een Lid-Staat overeenkomstig de Vogelrichtlijn, indien deze datum later valt.
+
+2.1.2.    Ingevolge artikel 27, eerste lid, van de Natuurbeschermingswet 1998 wijst de Minister van Landbouw, Natuurbeheer en Visserij gebieden aan ter uitvoering van verdragen of andere internationale verplichtingen met betrekking tot natuur- en landschapsbehoud, voor zover die verdragen of verplichtingen zulks met zich brengen. Ingevolge het tweede lid van dat artikel gaat een besluit als bedoeld in het eerste lid vergezeld van een kaart, waarop de begrenzing van het gebied nauwkeurig wordt aangegeven alsmede van een toelichting.
+
+Gebiedsbeschrijving Witte en Zwarte Brekken en Oudhof
+
+2.2.    Het gebied Witte en Zwarte Brekken en Oudhof ligt in de provincie Fryslân en behoort tot het grondgebied van de gemeenten Wymbritseradiel, Sneek en Skarsterlân. Het gebied, bestaande uit een aantal aaneengesloten wateren, graslanden en moeraszones, beslaat een oppervlakte van ongeveer 430 hectare. Grote delen van het gebied zijn in eigendom en beheer bij Staatsbosbeheer. Voor het overige is het water in beheer bij de Dienst der Domeinen.
+
+Algemene bezwaren tegen de aanwijzing
+
+2.3.    Appellanten hebben in beroep algemene bezwaren aangevoerd tegen de aanwijzing van het gebied als SBZ, onder meer betreffende de gehanteerde selectie- en begrenzingencriteria, de rechtsgevolgen van het aanwijzingsbesluit en het ontbreken van nadeelcompensatie.
+
+2.4.    Bij uitspraak van 19 maart 2003, no. 200201933/1, heeft de Afdeling uitspraak gedaan inzake het beroep van de KNJV en anderen en de Gors- en Ambachtsheerlijkheid van Zuid-Beijerland tegen de aanwijzing van het Haringvliet als speciale beschermingszone in de zin van artikel 4, eerste en tweede lid, van de Vogelrichtlijn. Hierbij is de Afdeling ingegaan op diverse beroepsgronden tegen het aanwijzingsbesluit in het algemeen. Onder de in die procedure aangevoerde beroepsgronden zijn naar het oordeel van de Afdeling tevens de in de voorliggende procedure aangevoerde algemene bezwaren van appellanten tegen het aanwijzingsbesluit te vatten. Daarom verwijst de Afdeling naar hetgeen zij in de genoemde uitspraak van 19 maart 2003 heeft overwogen onder het kopje ‘Algemene bezwaren tegen de aanwijzing’ (overwegingen 2.4. tot en met 2.8.2. in de uitspraak; deze is aangehecht).
+
+2.5.    In aanvulling op de in evengenoemde uitspraak van 19 maart 2003 besproken beroepsgronden overweegt de Afdeling thans het volgende.
+
+Het college van burgemeester en wethouders van Wymbritseradiel heeft als bezwaar van algemene aard voorts aangevoerd dat naar zijn mening ten onrechte niet is voorzien in bufferzones aan de landzijde van (jacht)havens.
+
+2.5.1.    Verweerder stelt zich op het standpunt dat Vogelrichtlijngebieden alleen geselecteerd mogen worden op grond van vogelkundige criteria. Bij de begrenzing is uitgegaan van landschapsecologische eenheden en de biotoopeisen van de desbetreffende vogelsoorten. Bestaande bebouwingen (inclusief erven en tuinen) en verhardingen maken om die reden geen deel uit van de SBZ. Verweerder heeft een zone van 100 of zelfs 250 meter daaromheen niet nodig geacht, omdat dat naar zijn mening niet het belang van de vogels dient.
+
+2.5.2.    Zoals de Afdeling in overweging 2.4.5. van haar eerdergenoemde uitspraak van 19 maart 2003, no. 200201933/1, heeft geoordeeld, ziet zij geen aanleiding de methode van begrenzing onredelijk of anderszins onjuist te achten. Gelet op de stukken en het verhandelde ter zitting ziet de Afdeling in hetgeen appellant heeft aangevoerd geen aanleiding om wat betreft een eventuele bufferzone rond (jacht)havens thans tot een ander oordeel te komen.
+
+2.6.    Het college van burgemeester en wethouders van Wymbritseradiel heeft voorts als bezwaar van algemene aard onder verwijzing naar artikel 31a, derde lid, van de Wet op de Ruimtelijke Ordening (hierna: de WRO) aangevoerd dat verweerder in het bestreden besluit ten onrechte geen duidelijkheid verschaft over de vraag of het gemeentebestuur aansprakelijk kan worden gesteld voor vergoeding van schade die voortvloeit uit de aanwijzing tot SBZ.
+
+2.6.1.    Verweerder stelt zich op het standpunt dat hij niet in staat is duidelijkheid te scheppen in een voor appellant toekomstige onzekere gebeurtenis.
+
+2.6.2.    Indien ten behoeve van belangen, uitsluitend of mede behartigd door andere openbare lichamen dan de gemeente, op schriftelijk verzoek van die openbare lichamen, dan wel krachtens wettelijk voorschrift bepalingen in een bestemmingsplan zijn opgenomen die hogere kosten voor de gemeente ten gevolge kunnen hebben en blijkens de bij het bestemmingsplan behorende toelichting over de verdeling van deze kosten geen overeenstemming kon worden bereikt, kan de gemeenteraad op grond van artikel 31a, eerste lid, van de WRO binnen de termijn, bedoeld in artikel 28, eerste lid, van de WRO gedeputeerde staten verzoeken gelijktijdig met hun besluit omtrent goedkeuring van het vastgestelde plan te beslissen omtrent het opleggen van de verplichting aan die openbare lichamen de hogere kosten, welke redelijkerwijs niet of niet geheel ten laste van de gemeente behoren te blijven en waarvan de vergoeding niet of niet voldoende anderszins is verzekerd en evenmin krachtens wettelijk voorschrift is uitgesloten, geheel of gedeeltelijk aan de gemeente te vergoeden.
+
+Indien ten tijde van het vaststellen van het bestemmingsplan de hogere kosten, bedoeld in het eerste lid, in redelijkheid niet waren te voorzien, kunnen gedeputeerde staten ingevolge het tweede lid van artikel 31a van de WRO, in afwijking van het eerste lid, op een desbetreffend verzoek van de gemeente beslissen nadat het bestemmingsplan in werking is getreden. Burgemeester en wethouders vermelden in hun verzoek uitdrukkelijk waarom over de verdeling van de hogere kosten tussen de gemeente en de desbetreffende openbare lichamen geen overeenstemming kon worden bereikt.
+
+Ingevolge artikel 31a, derde lid, van de WRO, voorzover hier van belang, beslist de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer dan wel beslissen deze minister en de minister die het mede aangaat, in afwijking van het eerste en het tweede lid, omtrent een verzoek als bedoeld in die leden, indien het andere openbaar lichaam het Rijk is.
+
+2.6.3.    Gelet op artikel 31a van de WRO heeft verweerder zich naar het oordeel van de Afdeling terecht op het standpunt gesteld dat onduidelijkheid omtrent de aansprakelijkheid voor eventuele planschade die voortvloeit uit de aanwijzing als SBZ niet kan leiden tot vernietiging van het bestreden besluit. Uit artikel 31a van de WRO volgt immers dat eerst op het moment van goedkeuring van een bestemmingsplan waarin de gemeenteraad de aanwijzing als SBZ heeft verwerkt, de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de minister van Landbouw, Natuurbeheer en Visserij dienen te beslissen op een verzoek van de gemeenteraad de kosten daarvan niet of niet geheel ten laste van de gemeente te laten blijven.
+
+2.7.    Gelet op het vorenoverwogene ziet de Afdeling geen aanleiding om met betrekking tot de algemene bezwaren van appellanten tot een ander oordeel te komen dan als hiervoor ten aanzien van de aanwijzing van het Haringvliet als SBZ is verwoord.
+
+2.8.    Verweerder heeft met de aanwijzing van het gebied Witte en Zwarte Brekken en Oudhof als speciale beschermingszone in zoverre op juiste gronden uitvoering gegeven aan de verplichting die voor Nederland voortvloeit uit artikel 4, eerste lid, van de Vogelrichtlijn. In hetgeen appellanten hebben aangevoerd, ziet de Afdeling geen aanleiding voor het oordeel dat het bestreden besluit is voorbereid of genomen in strijd met het recht.
+
+De beroepen zijn mitsdien ongegrond.
+
+Proceskosten
+
+2.9.    Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+3.    Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State
+
+Recht doende in naam der Koningin:
+
+verklaart de beroepen ongegrond.
+
+Aldus vastgesteld door mr. A. Kosto, Voorzitter, en mr. J.R. Schaafsma en mr. J.G.C. Wiebenga, Leden, in tegenwoordigheid van mr. P.J.A.M. Broekman, ambtenaar van Staat.
+
+w.g. Kosto    w.g. Broekman
+
+Voorzitter    ambtenaar van Staat
+
+Uitgesproken in het openbaar op 21 mei 2003
+
+12-400.
