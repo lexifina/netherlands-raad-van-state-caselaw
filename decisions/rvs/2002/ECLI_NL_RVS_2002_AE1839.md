@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2002:AE1839"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AA20030454 met annotatie van Michiels F.C.M.A. Lex"]
 ---
 
 # ECLI:NL:RVS:2002:AE1839 Raad van State , 24-04-2002 / 200002886/1
