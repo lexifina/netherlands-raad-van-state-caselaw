@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2002:AF1163"
-published_in: ["Rechtspraak.nl", "AA20030454 met annotatie van F.C.M.A. Michiels"]
+published_in: ["Rechtspraak.nl", "AA20030454 met annotatie van Michiels F.C.M.A. Lex"]
 ---
 
 # ECLI:NL:RVS:2002:AF1163 Raad van State , 27-11-2002 / 200100106/2
