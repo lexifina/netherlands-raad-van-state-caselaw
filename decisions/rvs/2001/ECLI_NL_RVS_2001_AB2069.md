@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2001:AB2069"
-published_in: ["Rechtspraak.nl", "AB 2001, 215 met annotatie van F.C.M.A. Michiels", "BR 2001/181", "AA20010905 met annotatie van F.C.M.A. Michiels"]
+published_in: ["Rechtspraak.nl", "AB 2001, 215 met annotatie van F.C.M.A. Michiels", "BR 2001/181", "AA20010905 met annotatie van Michiels F.C.M.A. Lex"]
 ---
 
 # ECLI:NL:RVS:2001:AB2069 Raad van State , 01-06-2001 / 200002411/1.
