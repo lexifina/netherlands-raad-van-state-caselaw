@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2001:AB2070"
-published_in: ["Rechtspraak.nl", "JM 2001/106"]
+published_in: ["Rechtspraak.nl", "JM 2001/106", "AA20010905 met annotatie van Michiels F.C.M.A. Lex"]
 cites_law: ["netherlands/national/acts/awb/art-03-019.md", "netherlands/national/acts/awb/art-03-044.md", "netherlands/national/acts/awb/art-06-007.md", "netherlands/national/acts/awb/art-06-008.md"]
 ---
 
