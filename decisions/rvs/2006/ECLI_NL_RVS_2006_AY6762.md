@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2006:AY6762"
-published_in: ["Rechtspraak.nl", "AB 2006, 365 met annotatie van A. van Hall", "BR 2006/226 met annotatie van A.G.A. van &apos, t Nijmeijer", "M en R 2006, 96 met annotatie van V.M.Y. van &apos, t Lam", "Gst. 2007, 79 met annotatie van A.M.M.M. Bots", "Milieurecht Totaal 2006/4975", "JOM 2006/1483 met annotatie van R.J.N. S.", "JOM 2007/6", "JB 2006/291 met annotatie van R.J.N. S.", "OGR-Updates.nl 1001264"]
+published_in: ["Rechtspraak.nl", "AB 2006, 365 met annotatie van A. van Hall", "BR 2006/226 met annotatie van A.G.A. Nijmeijer", "M en R 2006, 96 met annotatie van V.M.Y. van 't Lam", "Gst. 2007, 79 met annotatie van A.M.M.M. Bots", "Milieurecht Totaal 2006/4975", "JOM 2006/1483 met annotatie van R.J.N. Schlössels", "JOM 2007/6", "JB 2006/291 met annotatie van R.J.N. Schlössels", "OGR-Updates.nl 1001264", "AA20070241 met annotatie van Uylenburg R. Rosa"]
 cites_law: ["netherlands/national/acts/awb/art-01-002.md"]
 ---
 
