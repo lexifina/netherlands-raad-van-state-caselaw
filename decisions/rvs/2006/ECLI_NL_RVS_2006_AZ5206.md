@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2006:AZ5206"
-published_in: ["Rechtspraak.nl", "AB 2007, 89", "Omgevingsvergunning in de praktijk 2006/3546", "Milieurecht Totaal 2006/5030", "AA20070241 met annotatie van R. Uylenburg", "JM 2007/25 met annotatie van Zigenhorn", "JOM 2007/48", "JB 2007/32 met annotatie van AB", "JB 2007/30 met annotatie van MP", "OGR-Updates.nl 1001297"]
+published_in: ["Rechtspraak.nl", "AB 2007, 89", "Omgevingsvergunning in de praktijk 2006/3546", "Milieurecht Totaal 2006/5030", "AA20070241 met annotatie van Uylenburg R. Rosa", "JM 2007/25 met annotatie van Zigenhorn", "JOM 2007/48", "JB 2007/32 met annotatie van Ada Blok", "JB 2007/30 met annotatie van M. Peeters", "OGR-Updates.nl 1001297"]
 cites_law: ["netherlands/national/acts/awb/art-01-002.md"]
 ---
 
