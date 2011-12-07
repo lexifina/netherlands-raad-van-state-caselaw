@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2011:BU7093"
-published_in: ["Rechtspraak.nl", "BR 2012/27 met annotatie van R.L. de Graaff en W.J. Bosma", "JB 2012/45 met annotatie van J.M.H.F. Teunissen", "JOM 2012/259", "OGR-Updates.nl 2012-0216"]
+published_in: ["Rechtspraak.nl", "BR 2012/27 met annotatie van W.J. Bosma", "JB 2012/45 met annotatie van J.M.H.F. Teunissen", "JOM 2012/259", "OGR-Updates.nl 2012-0216", "Sdu Nieuws Omgevingsrecht 2026/201"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2011:BQ5002, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/awb/art-08-001.md"]
 ---
