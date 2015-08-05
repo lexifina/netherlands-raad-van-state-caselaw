@@ -1,0 +1,183 @@
+---
+ecli: "ECLI:NL:RVS:2015:2498"
+court: "Raad van State"
+court_code: "RVS"
+docket: "201405210/1/A1"
+decided: "2015-08-05"
+published: "2015-08-05"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2015:2498"
+published_in: ["Rechtspraak.nl", "JOM 2016/845"]
+---
+
+# ECLI:NL:RVS:2015:2498 Raad van State , 05-08-2015 / 201405210/1/A1
+
+## Inhoudsindicatie
+
+Bij afzonderlijke besluiten van 17 september 2013 heeft het college [appellant sub1] gelast om binnen 10 jaar de permanente bewoning van hun recreatiewoning op het recreatiepark "Parc Patersven" (hierna: het park) te staken en gestaakt te houden, een en ander onder oplegging van een eenmalige dwangsom van € 25.000,00.
+
+## Uitspraak
+
+201405210/1/A1.
+
+Datum uitspraak: 5 augustus 2015
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak op de hoger beroepen van:
+
+1. [appellant sub 1A] en [appellante sub 1B], wonend te Wernhout, gemeente Zundert (hierna tezamen en in enkelvoud: [appellant sub1]),
+
+2. het college van burgemeester en wethouders van Zundert,
+
+appellanten,
+
+tegen de uitspraak van de rechtbank Zeeland-West-Brabant van 15 mei 2014 in zaken nrs. 13/6236, 13/6237, 13/6304 en 13/6305 in het geding tussen:
+
+[appellant sub1]
+
+[partij]
+
+en
+
+het college.
+
+Procesverloop
+
+Bij afzonderlijke besluiten van 17 september 2013 heeft het college [appellant sub1] gelast om binnen 10 jaar de permanente bewoning van hun recreatiewoning op het recreatiepark "Parc Patersven" (hierna: het park) te staken en gestaakt te houden, een en ander onder oplegging van een eenmalige dwangsom van € 25.000,00.
+
+Bij uitspraak van 15 mei 2014 heeft de rechtbank het door [partij] tegen die besluiten ingestelde beroep gegrond verklaard en die besluiten vernietigd, voor zover daarbij de aan [appellant sub1] gegeven begunstigingstermijn is gesteld op een periode van 10 jaar. De rechtbank heeft zelf in de zaak voorzien en de termijn waarbinnen zij het gebruik van de recreatiewoning anders dan voor verblijfsrecreatie moeten hebben gestaakt gesteld op 6 maanden, te rekenen vanaf de dag van verzending van de uitspraak. Voorts heeft de rechtbank het beroep van [appellant sub1] eveneens gegrond verklaard. Deze uitspraak is aangehecht.
+
+Tegen deze uitspraak hebben [appellant sub1] en het college hoger beroep ingesteld.
+
+Het college en [partij] hebben een verweerschrift ingediend.
+
+De Afdeling heeft de zaak ter zitting behandeld op 31 maart 2015, waar [appellant sub 1A] en [appellante sub 1B], vertegenwoordigd door mr. H.A. Gooskens, en het college, vertegenwoordigd door mr. M. Braspenning-Hereijgers, bijgestaan door mr. T.N. Sanders, advocaat te Breda, zijn verschenen. Voorts is daar [partij], bijgestaan door mr. M.M. Breukers, gehoord.
+
+Overwegingen
+
+1. De besluiten van 17 september 2013 vloeien voort uit een verzoek van [partij] van 8 september 2010 om handhavend op te treden tegen het permanent bewonen van recreatiewoningen op het park. Dit verzoek is door het college bij besluit van 9 november 2010 afgewezen. Bij besluit van 9 augustus 2011 heeft het college het door [partij] daartegen gemaakte bezwaar gegrond verklaard. Dit besluit is door de rechtbank bij uitspraak van 16 december 2011, in zaak nr. 11/4611, vernietigd op grond van de overweging dat geen sprake was van een volledige heroverweging, omdat - zakelijk weergegeven - de gegrondverklaring van de bezwaren en het opstarten van het handhavingstraject ten onrechte losgekoppeld waren.
+
+Het college heeft bij besluit van 1 mei 2012 het bezwaar van [partij] opnieuw gegrond verklaard, het besluit van 9 november 2010 herroepen en aangegeven dat het handhavingstraject binnen de door de gemeenteraad gestelde termijn van twee jaar gestalte zal krijgen. Bij uitspraak van 22 januari 2013, in zaak nr. 12/3085, heeft de rechtbank het door [partij] daartegen ingestelde beroep gegrond verklaard, het besluit van 1 mei 2012 vernietigd en bepaald dat het college, samengevat, handhavingsbeslissingen dient te nemen overeenkomstig het door het college opgestelde "Plan van aanpak herstructurering Parc Patersven". In die uitspraak heeft de rechtbank overwogen dat de te nemen besluiten om al dan niet handhavend op te treden deel uitmaken van de in heroverweging gegeven beslissing op het bezwaar van [partij] tegen het besluit van 9 november 2010, zodat daartegen beroep bij de rechtbank zal open staan.
+
+Bij uitspraak van 5 maart 2014, in zaak nrs. 201302759/1/A1 en 201301347/1/A1, heeft de Afdeling uitspraak gedaan op hoger beroepen tegen de uitspraken van de rechtbank van 16 december 2011 en 22 januari 2013.
+
+Bij de thans aangevallen uitspraak heeft de rechtbank uitspraak gedaan op de beroepen van [appellant sub1] en [partij] tegen de in heroverweging genomen handhavingsbesluiten van 17 september 2013.
+
+2. Het college heeft aan de besluiten van 17 september 2013 ten grondslag gelegd dat het heeft vastgesteld dat de recreatiewoning van [appellant sub1] door hen voor permanente bewoning wordt gebruikt. Het college heeft verder vastgesteld dat [appellant sub1] eigenaar en bewoner is van de betreffende recreatiewoning en dat de bewoning is aangevangen na 31 oktober 2003, maar voor 12 december 2012. Overeenkomstig de "Beleidsregels handhaving gebruik recreatiewoningen Parc Patersven" (hierna: de beleidsregels) heeft het college [appellant sub1] op straffe van een eenmalige dwangsom van € 25.000,00 gelast om binnen 10 jaar de permanente bewoning van de desbetreffende recreatiewoning te staken en gestaakt te houden.
+
+3. Ingevolge het ter plaatse geldende bestemmingsplan "Recreatiecentrum Patersven" rust op de gronden waar het park is gelegen de bestemming "Verblijfsrecreatieve voorzieningen".
+
+Ingevolge artikel 3, lid c, onder I, van de planvoorschriften is het verboden de tot "verblijfsrecreatieve voorzieningen" bestemde gronden en opstallen te gebruiken op een wijze of tot een doel strijdig met deze bestemming.
+
+Ingevolge hetzelfde lid, onder II, sub 2, wordt onder strijdig gebruik als bedoeld onder I ten minste verstaan het gebruik van de grond voor permanent wonen.
+
+Ingevolge artikel 1 wordt onder verblijfsrecreatie verstaan: verblijf buiten de eerste woning - voor recreatieve doeleinden - waarbij ten minste één overnachting wordt gemaakt, met uitzondering van overnachtingen bij familie of kennissen.
+
+4. [appellant sub1] betoogt dat de rechtbank ten onrechte tot het oordeel is gekomen dat hij de recreatiewoning anders dan voor verblijfsrecreatie gebruikt. Volgens hem is dit oordeel van de rechtbank onvoldoende gemotiveerd en had de rechtbank in de door hem gestelde omstandigheid dat hij 6 maanden per jaar in Spanje verblijft, aanleiding moeten zien voor het oordeel dat de recreatiewoning niet zijn hoofdverblijf vormt. Dat hij aldaar in de gemeentelijke basisadministratie wel ingeschreven staat, doet daar volgens [appellant sub1] niet aan af, omdat dit als enige reden heeft dat hij in Nederland nu eenmaal ergens ingeschreven moet staan. [appellant sub1] wijst er verder op dat de rechtbank ten onrechte geen rekening heeft gehouden met de door hem naar voren gebrachte omstandigheid dat volgens de regels in de statuten van de Vereniging van Eigenaren Patersven (hierna: de VvE) de recreatiewoningen in het park gedurende een onafgebroken termijn van 3 maanden mogen worden bewoond, waarna daar gedurende 6 maanden niet ’s nachts verbleven mag worden.
+
+4.1. Niet in geschil is dat [appellant sub1] sinds 2 augustus 2007 in de gemeentelijke basisadministratie (hierna: GBA) van de gemeente Zundert op het adres van de recreatiewoning, [locatie], staat ingeschreven.
+
+Zoals de Afdeling eerder heeft overwogen (uitspraak van 22 december 2010 in zaak nr. 201002053/1/H1), levert inschrijving in de GBA in het algemeen een vermoeden op dat de betrokkene zijn hoofdverblijf heeft op het adres waarop hij is ingeschreven. De rechtbank heeft dan ook terecht geoordeeld dat het college de inschrijving in de GBA tot uitgangspunt heeft kunnen nemen bij de beantwoording van de vraag of [appellant sub1] de recreatiewoning als woning, en derhalve niet voor verblijfsrecreatie in gebruik had. De door [appellant sub1] voor die inschrijving gegeven reden is daarbij niet relevant.
+
+Het hiervoor bedoelde vermoeden heeft [appellant sub1] onvoldoende weerlegd. Dat hij naar gesteld zes maanden per jaar in het buitenland verblijft, leidt niet tot de conclusie dat het gebruik dat [appellant sub1] gedurende de rest van het jaar in Nederland van de recreatiewoning maakt, een recreatief gebruik niet overstijgt. In de periode dat [appellant sub1] in Nederland verblijft, woont hij immers, naar niet in geschil is, in de recreatiewoning. Verder kan, anders dan [appellant sub1] stelt, aan een mogelijk door de VvE in haar statuten opgenomen regeling, geen doorslaggevend belang worden toegekend bij de beoordeling van de vraag of het gebruik dat van een recreatiewoning wordt gemaakt al dan niet in strijd is met het bestemmingsplan.
+
+Het betoog faalt.
+
+5. Niet in geschil is dat de permanente bewoning in strijd is met de ingevolge het ter plaatse geldende bestemmingsplan "Recreatiecentrum Patersven" op de gronden rustende bestemming "Verblijfsrecreatieve voorzieningen". Het college was derhalve bevoegd om handhavend op te treden.
+
+Gelet op het algemeen belang dat gediend is met handhaving, zal in geval van overtreding van een wettelijk voorschrift het bestuursorgaan dat bevoegd is om met een last onder bestuursdwang of dwangsom op te treden, in de regel van deze bevoegdheid gebruik moeten maken. Slechts onder bijzondere omstandigheden mag van het bestuursorgaan worden gevergd, dit niet te doen. Dit kan zich voordoen indien concreet zicht op legalisatie bestaat. Voorts kan handhavend optreden zodanig onevenredig zijn in verhouding tot de daarmee te dienen belangen dat van optreden in die concrete situatie behoort te worden afgezien.
+
+6. [appellant sub1] betoogt voorts dat de rechtbank heeft miskend dat zich bijzondere omstandigheden voordoen die het college hadden moeten doen afzien van handhavend optreden. Hij voert daartoe aan dat het besluit zeer ernstige financiële gevolgen voor hem heeft, omdat hij zijn recreatiewoning heeft gekocht tegen een zeer hoge prijs ten opzichte van de huidige waarde, omdat ten tijde van zijn aankoop nog serieus zicht op legalisering van de bewoning bestond. Deze waardedaling is volgens [appellant sub1] duidelijk zichtbaar in de waardering van de recreatiewoning voor de Wet waardering onroerende zaken, nu die waardering in 2008 nog € 199.000,00, en in 2014 nog slechts € 128.000,00 bedroeg. Daarmee gaat zijn oudedagsvoorziening voor een belangrijk deel verloren, aldus [appellant sub1].
+
+6.1. Zoals de Afdeling reeds heeft overwogen in de uitspraak van 2 juli 2014 (zaak nr. 201311513/1/A1), biedt de omstandigheid dat handhavend optreden mogelijk ernstige financiële gevolgen heeft voor degene, ten laste van wie wordt gehandhaafd, geen grond voor het oordeel dat dit optreden zodanig onevenredig is in verhouding tot de daarmee te dienen belangen, dat het bestuursorgaan daarvan om die reden behoort af te zien. De door [appellant sub1] gestelde omstandigheden hebben de rechtbank dan ook terecht geen grond gegeven voor het oordeel dat het college in dit geval van handhavend optreden behoorde af te zien.
+
+Het betoog faalt.
+
+7. Wat betreft het betoog van [appellant sub1] dat de omstandigheid dat, naar hij stelt, er andere gemeenten in Nederland zijn waar wel permanent op recreatieparken mag worden gewoond en dat dit aanleiding moet zijn voor het oordeel dat de besluiten niet in stand kunnen blijven, wordt overwogen dat het de bevoegdheid van de raad is om voor het eigen grondgebied bestemmingen aan te wijzen en regels te geven die hij uit een oogpunt van goede ruimtelijke ordening nodig acht, waarbij de raad beleidsvrijheid toekomt. Reeds hierom kan het betoog van [appellant sub1] geen doel treffen.
+
+8. Op 20 november 2012 heeft het college de beleidsregels vastgesteld. De beleidsregels zijn bekendgemaakt op 12 december 2012.
+
+Artikel 3 van de beleidsregels heeft betrekking op bewoners die tevens eigenaar zijn van een recreatiewoning en deze recreatiewoning zijn gaan bewonen na 31 oktober 2003 maar voor de datum van de bekendmaking van deze beleidsregels.
+
+Ingevolge artikel 3, eerste lid, wordt met betrekking tot bewoning door bewoners die geen aanspraak kunnen maken op een persoonsgebonden omgevingsvergunning, een handhavingstraject gestart in de zin van een voornemen tot het opleggen van een last onder dwangsom.
+
+Ingevolge het tweede lid krijgt deze groep van bewoners een begunstigingstermijn van 10 jaar.
+
+Ingevolge artikel 5:32a, tweede lid, van de Algemene wet bestuursrecht (hierna: Awb) wordt bij een last onder dwangsom die strekt tot het ongedaan maken van een overtreding of het voorkomen van verdere overtreding, een termijn gesteld gedurende welke de overtreder de last kan uitvoeren zonder dat een dwangsom wordt verbeurd.
+
+9. Het college betoogt dat de rechtbank niet heeft onderkend dat het in redelijkheid een begunstigingstermijn van 10 jaar aan de opgelegde lasten onder dwangsom heeft kunnen verbinden. Daartoe voert het aan dat het bij het stellen van een begunstigingstermijn beschikt over een ruime discretionaire bevoegdheid. Volgens het college heeft het bij het vaststellen van de beleidsregels rekening gehouden met alle relevante belangen. Daartoe voert het college aan dat voor de bewoners die tevens eigenaar zijn van de door hen bewoonde recreatiewoning geldt dat zij zich geconfronteerd zullen zien met lastige economische omstandigheden en een lage marktwaarde van de recreatiewoning, terwijl zij genoodzaakt zijn de recreatiewoning te verkopen alvorens zij een nieuwe woning kunnen betrekken. Het college voert verder aan dat het in redelijkheid onderscheid heeft kunnen maken tussen bewoners die tevens eigenaar van de door hen bewoonde recreatiewoning zijn en bewoners die dit niet zijn, en dat het voor de eerste groep een begunstigingstermijn van 10 jaar heeft kunnen vaststellen.
+
+[appellant sub1] betoogt ten aanzien van de aan hem gegunde begunstigingstermijn dat de rechtbank heeft miskend dat deze te kort is. Volgens hem zou, gelet op de bijzondere omstandigheden op en rond het park Patersven, waarbij legalisatie van de permanente bewoning aan de orde is geweest, een langere termijn dan 10 jaar gegund moeten worden.
+
+De termijn van 6 maanden, zoals zelf voorziend door de rechtbank gegeven, is volgens [appellant sub1] onvoldoende gemotiveerd. Daarbij verwijst hij naar de uitspraak van de voorzitter van de Afdeling van 4 juli 2014 (in zaak nr. 201404828/2/A1).
+
+9.1. Niet in geschil is dat artikel 3 van de beleidsregels van toepassing is op de situatie van [appellant sub1], zodat het college de begunstigingstermijn overeenkomstig artikel 3, tweede lid, van de beleidsregels voor hem heeft bepaald op 10 jaar.
+
+9.2. De rechtbank heeft terecht overwogen dat het college ingevolge artikel 5:32a, tweede lid, van de Awb, verplicht is om de overtreder een termijn te gunnen gedurende welke die de last kan uitvoeren zonder dat een dwangsom wordt verbeurd. Aan het college komt bij het bepalen van de lengte van de begunstigingstermijn enige vrijheid toe. Echter, volgens vaste jurisprudentie van de Afdeling (waaronder de uitspraak van 24 december 2013, in zaak nr. 201302962/1/A1), geldt bij het bepalen van de lengte van de begunstigingstermijn als uitgangspunt dat deze termijn niet wezenlijk langer mag worden gesteld dan noodzakelijk is om de overtreding te kunnen opheffen.
+
+De rechtbank heeft terecht overwogen dat de in artikel 3, tweede lid, van de beleidsregels opgenomen begunstigingstermijn van 10 jaar niet in overeenstemming is met de strekking van artikel 5:32a, tweede lid, van de Awb dat een begunstigingstermijn niet wezenlijk langer mag zijn dan noodzakelijk is om de overtreding te kunnen opheffen. Zij heeft eveneens terecht geen aanleiding gezien voor het oordeel dat objectieve aanknopingspunten bestaan om bewoners, tevens eigenaren van recreatiewoningen, een termijn van 10 jaar te gunnen voor het vinden van vervangende woonruimte. Voor het voldoen aan de last is immers, zoals de Afdeling eerder heeft overwogen (uitspraak van 2 juli 2014, in zaak nr. 201311513/1/A1), niet vereist dat de recreatiewoning wordt verkocht. Voor zover de bewoners aanvoeren dat zij in financiële moeilijkheden raken omdat zij niet de middelen hebben om naast de recreatiewoning alternatieve woonruimte te bekostigen, dient die omstandigheid voor hun rekening en risico te blijven, nu dit het gevolg is van hun keuze een recreatiewoning te kopen ten behoeve van bewoning.
+
+De omstandigheid dat de overtreding reeds lange tijd heeft voortgeduurd, is voorts niet van belang voor de termijn waarbinnen de overtreding kan worden beëindigd. Ook de overige omstandigheden waarop het college in dit verband heeft gewezen, zoals de slechte economische omstandigheden, doen er niet aan af dat de begunstigingstermijn van 10 jaar wezenlijk langer is dan nodig is om de overtreding te kunnen beëindigen.
+
+De rechtbank heeft daarom terecht overwogen dat artikel 3, tweede lid, van de beleidsregels buiten toepassing dient te worden gelaten. Het betoog van [appellant sub1] dat een begunstigingstermijn van 10 jaar te kort is, treft gelet op het voorgaande geen doel.
+
+9.3. Bij eerder vermelde uitspraak van 2 juli 2014 heeft de Afdeling diverse hoger beroepen, gericht tegen de in die uitspraak genoemde uitspraken van de rechtbank Zeeland-West-Brabant van 21 november 2013, ongegrond verklaard. Deze uitspraken van de rechtbank betroffen, evenals de onderhavige procedure, diverse beroepen tegen in heroverweging genomen handhavingsbesluiten, gericht aan andere bewoners, tevens eigenaren van recreatiewoningen op het recreatiepark. De rechtbank heeft in die door de Afdeling bevestigde uitspraken, zelf in de zaak voorziend de begunstigingstermijn vastgesteld op 1 jaar, te rekenen vanaf de dag na verzending van die uitspraak.
+
+De rechtbank heeft in de thans aangevallen uitspraak overwogen dat zij evenals in de uitspraken van de rechtbank Zeeland-West-Brabant van 21 november 2013 zelf in de zaak voorziet, maar dat zij van die uitspraken afwijkt en de aan de last verbonden begunstigingstermijn in plaats van op 1 jaar, vaststelt op 6 maanden na verzending van de uitspraak. Zij heeft daartoe overwogen dat inmiddels een deel van de aangeschreven bewoners de permanente bewoning in het park Patersven heeft beëindigd, zodat het aantal personen dat gelijktijdig op zoek is naar vervangende woonruimte is afgenomen.
+
+9.4. De Afdeling is van oordeel dat aan de beslissing van de rechtbank, om de begunstigingstermijn in de hier aan de orde zijnde zaak op 6 maanden vast te stellen in plaats van op 1 jaar, geen toereikende motivering ten grondslag ligt. De rechtbank heeft op zichzelf terecht vooropgesteld dat als uitgangspunt geldt dat de begunstigingstermijn niet wezenlijk langer mag worden gesteld dan noodzakelijk om de overtreding te kunnen opheffen. Echter, anders dan de rechtbank heeft overwogen, wordt naar het oordeel van de Afdeling het door de rechtbank gemaakte onderscheid in de verschillende gehanteerde begunstigingstermijnen in vergelijkbare situaties, niet gerechtvaardigd door de daartoe door de rechtbank gegeven motivering.
+
+Daargelaten dat uit de aangevallen uitspraak niet blijkt in hoeverre de rechtbank op de hoogte was van concrete aantallen van bewoners die de permanente bewoning van hun recreatiewoning inmiddels hadden gestaakt, overweegt de Afdeling dat gelet op de grootschalige handhavingsactie die het college in het jaar 2013 op het park heeft uitgevoerd, het ervoor moet worden gehouden dat ten tijde van de aangevallen uitspraken nog altijd zeer veel bewoners gelijktijdig moesten voorzien in vervangende woonruimte.
+
+Hetgeen in de eerder genoemde uitspraak van de Afdeling van 2 juli 2014 is overwogen met betrekking tot de ongunstige woningmarkt en de beperkte mogelijkheden van de bewoners om in zo kort mogelijke tijd andere woonruimte in de omgeving te vinden omdat zovelen tegelijk zijn aangeschreven, geldt naar het oordeel van de Afdeling daarom nog onverkort. Het college heeft hierover ter zitting overigens onweersproken verklaard dat veel bewoners, tevens eigenaren van recreatiewoningen die een begunstigingstermijn van 10 jaar is gegeven, nog altijd niet zijn vertrokken uit de recreatiewoningen en dat het vinden van andere woonruimte op de commerciële markt voor hen een moeilijke opgave zal zijn.
+
+De door de rechtbank genoemde gewijzigde omstandigheid vormt dan ook onvoldoende grond om in de onderhavige zaak een begunstigingstermijn van 6 maanden vast te stellen in plaats van 1 jaar.
+
+Concluderend ziet de Afdeling in de onderhavige procedure, nu de hier aan de orde zijnde zaak niet in relevante zin verschilt van de zaken waarop de uitspraak van de Afdeling van 2 juli 2014 ziet, geen aanleiding voor een ander oordeel dan in die uitspraak gegeven. Onder verwijzing naar die uitspraak, overweegt de Afdeling dan ook dat een begunstigingstermijn van 1 jaar, te rekenen vanaf de dag van verzending van de uitspraak van de rechtbank, redelijk is.
+
+De betogen slagen.
+
+10. De hoger beroepen zijn gegrond. Gelet op hetgeen hiervoor onder 9.4 is overwogen, dient de aangevallen uitspraak te worden vernietigd, voor zover de rechtbank de aan de lasten onder dwangsom verbonden begunstigingstermijnen heeft vastgesteld op 6 maanden na de dag van verzending van de uitspraken.
+
+De Afdeling zal op na te melden wijze in de zaak voorzien. Zoals hiervoor is overwogen, is een begunstigingstermijn van 1 jaar, gerekend vanaf de dag van verzending van de uitspraak van de rechtbank, redelijk.
+
+Echter, nu die termijn is verstreken bij het doen van deze uitspraak, ziet de Afdeling aanleiding om zelf voorziend een termijn waarbinnen [appellant sub1] het gebruik van de recreatiewoning anders dan voor verblijfsrecreatie moet hebben gestaakt vast te stellen. Deze termijn stelt de Afdeling vast op 6 maanden, gerekend vanaf de dag van verzending van deze uitspraak. Daarbij is acht geslagen op de uitspraak van de voorzitter van de Afdeling van 24 juli 2014 (in zaak nr. 201405033/2/A1). De Afdeling acht die termijn ook in deze situatie redelijk, in aanmerking genomen dat sinds die uitspraak van de voorzitter de begunstigingstermijn voor [appellant sub1] reeds geschorst is geweest.
+
+De Afdeling zal bepalen dat deze uitspraak in zoverre in de plaats treedt van de besluiten, voor zover vernietigd, en zal de aangevallen uitspraak voor het overige bevestigen.
+
+11. Het college dient op na te melden wijze tot vergoeding van de proceskosten te worden veroordeeld. Wat betreft de proceskosten van [partij] is het college in de uitspraak van heden met zaken nrs. 201405212/1/A1 tot en met 201405855/1/A1 reeds op de voet van artikel 8:75, eerste lid van de Awb, gelezen in verbinding met de artikelen 1 en 3, van het Besluit proceskosten bestuursrecht (hierna: Bpb) veroordeeld tot vergoeding van die kosten. De hier aan de orde zijnde zaak is eveneens een met die zaken samenhangende zaak als bedoeld in artikel 3, tweede lid van het Bpb, waarvoor door [partij] geen afzonderlijke stukken zijn ingediend en die gelijktijdig met de andere zaken ter zitting is behandeld. Ten aanzien van [partij] bestaat dan ook geen aanleiding om opnieuw een proceskostenveroordeling uit te spreken.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+I. verklaart de hoger beroepen gegrond;
+
+II. vernietigt de uitspraak van de rechtbank Zeeland-West-Brabant van 15 mei 2014 in zaken nrs. 13/6236, 13/6237, 13/6304 en 13/6305, voor zover de rechtbank de aan de lasten onder dwangsom verbonden begunstigingstermijnen in die uitspraak heeft vastgesteld op 6 maanden na de dag van verzending van de uitspraak;
+
+III. bepaalt dat de termijn waarbinnen [appellant sub 1A] en [appellante sub 1B] het gebruik van de recreatiewoning anders dan voor verblijfsrecreatie moeten hebben gestaakt, wordt vastgesteld op 6 maanden na de dag van verzending van deze uitspraak;
+
+IV. bepaalt dat deze uitspraak in zoverre in de plaats treedt van de bestreden besluiten, voor zover deze zijn vernietigd;
+
+V. bevestigt de aangevallen uitspraak voor het overige;
+
+VI. veroordeelt het college van burgemeester en wethouders van Zundert tot vergoeding van bij [appellant sub 1A] en [appellante sub 1B] in verband met de behandeling van het hoger beroep opgekomen proceskosten tot een bedrag van € 980,00 (zegge: negenhonderdtachtig euro), geheel toe te rekenen aan door een derde beroepsmatig verleende rechtsbijstand;
+
+VII. gelast dat het college van burgemeester en wethouders van Zundert aan [appellant sub 1A] en [appellante sub 1B] het door hen betaalde griffierecht ten bedrage van € 246,00 (zegge: tweehonderdzesenveertig euro) voor de behandeling van het hoger beroep vergoedt.
+
+Aldus vastgesteld door mr. P.B.M.J. van der Beek-Gillessen, voorzitter, en mr. J.A.W. Scholten-Hinloopen en mr. G.M.H. Hoogvliet, leden, in tegenwoordigheid van mr. D.L. Bolleboom, griffier.
+
+w.g. Van der Beek-Gillessen
+
+voorzitter
+
+De griffier is verhinderd de uitspraak te ondertekenen.
+
+Uitgesproken in het openbaar op 5 augustus 2015
+
+641.
