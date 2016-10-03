@@ -1,0 +1,39 @@
+---
+ecli: "ECLI:NL:RVS:2016:2844"
+court: "Raad van State"
+court_code: "RVS"
+docket: "201507764/1/A3"
+decided: "2016-10-03"
+published: "2016-10-26"
+type: "uitspraak"
+procedure: "Mondelinge uitspraak"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2016:2844"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RVS:2016:2844 Raad van State , 03-10-2016 / 201507764/1/A3
+
+## Inhoudsindicatie
+
+De Afdeling is van oordeel dat in deze zaak sprake is van aan [appellante] toe te rekenen misbruik door haar [gemachtigde] van de wettelijke bevoegdheid om een verzoek op grond van de Wet openbaarheid van bestuur (hierna: de Wob) in te dienen en hoger beroep in te stellen.
+
+## Uitspraak
+
+201507764/1/A3.
+
+Datum uitspraak: 3 oktober 2016 AFDELING
+
+BESTUURSRECHTSPRAAK PROCES-VERBAAL van de mondelinge uitspraak (artikel 8:67 van de Algemene wet bestuursrecht) op het hoger beroep van: [appellante], wonend te [woonplaats], tegen de uitspraak van de rechtbank Gelderland van 10 september 2015 in zaak nr. 15/410 in het geding tussen: [appellante] en de minister van Veiligheid en Justitie. Openbare zitting gehouden op 3 oktober 2016. Tegenwoordig:
+
+Staatsraad mr. C.J. Borman voorzitter
+
+Staatsraad mr. B.P. Vermeulen lid
+
+Staatsraad mr. A.B.M. Hent rapporteur griffier: mr. T. Hartsuiker Verschenen:
+
+De minister, vertegenwoordigd door mr. J. Jansen en mr. H.O. Nieuwpoort, beiden werkzaam bij de Centrale Verwerking Openbaar Ministerie (hierna: de CVOM). Het hoger beroep richt zich tegen de uitspraak van de rechtbank van 10 september 2015. De Afdeling
+
+verklaart het hoger beroep niet-ontvankelijk. Daartoe overweegt zij het volgende. De minister heeft in zijn nader verweerschrift van 22 september 2016 aangevoerd dat in deze zaak sprake is van misbruik van recht. De Afdeling is van oordeel dat in deze zaak sprake is van aan [appellante] toe te rekenen misbruik door haar [gemachtigde] van de wettelijke bevoegdheid om een verzoek op grond van de Wet openbaarheid van bestuur (hierna: de Wob) in te dienen en hoger beroep in te stellen. Dit oordeel is op de volgende feiten en omstandigheden gebaseerd: - de Afdeling heeft in een groot aantal uitspraken (onder meer de uitspraken van 19 november 2014, ECLI:NL:RVS:2014:4129, 5 augustus 2015, ECLI:NL:RVS:2015:2446, 27 januari 2016, ECLI:NL:RVS:2016:157, 26 april 2016, ECLI:NL:RVS:2016:1102, 8 juni 2016, ECLI:NL:RVS:2016:1585, 6 juli 2016, ECLI:NL:RVS:2016:1885 en ECLI:NL:RVS:2016:1884, 13 juli 2016, ECLI:NL:RVS:2016:1950 en ECLI:NL:RVS:2016:1957, en 24 augustus 2016, ECLI:NL:RVS:2016:2312) ten aanzien van soortgelijke Wob-procedures als in deze zaak waarbij [gemachtigde] is betrokken, geoordeeld dat misbruik is gemaakt van de bevoegdheid om een Wob-verzoek in te dienen en een rechtsmiddel in te stellen. Dat [gemachtigde] dit misbruik veelvuldig maakt, wordt bevestigd door het in het nader verweerschrift van de minister genoemde bedrag van € 309.318,00 dat [gemachtigde] in de periode van 2012 tot en met 2015 aan dwangsommen en proceskostenvergoedingen heeft ontvangen in verband met, zoals het verzoek in deze zaak, bij de CVOM ingediende Wob-verzoeken; - [gemachtigde] voert als rechtsbijstandverlener veel procedures over Wob-verzoeken, waarbij hij veelvuldig gebruik maakt van zeer algemeen geformuleerde machtigingen, zoals hij ook in deze zaak heeft gedaan; - het doel van het Wob-verzoek en de reikwijdte ervan zijn onduidelijk; in het verzoek wordt gevraagd om "de verzendadministratie van het cluster Wob over de periode 1 oktober 2014 t/m 6 oktober 2014"; zoals de minister ter zitting te kennen heeft gegeven, heeft hij [gemachtigde] bij brief van 15 oktober 2014 gevraagd zijn verzoek te verduidelijken, bijvoorbeeld door een bepaald besluit te noemen waarvan hij de verzendadministratie wil verkrijgen, maar heeft [gemachtigde] in zijn reactie op deze vraag van de minister geen verduidelijking gegeven, maar slechts naar het Wob-verzoek verwezen; - [appellante] is eigenaar en directeur van een juridisch adviesbureau waarvoor [persoon] als rechtsbijstandverlener werkzaam is. Beiden hebben ruime ervaring met procedures over Wob-verzoeken. Dit wordt bevestigd door de mededeling van de minister ter zitting dat [appellante] in de periode van 2012 tot en met 2015 112 Wob-verzoeken bij de CVOM heeft ingediend. In plaats van het Wob-verzoek in deze zaak zelf in te dienen en zelf te procederen, of zich door [persoon] te laten bijstaan, heeft [appellante] ervoor gekozen om [gemachtigde] in te schakelen; - in bezwaar en beroep is [gemachtigde] gevraagd om een specifiekere machtiging over te leggen, hetgeen hij niet heeft gedaan. Hij noch [appellante] is voorts ter zitting van de rechtbank verschenen. Eerst in hoger beroep heeft [gemachtigde] een brief van [appellante] overgelegd waarin duidelijkheid wordt verschaft over het punt waarover in bezwaar en beroep twijfel bestond. Deze manier van procederen is kennelijk gericht op het incasseren van proceskostenvergoedingen. w.g. Borman w.g. Hartsuiker
+
+voorzitter griffier 620.
