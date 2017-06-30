@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2017:1674"
-published_in: ["Rechtspraak.nl", "ABKort 2017/205", "NJB 2017/1539", "RSV 2017/152 met annotatie van W.A. Faas", "RZA 2018/3", "AB 2017/365 met annotatie van L.M. Koenraad en A.M.L. Jansen", "AA20170723 met annotatie van K.J. de Graaf, A.T. Marseille", "JV 2017/182", "GZR-Updates.nl 2017-0302 met annotatie van E.E. Schaake"]
+published_in: ["Rechtspraak.nl", "ABKort 2017/205", "NJB 2017/1539", "RSV 2017/152 met annotatie van W.A. Faas", "RZA 2018/3", "AB 2017/365 met annotatie van A.M.L. Jansen, L.M. Koenraad", "AA20170723 met annotatie van Graaf de K.J. Kars, Marseille A.T. Bert", "JV 2017/182", "GZR-Updates.nl 2017-0302 met annotatie van E.E. Schaake"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2016:14921, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/awb/art-03-002.md", "netherlands/national/acts/awb/art-08-047.md", "netherlands/national/acts/awb/art-08-069.md", "netherlands/national/acts/vreemdelingenwet-2000/art-064.md"]
 ---
