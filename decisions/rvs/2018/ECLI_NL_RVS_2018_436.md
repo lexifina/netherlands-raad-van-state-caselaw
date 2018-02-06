@@ -1,0 +1,81 @@
+---
+ecli: "ECLI:NL:RVS:2018:436"
+court: "Raad van State"
+court_code: "RVS"
+docket: "201800027/1/V2"
+decided: "2018-02-06"
+published: "2018-02-07"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2018:436"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RVS:2018:436 Raad van State , 06-02-2018 / 201800027/1/V2
+
+## Inhoudsindicatie
+
+Bij besluit van 19 mei 2017 heeft de staatssecretaris een aanvraag van de vreemdeling om hem een verblijfsvergunning asiel voor bepaalde tijd te verlenen, afgewezen.
+
+## Uitspraak
+
+201800027/1/V2.
+
+Datum uitspraak: 6 februari 2018
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak met toepassing van artikel 8:54, eerste lid, van de Algemene wet bestuursrecht (hierna: de Awb) op het hoger beroep van:
+
+[de vreemdeling],
+
+appellant,
+
+tegen de uitspraak van de rechtbank Den Haag, zittingsplaats Middelburg, van 5 december 2017 in zaak nr. NL17.2595 in het geding tussen:
+
+de vreemdeling
+
+en
+
+de staatssecretaris van Justitie en Veiligheid.
+
+Procesverloop
+
+Bij besluit van 19 mei 2017 heeft de staatssecretaris een aanvraag van de vreemdeling om hem een verblijfsvergunning asiel voor bepaalde tijd te verlenen, afgewezen.
+
+Bij uitspraak van 5 december 2017 heeft de rechtbank het daartegen door de vreemdeling ingestelde beroep ongegrond verklaard.
+
+Tegen deze uitspraak heeft de vreemdeling, vertegenwoordigd door mr. A.I. Engelsman, advocaat te Dordrecht, hoger beroep ingesteld.
+
+De vreemdeling heeft een nader stuk ingediend.
+
+De vreemdeling is in de gelegenheid gesteld zich nader uit te laten.
+
+Vervolgens is het onderzoek gesloten.
+
+Overwegingen
+
+1.    De aangevallen uitspraak is verzonden of digitaal ter beschikking gesteld op 6 december 2017. Het hogerberoepschrift is op 29 december 2017, derhalve na het einde van de in artikel 69, tweede lid, van de Vreemdelingenwet 2000 genoemde termijn van een week, bij faxbericht verzonden en bij de Raad van State ingekomen. De vreemdeling heeft het hogerberoepschrift derhalve niet tijdig ingediend. De vreemdeling heeft geen feiten of omstandigheden gesteld in verband waarmee redelijkerwijs niet kan worden geoordeeld dat de vreemdeling in verzuim is geweest.
+
+2.    Het hoger beroep is kennelijk niet-ontvankelijk.
+
+3.    Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+verklaart het hoger beroep niet-ontvankelijk.
+
+Aldus vastgesteld door mr. N. Verheij, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. E.R. Fernandez, griffier.
+
+w.g. Verheij    w.g. Fernandez
+
+lid van de enkelvoudige kamer    griffier
+
+Uitgesproken in het openbaar op 6 februari 2018
+
+753.
