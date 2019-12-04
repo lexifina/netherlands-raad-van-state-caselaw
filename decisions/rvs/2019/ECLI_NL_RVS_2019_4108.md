@@ -8,7 +8,7 @@ published: "2019-12-05"
 type: "uitspraak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2019:4108"
-published_in: ["Rechtspraak.nl", "JM 2020/34 met annotatie van Vries, H.S. de"]
+published_in: ["Rechtspraak.nl", "JM 2020/34 met annotatie van mr. H.S. de Vries"]
 ---
 
 # ECLI:NL:RVS:2019:4108 Raad van State , 04-12-2019 / 201908048/3/A1
