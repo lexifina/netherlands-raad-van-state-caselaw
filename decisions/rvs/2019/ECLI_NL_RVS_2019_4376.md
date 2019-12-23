@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2019:4376"
-published_in: ["Rechtspraak.nl", "JBO 2020/35 met annotatie van Meijden, D. van der", "JM 2020/35 met annotatie van Vries, H.S. de"]
+published_in: ["Rechtspraak.nl", "JBO 2020/35 met annotatie van Meijden, D. van der", "JM 2020/35 met annotatie van mr. H.S. de Vries"]
 ---
 
 # ECLI:NL:RVS:2019:4376 Raad van State , 23-12-2019 / 201908048/2/A1
