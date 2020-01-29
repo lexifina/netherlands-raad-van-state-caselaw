@@ -1,0 +1,138 @@
+---
+ecli: "ECLI:NL:RVS:2020:279"
+court: "Raad van State"
+court_code: "RVS"
+docket: "201900826/1/A2"
+decided: "2020-01-29"
+published: "2020-01-29"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2020:279"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2018:7043, Bekrachtiging/bevestiging"]]
+---
+
+# ECLI:NL:RVS:2020:279 Raad van State , 29-01-2020 / 201900826/1/A2
+
+## Inhoudsindicatie
+
+Bij besluit van 11 oktober 2017 heeft het college van burgemeester en wethouders van Tilburg een aanvraag van [appellante] om een tegemoetkoming in planschade afgewezen. Bij brief van 14 april 2016 heeft [appellante] het college verzocht om een tegemoetkoming in de planschade die zij heeft geleden als gevolg van de inwerkingtreding van het nieuwe bestemmingsplan. Aan deze aanvraag heeft zij ten grondslag gelegd dat het nieuwe bestemmingsplan voorziet in het realiseren van een nieuwbouwwijk in een dichtbij de woning gelegen agrarisch gebied en dat dit tot waardevermindering van de woning heeft geleid.
+
+## Uitspraak
+
+201900826/1/A2.
+
+Datum uitspraak: 29 januari 2020
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak op het hoger beroep van:
+
+[appellante], wonend te Udenhout, gemeente Tilburg,
+
+tegen de uitspraak van de rechtbank Zeeland-West-Brabant van 20 december 2018 in zaak nr. 18/3204 in het geding tussen:
+
+[appellante]
+
+en
+
+het college van burgemeester en wethouders van Tilburg.
+
+Procesverloop
+
+Bij besluit van 11 oktober 2017 heeft het college een aanvraag van [appellante] om een tegemoetkoming in planschade afgewezen.
+
+Bij besluit van 27 maart 2018 heeft het college het door [appellante] daartegen gemaakte bezwaar ongegrond verklaard.
+
+Bij uitspraak van 20 december 2018 heeft de rechtbank het door [appellante] daartegen ingestelde beroep ongegrond verklaard. Deze uitspraak is aangehecht.
+
+Tegen deze uitspraak heeft [appellante] hoger beroep ingesteld.
+
+Het college heeft een schriftelijke uiteenzetting gegeven.
+
+[belanghebbende A] en [belanghebbende B] (hierna gezamenlijk en in enkelvoud: [belanghebbende]) hebben eveneens een schriftelijke uiteenzetting gegeven.
+
+De Afdeling heeft de zaak ter zitting behandeld op 26 november 2019, waar [appellante], vertegenwoordigd door mr. P.J.G. Poels, advocaat te Nijmegen, en het college, vertegenwoordigd door mr. J.A.C.J.M. Willemse, zijn verschenen. Voorts is [belanghebbende], vertegenwoordigd door mr. C.G.J.M. Termaat, advocaat te 's-Hertogenbosch, en [gemachtigde], ter zitting gehoord. Van de zijde van het college is mr. drs. C.M.L. van der Lee, werkzaam bij de Stichting Adviesbureau Onroerende Zaken (hierna: de SAOZ), als deskundige gehoord.
+
+Overwegingen
+
+1.    [appellante] is eigenares van de woning aan de [locatie] te Udenhout (hierna: de onroerende zaak). Zij heeft de woning op 3 oktober 1974 (hierna: de peildatum) gekocht.
+
+Aanvraag om tegemoetkoming in planschade
+
+2.    Bij brief van 14 april 2016 heeft [appellante] het college verzocht om een tegemoetkoming in de planschade die zij heeft geleden als gevolg van de inwerkingtreding van het bij raadsbesluit van 17 februari 2014 vastgestelde bestemmingsplan [belanghebbende] (hierna: het nieuwe bestemmingsplan). Aan deze aanvraag heeft zij ten grondslag gelegd dat het nieuwe bestemmingsplan voorziet in het realiseren van een nieuwbouwwijk in een dichtbij de woning gelegen agrarisch gebied (hierna: het plangebied) en dat dit tot waardevermindering van de woning heeft geleid.
+
+3.    [belanghebbende] heeft met de gemeente een overeenkomst als bedoeld in artikel 6.4a van de Wet ruimtelijke ordening gesloten. Daarbij heeft zij zich verbonden om eventuele door het college toe te kennen tegemoetkomingen in planschade als gevolg van de inwerkingtreding van het nieuwe bestemmingsplan voor haar rekening te nemen.
+
+Standpunt van het college
+
+4.    Aan de in bezwaar gehandhaafde afwijzing van de aanvraag heeft het college ten grondslag gelegd dat [appellante] het risico van de planologische ontwikkeling ten tijde van de aankoop van de onroerende zaak heeft aanvaard en dat de schade daarom voor haar rekening wordt gelaten. Uit het Structuurplan Stadsgewest Tilburg van 26 augustus 1974 (hierna: het structuurplan) blijkt van een concreet beleidsvoornemen tot woningbouw in het plangebied. De planologische ontwikkeling in het plangebied was vanaf de terinzagelegging van het ontwerp van het structuurplan op 20 juni 1974 voor een redelijk denkend en handelend koper voorzienbaar.
+
+Oordeel van de rechtbank
+
+5.    Volgens de rechtbank heeft het college zich terecht op het standpunt gesteld dat de als gevolg van de inwerkingtreding van het nieuwe bestemmingsplan door [appellante] geleden schade, bestaande uit een waardevermindering van de onroerende zaak, op de peildatum voorzienbaar was.
+
+Hoger beroep
+
+6.    [appellante] is het niet eens met het oordeel van de rechtbank. Zij stelt zich op het standpunt dat de rechtbank de betekenis van het deskundigenadvies en de planschaderisicoanalyse heeft miskend en dat de rechtbank ten onrechte tot de conclusie is gekomen dat er op de peildatum een concreet beleidsvoornemen tot woningbouw in het plangebied was bekendgemaakt. De Afdeling zal de hogerberoepsgronden hierna bespreken.
+
+deskundigenadvies
+
+7.    [appellante] betoogt dat de SAOZ in eerste instantie tot de conclusie is gekomen dat de schade niet voorzienbaar was en dat dit op zichzelf al met zich brengt dat er voor een redelijk denkend en handelend koper geen aanleiding heeft kunnen bestaan om rekening te houden met de planologische ontwikkeling in het plangebied.
+
+7.1.    Voor het geven van antwoord op de vraag of de schade ten tijde van de aankoop van de desbetreffende onroerende zaak voor de aanvrager voorzienbaar was, is in beginsel geen specialistische kennis of ervaring vereist, waarover slechts een deskundige beschikt. Dat is in dit geval niet anders. Aan de advisering door de SAOZ komt dan ook geen bijzondere betekenis toe bij het geven van antwoord op de eerder vermelde vraag. Daarnaast heeft de SAOZ in eerste instantie niet zelf onderzoek gedaan, maar heeft zij advies gegeven op basis van door de gemeente verstrekte (onvolledige) gegevens. Dat de SAOZ vervolgens tot de conclusie is gekomen dat de planologische ontwikkeling in het plangebied ten tijde van de peildatum niet was te verwachten, brengt niet met zich dat een redelijk denkend en handelend koper, na onderzoek, destijds tot dezelfde conclusie zou zijn gekomen.
+
+Het betoog faalt.
+
+planschaderisicoanalyse
+
+8.    [appellante] betoogt voorts dat, gezien de planschaderisicoanalyse, bij de totstandkoming en vaststelling van het nieuwe bestemmingsplan rekening is gehouden met een substantiële schade, zodat het college, dat beoordelingsruimte heeft bij het beoordelen van de voorzienbaarheid van een planologische verandering, deze beoordelingsruimte in redelijkheid in het voordeel van de gedupeerden hoort aan te wenden.
+
+8.1.    Dat vooraf duidelijk was, gezien de planschaderisicoanalyse, dat de inwerkingtreding van het nieuwe bestemmingsplan tot substantiële schade bij eigenaren van in de buurt van het plangebied gelegen woningen zou kunnen leiden, brengt niet met zich dat het college zich niet in redelijkheid op het standpunt kan stellen dat geen aanleiding bestaat voor het toekennen van een tegemoetkoming in die schade, indien die schade voor die eigenaren ten tijde van de aankoop van die woningen voorzienbaar was.
+
+Het betoog faalt.
+
+structuurplan
+
+9.    [appellante] betoogt verder dat de rechtbank heeft miskend dat de contouren en begrenzingen van het plangebied op de bij het structuurplan behorende kaart niet volstrekt duidelijk zijn, dat met de publicaties in de Staatscourant en in twee regionale abonneekranten niet was gewaarborgd dat een ieder van het beleidsvoornemen kennis kon nemen en dat uit de publicaties niet valt af te leiden wat de zakelijke inhoud van het beleidsvoornemen is, zodat zij uit de publicaties niet heeft kunnen begrijpen dat het beleidsvoornemen ook op woningbouw in het plangebied betrekking had.
+
+9.1.    De bij het structuurplan behorende kaart heeft een grofmazig karakter. Dat neemt echter niet weg dat, ondanks de gebruikte schaal en het ontbreken van plaatsaanduidingen en gebiedsomschrijvingen, uit de kaart valt af te leiden dat het plangebied is gelegen binnen de grenzen van een op de kaart oranjebruin gekleurde locatie met een uitbreidingsmogelijkheid voor woningbouw. Uit de kaart blijkt van een concreet beleidsvoornemen tot woningbouw op die locatie. Dat de planologische invulling van dat beleidsvoornemen niet vaststond, laat onverlet dat een redelijk denkend en handelend koper rekening zou houden met de kans dat de planologische situatie in het plangebied in ongunstige zin zou veranderen, omdat die locatie was aangewezen als uitbreidingsmogelijkheid voor woningbouw.
+
+Dat, zoals [appellante] ter zitting van de Afdeling heeft gesteld, het college geen kopie van de kaart heeft overgelegd en bij de besluitvorming slechts een fragment van de kaart heeft gebruikt, leidt niet tot een ander oordeel. De informatie uit dat fragment wordt bevestigd in de partiële herziening van het Streekplan Midden- en Oost-Brabant op 13 februari 1987. In de partiële herziening is op bladzijde 68 verwezen naar het structuurplan en op bladzijde 69 door middel van een kaart weergegeven welke betekenis het structuurplan heeft. Het plangebied is ook op die kaart als een toekomstig woongebied aangeduid.
+
+9.2.    In artikel 8, gelezen in verbinding met artikel 23 van de Wet op de Ruimtelijke Ordening, zoals die bepalingen ten tijde van de peildatum luidden, is bepaald dat de burgemeester de terinzagelegging van een ontwerp van een structuurplan bekend maakt in de Staatscourant, in één-of-meer dag- of nieuwsbladen die in de gemeente verspreid worden en voorts op de gebruikelijke wijze.
+
+Niet in geschil is dat de kennisgeving van het ontwerp van het structuurplan op de in deze bepalingen voorgeschreven wijze heeft plaatsgevonden. Van een redelijk denkend en handelend koper wordt, gelet op deze bepalingen, verwacht dat hij in ieder geval onderzoek in de Staatscourant had gedaan.
+
+De kennisgeving van het ontwerp van het structuurplan is in de Staatscourant van 19 juni 1974 gepubliceerd. In het bericht is vermeld dat het ontwerp het gebied van de vijftien bij het Stadsgewest Tilburg aangesloten gemeenten, waaronder Udenhout, omvat. Uit het bericht valt af te leiden dat het ontwerp ook op het plangebied betrekking had.
+
+Van een redelijk denkend en handelend koper wordt verwacht dat hij het ontwerp, dat volgens het bericht gedurende een maand ter inzage wordt gelegd bij - onder meer - de bij het Stadsgewest Tilburg aangesloten gemeenten, zou raadplegen. In dat geval had hij kennis genomen van het beleidsvoornemen met betrekking tot het plangebied. Dit betekent derhalve dat de planologische verandering op de peildatum voorzienbaar was.
+
+9.3.    In het betoog van [appellante] is, gelet op het voorgaande, geen grond te vinden voor het oordeel dat de rechtbank ten onrechte heeft overwogen dat het college de aanvraag om tegemoetkoming in planschade terecht heeft afgewezen. Het betoog faalt.
+
+Conclusie
+
+10.    Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd.
+
+Proceskosten
+
+11.    Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+bevestigt de aangevallen uitspraak.
+
+Aldus vastgesteld door mr. J.A.W. Scholten-Hinloopen, voorzitter, en mr. J.E.M. Polak en mr. A. ten Veen, leden, in tegenwoordigheid van mr. R.J.R. Hazen, griffier.
+
+w.g. Scholten-Hinloopen    w.g. Hazen
+
+voorzitter    griffier
+
+Uitgesproken in het openbaar op 29 januari 2020
+
+452.
