@@ -1,0 +1,138 @@
+---
+ecli: "ECLI:NL:RVS:2020:358"
+court: "Raad van State"
+court_code: "RVS"
+docket: "201904909/1/A2"
+decided: "2020-02-05"
+published: "2020-02-05"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2020:358"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2019:2841, Bekrachtiging/bevestiging"]]
+---
+
+# ECLI:NL:RVS:2020:358 Raad van State , 05-02-2020 / 201904909/1/A2
+
+## Inhoudsindicatie
+
+Bij besluit van 10 mei 2018 heeft de raad voor rechtsbijstand een aanvraag van [appellante] om een toevoeging, afgewezen.
+
+## Uitspraak
+
+201904909/1/A2.
+
+Datum uitspraak: 5 februari 2020
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak op het hoger beroep van:
+
+[appellante], wonend te [woonplaats],
+
+tegen de uitspraak van de rechtbank Oost-Brabant van 17 mei 2019 in zaak nr. 18/2345 in het geding tussen:
+
+[appellante]
+
+en
+
+het bestuur van de raad voor rechtsbijstand (hierna: de raad).
+
+Procesverloop
+
+Bij besluit van 10 mei 2018 heeft de raad een aanvraag van [appellante] om een toevoeging, afgewezen.
+
+Bij besluit van 22 augustus 2018 heeft de raad het door [appellante] daartegen gemaakte bezwaar ongegrond verklaard.
+
+Bij uitspraak van 17 mei 2019 heeft de rechtbank het door [appellante] daartegen ingestelde beroep ongegrond verklaard. Deze uitspraak is aangehecht.
+
+Tegen deze uitspraak heeft [appellante] hoger beroep ingesteld.
+
+De raad heeft een schriftelijke uiteenzetting gegeven.
+
+[appellante] heeft een nader stuk ingediend.
+
+De Afdeling heeft de zaak ter zitting behandeld op 14 januari 2020, waar de raad, vertegenwoordigd door mr. M. Doets, is verschenen.
+
+Overwegingen
+
+Inleiding
+
+1.    [appellante] heeft in Nederland een asielaanvraag ingediend. Deze aanvraag is behandeld in de zogenoemde algemene asielprocedure. De gemachtigde van [appellante] heeft voor het verlenen van rechtsbijstand in die procedure een toevoeging gekregen met het [kenmerk]. De asielaanvraag is afgewezen, het beroep tegen het asielbesluit is gegrond verklaard en dat besluit is vernietigd. Hierna is de asielaanvraag behandeld in de zogenoemde verlengde asielprocedure. [appellante] heeft voor de rechtsbijstand in deze procedure een toevoeging aangevraagd.
+
+Besluitvorming
+
+2.    Bij besluit van 10 mei 2018, gehandhaafd bij het besluit van 22 augustus 2018, heeft de raad de aanvraag afgewezen. De raad heeft hieraan ten grondslag gelegd dat de te verrichten werkzaamheden vallen onder de toevoeging met het [kenmerk]. Volgens de raad zijn de werkzaamheden in het kader van de behandeling van de algemene asielprocedure dezelfde als de werkzaamheden die worden verricht in het kader van de verlengde asielprocedure. Het betreft de behandeling van dezelfde asielaanvraag en er is sprake van hetzelfde rechtsbelang, namelijk het verkrijgen van een verblijfsvergunning.
+
+Aangevallen uitspraak
+
+3.    De rechtbank heeft overwogen dat de raad zich terecht op het standpunt heeft gesteld dat het rechtsbelang waarop de aanvraag om toevoeging betrekking heeft, hetzelfde rechtsbelang is waarvoor aan [appellante] eerder een toevoeging is verleend. Beide toevoegingen zijn immers aangevraagd met als doel het verkrijgen van een verblijfsvergunning asiel. Daarnaast zien beide aanvragen om toevoeging op het voeren van een bezwaarprocedure en is de behandeling in bezwaar aan te merken als een behandeling in één instantie als bedoeld in artikel 32 van de Wet op de rechtsbijstand (hierna: Wrb). Gelet hierop en gelet op de uitspraak van de Afdeling van 28 september 2011, ECLI:NL:RVS:2011:BT2808, is de rechtbank van oordeel dat de raad terecht en op goede gronden de aanvraag heeft afgewezen.
+
+Wettelijk kader
+
+4.    Het wettelijk kader is opgenomen in de bijlage. De bijlage maakt onderdeel uit van deze uitspraak.
+
+Hoger beroep en beoordeling ervan
+
+5.    [appellante] betoogt dat de rechtbank ten onrechte heeft overwogen dat de raad zich terecht op het standpunt heeft gesteld dat het rechtsbelang waarop de aanvraag om toevoeging betrekking heeft, hetzelfde rechtsbelang is waarvoor aan haar eerder een toevoeging is verleend. Volgens [appellante] stelt de rechtbank ten onrechte het doel zonder meer gelijk aan het rechtsbelang. Het doel is inderdaad de verkrijging van een verblijfsvergunning asiel. Het rechtsbelang is de rechtsbijstand in een procedure waarin de Immigratie- en Naturalisatiedienst (IND) de aanvraag om verlening van een verblijfsvergunning asiel van [appellante] beoordeelt. Het gaat om bijstand door een gespecialiseerde rechtshulpverlener in een procedure waarin een overheidsorgaan de wederpartij is, waarin er op toegezien moet worden dat [appellante] een eerlijk proces krijgt.
+
+5.1.    Zoals de Afdeling eerder heeft overwogen (onder meer in de uitspraken van 8 januari 2020, ECLI:NL:RVS:2020:26, en 10 september 2014, ECLI:NL:RVS:2014:3343) moeten, gelet op de tekst van artikel 28, eerste lid, aanhef en onder b, en artikel 32 van de Wrb, in onderlinge samenhang bezien, in geval van verschillende rechtsbelangen waarvoor rechtsbijstand wordt gevraagd, in beginsel meer toevoegingen worden verstrekt. Als er één rechtsbelang is, kan met één toevoeging worden volstaan, tenzij sprake is van behandeling van een procedure in meer dan één instantie. Het gaat dus in de eerste plaats om de vraag of het verzoek om een toevoeging op hetzelfde rechtsbelang ziet als dat waarvoor eerder een toevoeging is verleend. Als dat zo is, moet vervolgens worden bezien of sprake is van behandeling van een procedure in meer dan één instantie. Het beleid van de raad, dat mede is neergelegd in de werkinstructie "Bereik", is hiermee in overeenstemming. Bij toepassing daarvan dient de raad in aanmerking te nemen dat naar gangbaar taalgebruik onder het begrip ‘instantie’ wordt verstaan ‘aanleg’ dan wel ‘openbaar lichaam’ of ‘overheidsorgaan’.
+
+5.2.    De rechtbank heeft terecht van belang geacht dat zowel de toevoeging in de algemene asielprocedure als de toevoeging in de verlengde asielprocedure zijn aangevraagd met als doel het verkrijgen van een verblijfsvergunning asiel. Het doel én beoogd eindresultaat van de rechtsbijstand is in beide procedures gelijk en dit is volgens paragraaf 1.2. van de werkinstructie "Bereik", bepalend voor de afbakening van het begrip "rechtsbelang". Gelet op het voorgaande heeft de rechtbank terecht overwogen dat de raad zich terecht op het standpunt heeft gesteld dat het rechtsbelang waarop de aanvraag om toevoeging betrekking heeft, hetzelfde rechtsbelang is waarvoor aan [appellante] eerder een toevoeging is verleend.
+
+Het betoog faalt.
+
+6.    [appellante] betoogt dat de rechtbank ten onrechte heeft overwogen dat beide aanvragen om toevoeging zien op het voeren van een bezwaarprocedure en dat de behandeling in bezwaar is aan te merken als een behandeling in één instantie als bedoeld in artikel 32 van de Wrb. Zij voert aan dat in asiel immers geen sprake is van bezwaar, maar van beroep.
+
+6.1.    In asielzaken geldt inderdaad geen bezwaarschriftprocedure, maar een voornemenprocedure. De zienswijze op het voornemen wordt echter zowel in de algemene asielprocedure als in de verlengde asielprocedure behandeld door hetzelfde overheidsorgaan. Gelet op de onder 5.1 weergegeven jurisprudentie van de Afdeling, gaat het dus om de behandeling van een procedure in één instantie als bedoeld in artikel 32 van de Wrb. De Afdeling wijst ter vergelijking op haar uitspraken van 18 november 2009, ECLI:NL:RVS:2009:BK3669, onder rechtsoverweging 2.7.1 en 16 juni 2010, ECLI:NL:RVS:2010:BM7739, onder rechtsoverweging 2.4.1. De rechtbank is terecht tot dezelfde conclusie gekomen.
+
+Conclusie
+
+7.    Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd.
+
+8.    Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+bevestigt de aangevallen uitspraak.
+
+Aldus vastgesteld door mr. H.G. Sevenster, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. A.S. Sanchit-Premchand, griffier.
+
+w.g. Sevenster    w.g. Sanchit-Premchand
+
+lid van de enkelvoudige kamer    griffier
+
+Uitgesproken in het openbaar op 5 februari 2020
+
+691.
+
+BIJLAGE - Wettelijk kader
+
+Wet op de rechtsbijstand
+
+Artikel 28
+
+1. Het bestuur kan de toevoeging weigeren indien de aanvraag:
+
+[…]
+
+b. betrekking heeft op een rechtsbelang ter zake waarvan de aanvrager aanspraak kan maken op rechtsbijstand op grond van een eerder afgegeven toevoeging;
+
+[…].
+
+Artikel 32
+
+De toevoeging geldt uitsluitend voor het rechtsbelang ter zake waarvoor zij is verleend en, in het geval van een procedure, voor de behandeling daarvan in één instantie, de tenuitvoerlegging van de rechterlijke uitspraak daaronder begrepen.
+
+Werkinstructie "Bereik"
+
+1.2. Rechtsbelang
+
+Het rechtsbelang is het belang waarvoor de rechtzoekende rechtsbijstand aanvraagt en dat hem rechtstreeks en individueel aangaat (artikel 1 Brt). Bepalend voor de afbakening van het begrip is wat het doel én beoogd eindresultaat is van de rechtsbijstand. De wijze waarop het belang behartigd wordt en de wegen die daartoe bewandeld worden, zijn voor de beoordeling minder bepalend (zie ook ‘na LAT aanvraag reguliere toevoeging’). Ook maakt het voor de beoordeling niet uit of aanvrager eisende dan wel verwerende partij is.
+
+[…].
