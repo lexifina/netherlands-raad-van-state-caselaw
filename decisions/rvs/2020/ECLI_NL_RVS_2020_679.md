@@ -1,0 +1,114 @@
+---
+ecli: "ECLI:NL:RVS:2020:679"
+court: "Raad van State"
+court_code: "RVS"
+docket: "201903992/1/A3"
+decided: "2020-03-04"
+published: "2020-03-04"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2020:679"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2019:10144, Bekrachtiging/bevestiging"]]
+---
+
+# ECLI:NL:RVS:2020:679 Raad van State , 04-03-2020 / 201903992/1/A3
+
+## Inhoudsindicatie
+
+Bij besluit van 26 juli 2017 heeft het college van burgemeester en wethouders van Amsterdam aan [appellant A] en [appellant B] een bestuurlijke boete ten bedrage van € 20.500,00 opgelegd wegens overtreding van artikel 21, aanhef en onder a, van de Huisvestingswet 2014. [appellant A] en [appellant B] waren samen eigenaar van de woning op het adres [locatie 1]. [appellant B] was in de basisregistratie personen van 1 december 2016 tot 27 juni 2017 op dit adres ingeschreven. [appellant A] was ingeschreven op het adres [locatie 2]. Naar aanleiding van een melding bij het gemeentelijk meldpunt Zoeklicht op 21 juni 2017 over verhuur van de woning aan toeristen, hebben toezichthouders van de gemeente op 22 juni 2017 een onderzoek uitgevoerd.
+
+## Uitspraak
+
+201903992/1/A3.
+
+Datum uitspraak: 4 maart 2020
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak op het hoger beroep van:
+
+[appellant A] en [appellant B], wonend te [woonplaats],
+
+tegen de uitspraak van de rechtbank Amsterdam van 11 april 2019 in zaak nr. 18/1117 in het geding tussen:
+
+[appellant A] en [appellant B]
+
+en
+
+het college van burgemeester en wethouders van Amsterdam.
+
+Procesverloop
+
+Bij besluit van 26 juli 2017 heeft het college aan [appellant A] en [appellant B] een bestuurlijke boete ten bedrage van € 20.500,00 opgelegd wegens overtreding van artikel 21, aanhef en onder a, van de Huisvestingswet 2014 (hierna: de Hw).
+
+Bij besluit van 3 januari 2018 heeft het college het daartegen door  [appellant A] en [appellant B] gemaakte bezwaar ongegrond verklaard.
+
+Bij uitspraak van 11 april 2019 heeft de rechtbank het daartegen door [appellant A] en [appellant B] ingestelde beroep ongegrond verklaard. Deze uitspraak is aangehecht.
+
+Tegen deze uitspraak hebben [appellant A] en [appellant B] hoger beroep ingesteld.
+
+Het college heeft een schriftelijke uiteenzetting gegeven.
+
+De Afdeling heeft de zaak ter zitting behandeld op 8 januari 2019, waar [appellant A] en [appellant B], bijgestaan door mr. R. Timmers en mr. R. Siewers, beiden advocaat te Amsterdam, en het college, vertegenwoordigd door mr. R. Lo Fo Sang, zijn verschenen.
+
+Overwegingen
+
+1.    [appellant A] en [appellant B] waren samen eigenaar van de woning op het adres [locatie 1] (hierna: de woning). [appellant B] was in de basisregistratie personen (hierna: de brp) van 1 december 2016 tot 27 juni 2017 op dit adres ingeschreven. [appellant A] was ingeschreven op het adres [locatie 2]. Naar aanleiding van een melding bij het gemeentelijk meldpunt Zoeklicht op 21 juni 2017 over verhuur van de woning aan toeristen, hebben toezichthouders van de gemeente op 22 juni 2017 een onderzoek uitgevoerd. Hun bevindingen hebben zij neergelegd in een op ambtseed dan wel ambtsbelofte opgemaakt rapport van bevindingen van 22 juni 2017. Het college heeft hieruit opgemaakt dat [appellant A] en [appellant B] in strijd met artikel 21, aanhef en onder a, van de Hw zonder vergunning woonruimte aan de bestemming tot bewoning hebben onttrokken en daarom de bestuurlijke boete opgelegd. In het besluit op bezwaar heeft het college de boeteoplegging gehandhaafd.
+
+2.    [appellant A] en [appellant B] betogen dat de rechtbank geen oog heeft gehad voor de feiten en omstandigheden die zij hebben aangevoerd. Volgens hen is de rechtbank alleen uitgegaan van de feiten en omstandigheden die het college naar voren heeft gebracht. Dit is volgens hen onzorgvuldig en reden voor vernietiging van de aangevallen uitspraak.
+
+2.1.    De rechtbank heeft in de aangevallen uitspraak onder het kopje "De feiten en omstandigheden" weergegeven op welke feiten en omstandigheden  het college zijn besluitvorming heeft gebaseerd. Dat de rechtbank in dit onderdeel van de aangevallen uitspraak niet de feiten en omstandigheden heeft vermeld waarop [appellant A] en [appellant B] zich ter betwisting van de juistheid van de besluitvorming hebben beroepen, betekent niet dat de uitspraak onzorgvuldig tot stand is gekomen. In het vervolg van de uitspraak heeft de rechtbank de besluitvorming van het college immers expliciet getoetst aan de hand van de daartegen door [appellant A] en [appellant B] naar voren gebrachte beroepsgronden. Uit de uitspraak blijkt niet dat de rechtbank bij die toetsing geen oog heeft gehad voor de door hen aangevoerde feiten en omstandigheden.
+
+Het betoog faalt.
+
+3.    [appellant A] en [appellant B] betogen dat de rechtbank ten onrechte onder verwijzing naar de uitspraak van de Afdeling van 6 februari 2019, ECLI:NL:RVS:2019:317, het standpunt van het college heeft onderschreven dat zij woonruimte aan de bestemming tot bewoning hebben onttrokken. Zij voeren aan dat de rechtspraak van de Afdeling in strijd met de Hw is. Daarbij verwijzen zij naar de geschiedenis van de totstandkoming van de Hw, waaruit volgens hen blijkt dat het onttrekkingsverbod alleen ter bestrijding van de onevenwichtige en onrechtvaardige gevolgen van schaarste aan goedkope woonruimte is ingesteld. Volgens hen gaat de Afdeling er in haar rechtspraak ten onrechte vanuit dat dat verbod ook het belang van de leefbaarheid dient. Verder voeren zij aan dat in hun geval geen sprake was van onttrekking van woonruimte aan de bestemming tot bewoning, omdat zich slechts incidentele verhuur aan toeristen heeft voorgedaan. Hierbij doen zij een beroep op de notitie Toeristische verhuur van woningen ("vakantieverhuur") in Amsterdam van juni 2013 (hierna: de Notitie Vakantieverhuur) en de notitie Ruimte voor gasten, uitwerking notitie toeristische verhuur van woningen (vakantieverhuur) van 14 januari 2014 (hierna: de Uitwerkingsnotitie). Verder wijzen zij erop dat zij in mei 2017 hun makelaar opdracht hebben gegeven de woning te koop te zetten, zodat de woning op 22 juni 2017 beschikbaar voor bewoning was.
+
+3.1.    Artikel 21, aanhef en onder a, van de Hw luidde ten tijde van belang: "Het is verboden om een woonruimte, behorend tot een met het oog op het behoud of de samenstelling van de woonruimtevoorraad door de gemeenteraad in de huisvestingsverordening aangewezen categorie gebouwen en die gelegen is in een in de huisvestingsverordening aangewezen wijk, zonder vergunning van burgemeester en wethouders […] anders dan ten behoeve van de bewoning of het gebruik als kantoor of praktijkruimte door de eigenaar aan de bestemming tot bewoning te onttrekken[.]"
+
+Artikel 4.2.2, eerste lid, van de Huisvestingsverordening 2016 (hierna: de Verordening) luidt: "Burgemeester en wethouders kunnen een bestuurlijke boete opleggen bij overtreding van de verboden bedoeld in artikel 8 en artikel 21 van de wet of handelen in strijd met de voorwaarden of voorschriften bedoeld in artikel 24 van de wet."
+
+Ingevolge de tabel die bij artikel 4.2.2 hoort, bedraagt het boetebedrag voor overtreding van artikel 21, aanhef en onder a, van de Hw € 20.500,00.
+
+3.2.    Niet in geschil is dat [appellant A] en [appellant B] de woning op 22 juni 2017 aan toeristen hadden verhuurd. De rechtbank heeft terecht onder verwijzing naar de uitspraak van de Afdeling van 6 februari 2019 geoordeeld dat zij de woning daarom aan de bestemming tot bewoning hebben onttrokken. Door de verhuur aan toeristen werd de woning immers voor een andere bestemming dan bewoning gebruikt. Ook incidentele verhuur aan toeristen wordt als onttrekking aan de bestemming tot bewoning aangemerkt. Dat [appellant A] en [appellant B] de woning wilden verkopen, doet er niet aan af dat de woning op 22 juni 2017 aan toeristen was verhuurd en voor een andere bestemming dan bewoning werd gebruikt. De Afdeling ziet in hetgeen [appellant A] en [appellant B] in hoger beroep aanvoeren geen aanleiding om af te wijken van de in de uitspraak van 6 februari 2019 gevolgde vaste rechtspraak. Uit de geschiedenis van de totstandkoming van de Hw, zoals weergegeven in de uitspraak van de Afdeling van 29 augustus 2018, ECLI:NL:RVS:2018:2833, blijkt dat de Hw niet alleen is gericht op het bestrijden van onevenwichtige en onrechtvaardige effecten van schaarste aan goedkope woonruimte, maar ook op het bevorderen van de leefbaarheid. Dat het college volgens de Notitie Vakantieverhuur en de Uitwerkingsnotitie niet in alle gevallen van onttrekking van een woning aan de bestemming tot bewoning overgaat tot boeteoplegging, betekent verder niet dat de invulling die de Afdeling aan artikel 21 van de Hw heeft gegeven, onjuist is. Het thans aanhangige wetsvoorstel tot wijziging van de Hw en de memorie van toelichting daarbij (Kamerstukken II, 2019/20, 35 353, nrs. 2 en 3), waarop [appellant A] en [appellant B] ter zitting van de Afdeling een beroep hebben gedaan, doen aan het voorgaande niet af, alleen al omdat van een wetswijziging geen sprake is.
+
+Het betoog faalt.
+
+4.    [appellant A] en [appellant B] betogen dat de rechtbank ten onrechte het standpunt van het college heeft onderschreven dat zij geen hoofdverblijf in de woning hadden, zodat niet is voldaan aan de vereisten van het in de Uitwerkingsnotitie neergelegde vakantieverhuurbeleid. Zij voeren aan dat [appellant B] in de brp op het adres van de woning was ingeschreven en spullen van hen in een afgesloten kast in de woning stonden. Volgens hen was het aan het college om te bewijzen dat zij geen hoofdverblijf in de woning hadden.
+
+4.1.    Het door het college gevoerde vakantieverhuurbeleid, zoals beschreven in de Uitwerkingsnotitie, hield in dat incidentele verhuur van de eigen woning werd toegestaan indien aan een aantal vereisten was voldaan. Eén van deze vereisten was dat sprake was van het hoofdverblijf van de verhuurder.
+
+De rechtbank heeft terecht het standpunt van het college onderschreven dat in deze zaak niet aan dat vereiste is voldaan. De rechtbank heeft hierbij terecht in aanmerking genomen dat voor de beoordeling of [appellant A] en [appellant B] hoofdverblijf in de woning hadden niet de brp-inschrijving van [appellant B], maar hun feitelijke woonsituatie bepalend is. Bij de beoordeling van de feitelijke woonsituatie heeft het college terecht in aanmerking genomen dat de toezichthouders volgen het rapport van bevindingen bij hun onderzoek ter plaatse op 22 juni 2017 geen persoonlijke spullen van [appellant A] en [appellant B] in de woning hebben aangetroffen die op hoofdverblijf duiden. In het rapport van bevindingen is verder vermeld dat er zich in de verschillende kamers van de woning geen afgesloten kasten bevonden. Het college hoefde op grond van de enkele stelling van [appellant A] en [appellant B] dat er wel een afgesloten kast was niet aan de juistheid van het rapport van bevindingen te twijfelen. Verder heeft het college terecht in aanmerking genomen dat de verklaringen van [appellant A], gedaan in het kader van onderzoek naar een eerdere melding en weergegeven in een op ambtsbelofte opgemaakt rapport van bevindingen van 15 april 2017, erop duiden dat [appellant A] en [appellant B] hoofdverblijf hadden in hun woning op het adres [locatie 2]. Een bestuursorgaan mag in beginsel uitgaan van de juistheid van de bevindingen in een op ambtseed of ambtsbelofte opgemaakt rapport van bevindingen, voor zover deze eigen waarnemingen van de opsteller van het rapport weergeven. De ter zitting van de Afdeling naar voren gebrachte stelling van [appellant A] dat zijn verklaringen in het rapport van bevindingen van 15 april 2017 onjuist zijn weergegeven, betekent niet dat het college niet van de juistheid van het rapport mocht uitgaan. Dat zij na het onderzoek dat tot het rapport heeft geleid niets meer van de gemeente hebben gehoord, zoals [appellant A] en [appellant B] ter zitting van de Afdeling naar voren hebben gebracht, betekent evenmin dat het college niet van de juistheid van het rapport mocht uitgaan.
+
+Het betoog faalt.
+
+5.    [appellant A] en [appellant B] betogen dat de rechtbank ten onrechte hun beroepsgrond over matiging van de boete wegens bijzondere omstandigheden heeft verworpen. Zij voeren aan dat de overtreding verminderd verwijtbaar is, omdat zij dachten aan de vereisten voor het vakantieverhuurbeleid te voldoen. Zij meenden op basis van de gemeentelijke berichtgeving hierover dat inschrijving in de brp voldoende was om te voldoen aan het vereiste van hoofdverblijf. Volgens hen stond nergens dat de aanwezigheid van persoonlijke spullen daarvoor noodzakelijk is. Voorts voeren zij aan dat de transitiefase waarin zij zich bevonden als bijzondere omstandigheid moet worden aangemerkt. Die transitiefase bestond er volgens hen in dat [appellant B] onverwacht zwanger raakte en zij soms in de woning aan de [locatie 1] en soms in de woning aan de [locatie 2] woonden.
+
+5.1.    Artikel 5:46, derde lid, van de Algemene wet bestuursrecht luidt: "Indien de hoogte van de bestuurlijke boete bij wettelijk voorschrift is vastgesteld, legt het bestuursorgaan niettemin een lagere bestuurlijke boete op indien de overtreder aannemelijk maakt dat de vastgestelde bestuurlijke boete wegens bijzondere omstandigheden te hoog is."
+
+5.2.    De rechtbank heeft terecht de transitiefase waarin [appellant A] en [appellant B] zich bevonden niet aangemerkt als bijzondere omstandigheid die tot matiging van de boete moet leiden. [appellant A] en [appellant B] hebben voorts niet aannemelijk gemaakt dat het plegen van de overtreding verminderd verwijtbaar is. Niet is gebleken dat de gemeente hen onjuist heeft voorgelicht over de vereisten van het vakantieverhuurbeleid. De boete hoefde dus niet te worden gematigd.
+
+Het betoog faalt.
+
+6.    Het hoger beroep is ongegrond. De aangevallen uitspraak moet worden bevestigd.
+
+7.    Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+bevestigt de aangevallen uitspraak.
+
+Aldus vastgesteld door mr. C.J. Borman, voorzitter, en mr. B.P.M. van Ravels en mr. A. ten Veen, leden, in tegenwoordigheid van mr. T. Hartsuiker, griffier.
+
+w.g. Borman    w.g. Hartsuiker
+
+voorzitter    griffier
+
+Uitgesproken in het openbaar op 4 maart 2020
+
+620.
