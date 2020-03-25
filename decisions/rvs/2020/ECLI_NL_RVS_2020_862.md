@@ -1,0 +1,266 @@
+---
+ecli: "ECLI:NL:RVS:2020:862"
+court: "Raad van State"
+court_code: "RVS"
+docket: "201903631/1/A3"
+decided: "2020-03-25"
+published: "2020-03-25"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2020:862"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2019:2504, Bekrachtiging/bevestiging"]]
+---
+
+# ECLI:NL:RVS:2020:862 Raad van State , 25-03-2020 / 201903631/1/A3
+
+## Inhoudsindicatie
+
+Bij besluit van 2 augustus 2017 heeft de korpschef van politie de door [bedrijf] gevraagde toestemming om [appellant] beveiligingswerkzaamheden te laten verrichten, geweigerd. Een particuliere beveiligingsorganisatie heeft toestemming van de korpschef nodig om iemand voor het bedrijf te laten werken. [bedrijf] heeft deze toestemming gevraagd voor [appellant]. De korpschef heeft geweigerd om de toestemming te verlenen. Hij stelt zich op het standpunt dat [appellant] onvoldoende betrouwbaar is voor het verrichten van beveiligingswerkzaamheden omdat hij in criminele kringen verkeert. [appellant] is lid van [club 1]. De korpschef stelt dat meerdere leden van [club 1] in de afgelopen acht jaar betrokken zijn geweest bij strafbare feiten.
+
+## Uitspraak
+
+201903631/1/A3.
+
+Datum uitspraak: 25 maart 2020
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak op het hoger beroep van:
+
+[appellant], wonend te [woonplaats],
+
+tegen de uitspraak van de voorzieningenrechter van de rechtbank Amsterdam (hierna: de rechtbank) van 26 maart 2019 in zaken nrs. 19/941, 19/943, 19/948, 19/949, 19/1330 en 19/1488 in het geding tussen:
+
+[appellant]
+
+en
+
+de korpschef van politie.
+
+Procesverloop
+
+Bij besluit van 2 augustus 2017 heeft de korpschef de door [bedrijf] gevraagde toestemming om [appellant] beveiligingswerkzaamheden te laten verrichten, geweigerd.
+
+Bij besluit van 1 februari 2019 heeft de korpschef het door [appellant] daartegen gemaakte bezwaar opnieuw ongegrond verklaard.
+
+Bij uitspraak van 26 maart 2019 heeft de rechtbank het door [appellant] daartegen ingestelde beroep ongegrond verklaard. Deze uitspraak is aangehecht.
+
+Tegen deze uitspraak heeft [appellant] hoger beroep ingesteld.
+
+De korpschef heeft een schriftelijke uiteenzetting gegeven.
+
+[appellant] en de korpschef hebben nadere stukken ingediend.
+
+De korpschef heeft stukken overgelegd waarin informatie staat over personen die volgens hem lid zijn van [club 1], een groep motorrijders. Ook heeft hij een uitdraai uit het Justitieel Documentatie Systeem (hierna: JDS) van deze personen overgelegd. De korpschef heeft meegedeeld dat uitsluitend de Afdeling van deze stukken kennis mag nemen. De Afdeling heeft in andere samenstelling beslist dat beperkte kennisneming van deze stukken gerechtvaardigd is. [appellant] heeft de Afdeling toestemming gegeven om mede op grondslag van deze stukken uitspraak te doen.
+
+De rechtbank heeft de zaak ter zitting behandeld op 5 februari 2020, waar [appellant], bijgestaan door mr. J.F.H. Molema en mr. J.R.O. van Wijk, beiden rechtsbijstandverlener te Amsterdam, en de korpschef, vertegenwoordigd door mr. S. Filali, mr. L.J. Hamstra en M. Telderman-Veltman, zijn verschenen.
+
+Overwegingen
+
+Inleiding
+
+1.    Een particuliere beveiligingsorganisatie heeft toestemming van de korpschef nodig om iemand voor het bedrijf te laten werken. [bedrijf] heeft deze toestemming gevraagd voor [appellant]. De korpschef heeft geweigerd om de toestemming te verlenen. Hij stelt zich op het standpunt dat [appellant] onvoldoende betrouwbaar is voor het verrichten van beveiligingswerkzaamheden omdat hij in criminele kringen verkeert. [appellant] is lid van [club 1]. De korpschef stelt dat meerdere leden van [club 1] in de afgelopen acht jaar betrokken zijn geweest bij strafbare feiten. Verder heeft hij meegewogen dat hij [appellant] op 7 januari 2013 bij de afgifte van zijn beveiligerspas een waarschuwing heeft gegeven omdat hij niet (tijdig) motorrijtuigenbelasting had voldaan, had gereden in een niet-APK-gekeurd voertuig en een rijontzegging had opgelegd gekregen.
+
+Regelgeving
+
+2.    De relevante bepalingen uit het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (hierna: het EVRM), Richtlijn nr. 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de diensten op de interne markt (hierna: de Dienstenrichtlijn), de Dienstenwet en de Wet particuliere beveiligingsorganisaties en recherchebureaus (hierna: de Wpbr) en de relevante gedeelten van de Beleidsregels particuliere beveiligingsorganisaties en recherchebureaus 2014 (hierna: de Beleidsregels) zijn opgenomen in een bijlage, die deel uitmaakt van de uitspraak.
+
+Aangevallen uitspraak
+
+3.    De rechtbank heeft overwogen dat tussen partijen niet in geschil is dat [appellant] lid is van [club 1] en dat hij behoort tot [club 2]. De rechtbank is de korpschef gevolgd in het standpunt dat in dit geding geen rol speelt of [appellant] weet dat leden van [club 1] strafbare feiten hebben gepleegd en evenmin of hem ten aanzien van die strafbare feiten een verwijt treft. Het ongewenste risico voor de samenleving doet zich namelijk ook voor als een betrokkene zich van dat risico niet bewust is. De betrouwbaarheid en integriteit van mensen die werkzaam zijn in de beveiligingsbranche moeten boven iedere twijfel verheven zijn. Dat is niet het geval bij iemand die in criminele kringen verkeert. Volgens vaste rechtspraak van de Afdeling (bijvoorbeeld de uitspraak van 11 juli 2018, ECLI:NL:RVS:2018:2302) mag de korpschef deze strenge maatstaf hanteren. Het vermoeden van de korpschef dat [appellant] in criminele kringen verkeert, is recent en objectief bepaald, gelet op de door de korpschef overgelegde stukken over leden van [club 1] en door hen gepleegde strafbare feiten. Uit die stukken blijkt dat vijf personen van het uit ten minste elf leden bestaande [club 2], twee personen van het uit ten minste twee leden bestaande [club 3] en zes personen van het uit ten minste tien leden bestaande [club 4] strafrechtelijke antecedenten hebben. De antecedenten zien op misdrijven die niet in een vrijspraak of sepot zijn geëindigd. Binnen een periode van acht jaar voorafgaande aan het besluit van 1 februari 2019 betreffen deze antecedenten onder meer tweemaal openlijke geweldpleging, vijfmaal mishandeling, waarvan eenmaal met zwaar lichamelijk letsel tot gevolg, vijf drugsgerelateerde delicten, tweemaal bedreigingen met enig misdrijf tegen het leven gericht, drie misdrijven op grond van de Wet wapens en munitie, diefstal, schuldheling en verduistering. De korpschef mocht ook antecedenten in aanmerking nemen die dateren van vóór eerder verleende toestemmingen. De korpschef heeft ter zitting onbestreden toegelicht dat eerder niet bekend was dat de leden van [club 1] ook antecedenten hebben en welke dat zijn. De onthouding van de toestemming is niet in strijd met de rechtszekerheid. Het kan [appellant] niet baten dat de korpschef en de minister voor Rechtsbescherming eerder intern tot verschillende conclusies zijn gekomen op basis van dezelfde informatie, nu zowel de korpschef als de minister uiteindelijk hetzelfde standpunt hebben ingenomen. Er is daarom geen aanleiding om [persoon A], werkzaam bij de eenheid Midden-Nederland van de politie, als getuige te horen. Tot slot slaagt het beroep op het gelijkheidsbeginsel niet. Dat toestemming is verleend aan iemand die volgens [appellant] lid is van [club 1], maakt nog niet dat sprake is van een gelijk geval. Bovendien heeft de korpschef gemotiveerd gesteld dat de politie niet heeft kunnen vaststellen dat deze persoon lid is van [club 1], aldus de rechtbank.
+
+Hoger beroep van [appellant]
+
+Verkeren in criminele kringen
+
+4.    [appellant] betoogt dat de rechtbank ten onrechte heeft overwogen dat de korpschef zich op het standpunt mocht stellen dat hij in criminele kringen verkeert. Hij voert aan dat onduidelijk is wanneer sprake is van het verkeren in criminele kringen. Het ligt voor de hand om aan te sluiten bij het begrip criminele organisatie in artikel 140 van het Wetboek van Strafrecht en de criteria die daar volgens jurisprudentie van de strafrechter voor gelden. Aan die criteria is in dit geval niet voldaan. Het begrip 'verkeren in criminele kringen' uit de Beleidsregels is voorts in strijd met artikel 10 van de Dienstenrichtlijn, omdat het onvoldoende helder en precies is geformuleerd en omdat onvoldoende voorzienbaar is hoe het wordt ingevuld.
+
+Verder is de door de korpschef overgelegde lijst van leden van [club 1] onjuist. Het is onmogelijk dat op de lijst vrienden of bekenden van [appellant] staan. Bovendien heeft zowel de korpschef als de rechtbank niet kunnen verifiëren of de op de lijst vermelde personen te maken hebben met [club 1]. Ook heeft de rechtbank miskend dat voor hem kenbaar moet zijn welke leden van [club 1] welke strafbare feiten hebben gepleegd. Dit volgt ook uit de Beleidsregels, aangezien daarin staat dat betrokkene zich moet kunnen verweren tegen de tegen hem bestaande bedenkingen. Daarnaast mogen strafbare feiten slechts worden meegewogen indien hem ten aanzien daarvan een verwijt treft.
+
+De rechtbank heeft de uitspraak van de Afdeling van 11 november 2015, ECLI:NL:RVS:2015:3462, ten onrechte relevant geacht voor deze zaak. Die uitspraak gaat over een [club 5] die men al jarenlang probeert te verbieden. Daarnaast had betrokkene in die zaak ook verboden wapens onder zich en ontkende deze persoon niet dat hij omging met personen met criminele antecedenten. Wel relevant is de uitspraak van de Centrale Raad van Beroep (hierna: de CRvB) van 9 februari 2017, ECLI:NL:CRVB:2017:456, waaruit volgt dat de identiteit van personen achter de strafbare feiten wel aan de belanghebbende bekend was gemaakt en waarin is overwogen dat iemand zelfs in een familierelatie niet bekend hoeft te zijn met vermeende door die relatie gepleegde strafbare feiten.
+
+Verder is niet voldaan aan de Werkinstructie Wet particuliere beveiligingsorganisaties en recherchebureaus (hierna: de Werkinstructie). Daarin staat namelijk dat de enkele omgang met een criminele derde niet genoeg is om iemands betrouwbaarheid aan te tasten. In dit geval blijkt nergens uit dat de vermeende antecedenten van derden van invloed zouden zijn op het verrichten van beveiligingswerkzaamheden door [appellant]. Diverse horecaondernemers hebben laten weten dat zij hem missen als beveiliger.
+
+Verder voert [appellant] aan dat de rechtbank ten onrechte heeft overwogen dat hij niet heeft betwist dat de korpschef niet bekend was met de strafbare feiten toen hij eerder toestemming verleende om hem beveiligingswerkzaamheden te laten verrichten. De korpschef had hiermee destijds bekend kunnen en moeten zijn. Daarom mocht de korpschef die strafbare feiten niet meer in zijn beoordeling betrekken, aldus [appellant].
+
+4.1.    Evenals in beroep is niet in geschil dat [appellant] lid is van [club 2] van [club 1]. [appellant] vervulde tot medio 2015 de functie van president binnen [club 1]. Hij heeft verklaard dat er binnen [club 1] onderling veel en goed contact is.
+
+4.2.    Toestemming voor het tewerkstellen van een persoon bij een beveiligingsorganisatie wordt ingevolge artikel 7, vierde lid, van de Wpbr onthouden indien die persoon niet beschikt over de bekwaamheid en betrouwbaarheid die nodig zijn voor het te verrichten werk. De korpschef komt beoordelingsruimte toe bij de beoordeling of iemand voldoende betrouwbaar is in de zin van deze bepaling. Aan medewerkers in de beveiligingsbranche mogen, gelet op de aard van deze branche, hogere eisen worden gesteld dan aan medewerkers in willekeurige andere betrekkingen. Dit betekent dat de korpschef als beoordelingsmaatstaf mag hanteren dat de betrouwbaarheid en integriteit van beveiligingsmedewerkers boven iedere twijfel verheven dienen te zijn. In paragraaf 2.3, aanhef en onder c, van de Beleidsregels is een nadere invulling gegeven aan de term 'betrouwbaarheid'. Het is vaste jurisprudentie van de Afdeling dat deze nadere invulling niet onredelijk of anderszins rechtens onjuist is (zie bijvoorbeeld de uitspraak van de Afdeling van 17 juli 2019, ECLI:NL:RVS:2019:2447). De Afdeling ziet in hetgeen [appellant] heeft aangevoerd geen aanleiding om in dit geval tot een ander oordeel te komen voor zover het gaat om het begrip 'verkeren in criminele kringen' in voormelde paragraaf van de Beleidsregels. Het is duidelijk dat onder dit begrip in elk geval de situatie valt dat iemand, zoals de korpschef in dit geval over [appellant] stelt, deel uitmaakt van een groep personen waarvan een aanzienlijk deel strafrechtelijk is veroordeeld, een strafbeschikking heeft gekregen of een transactie is aangegaan. Daarbij hoeft de betrokken, anders dan [persoon B] meent, geen kennis te dragen van die antecedenten. Er is mede daarom geen aanleiding om te oordelen dat de korpschef voor de uitleg van het begrip 'verkeren in criminele kringen' aan moest sluiten bij de jurisprudentie over het begrip criminele organisatie als bedoeld in artikel 140 van het Wetboek van Strafrecht. Voor zover [appellant] betoogt dat het begrip in strijd is met artikel 10 van de Dienstenrichtlijn, overweegt de Afdeling dat deze richtlijn ingevolge artikel 2, tweede lid, aanhef en onder k, van de Dienstenrichtlijn, gelezen in samenhang met artikel 2, derde lid, aanhef en onder a, onderdeel 2°, van de Dienstenwet, niet van toepassing is op particuliere beveiligingsdiensten.
+
+4.3.    In het besluit van 1 februari 2019 is uiteengezet dat de korpschef iemand uitsluitend op basis van duidelijke aanwijzingen aanmerkt als lid van een [club 5] of een daaraan gerelateerde motorclub, in dit geval [club 1]. Een mogelijke aanwijzing is dat iemand zich heeft geïdentificeerd en, gekleed in zogenoemde 'full colours', zelf aan een politieambtenaar verklaart lid te zijn van de motorclub. Een andere mogelijke aanwijzing is dat een politieambtenaar een in 'full colours' geklede persoon herkent. Een aanwijzing kan ook worden afgeleid uit een combinatie van twee openbare bronnen, zoals een verklaring van een derde aan de politie in combinatie met foto's van de betrokken persoon in 'full colours' op sociale media. Indien iemand aan de criteria voldoet, wordt hij voor twee jaar in de politiesystemen geregistreerd als lid van de desbetreffende motorclub. Indien er in die periode geen nieuwe aanwijzingen zijn van het lidmaatschap van de motorclub, wordt de registratie van de desbetreffende persoon na afloop van die periode verwijderd.
+
+In het besluit staat verder hoeveel personen op deze manier zijn aangemerkt als lid van een zogenoemd chapter van [club 1]. In de aan de Afdeling onder geheimhouding verstrekte stukken is per persoon aan de hand van citaten en foto's uit politiemutaties uiteengezet op basis van welke aanwijzingen de betrokken personen als lid van [club 1] zijn aangemerkt. Anders dan [appellant] stelt, heeft zowel de korpschef als de rechtbank aan de hand van deze stukken kunnen verifiëren of aannemelijk is dat de betrokken personen lid zijn van [club 1]. De rechtbank heeft terecht geen aanleiding gezien om [appellant] te volgen in de stelling dat personen ten onrechte als lid van [club 1] zijn aangemerkt.
+
+4.4.    In het besluit van 1 februari 2019 staat verder dat van de als lid van [club 1] aangemerkte personen is nagegaan of zij in de acht jaren voorafgaand aan het besluit strafrechtelijk zijn veroordeeld, een strafbeschikking hebben gekregen, een transactie zijn aangegaan of zijn gedagvaard voor misdrijven. Per persoon is precies opgesomd om welke strafrechtelijke antecedenten het gaat. Alleen de namen van de personen staan niet in het besluit. De strafrechtelijke antecedenten staan ook op de aan de Afdeling onder geheimhouding verstrekte uitdraaien van het JDS. Op die uitdraaien zijn de namen van de betrokken personen wel vermeld. De strafrechtelijke antecedenten betreffen onder meer geweldsdelicten, drugsgerelateerde delicten, diefstal, verduistering en handelen in strijd met de Wet wapens en munitie.
+
+[club 1] bestaat, zoals [appellant] zelf ook stelt, uit een betrekkelijk gering aantal personen. Een aanzienlijk deel daarvan heeft strafrechtelijke antecedenten. Gelet op het aantal en de ernst van die strafrechtelijke antecedenten heeft de rechtbank terecht overwogen dat de korpschef afdoende heeft gemotiveerd dat [appellant] als lid van [club 1] in criminele kringen verkeert.
+
+4.5.    De rechtbank is [appellant] terecht niet gevolgd in het betoog dat de korpschef de strafrechtelijke antecedenten alleen in de besluitvorming had mogen betrekken indien hem ten aanzien van die feiten een verwijt kan worden gemaakt. Indien iemand verkeert in een kring van personen waarvan een aanzienlijk deel in een periode van enkele jaren meermalen betrokken is geweest bij diverse strafbare feiten, kan zijn betrouwbaarheid ook in het geding zijn als hem ten aanzien van die strafbare feiten geen verwijt kan worden gemaakt. Anders dan [appellant] stelt, volgt niet uit de Beleidsregels dat toestemming alleen mag worden onthouden indien de betrokken persoon zelf weet dat hij in criminele kringen verkeert. Voor zover in de Beleidsregels staat dat betrokkene zo veel mogelijk de gelegenheid moet krijgen om zich te verweren tegen de tegen hem bestaande bedenkingen, is toegelicht dat dit betekent dat informatie niet bruikbaar is indien deze in het geheel niet mag worden prijsgegeven. De betrokkene zal volgens de Beleidsregels in elk geval kennis moeten kunnen nemen van een beknopte weergave van de gegevens. Daaraan is in dit geval voldaan. Dat in de Beleidsregels staat dat zo'n beknopte weergave is ter bescherming van een informant, betekent niet dat het in strijd met de Beleidsregels is om ook ter bescherming van de rechten van anderen - in dit geval de privacy van de als lid van [club 1] aangemerkte personen - te volstaan met een beknopte weergave.
+
+4.6.    De rechtbank heeft terecht overwogen dat genoemde uitspraak van de Afdeling van 11 november 2015 relevant is voor de nu voorliggende zaak. De verschillen tussen die zaak en de nu voorliggende zaak zijn niet van dien aard dat beide zaken niet vergelijkbaar zijn. In die uitspraak heeft de Afdeling geoordeeld dat de korpschef zich op het standpunt mocht stellen dat betrokkene verkeerde in kringen waarbinnen geweld of dreiging met geweld niet wordt geschuwd dan wel in criminele kringen. Hiertoe is overwogen dat betrokkene omgang had met zeventien leden van motorclub Hells Angels en zeven andere personen, van welke personen een reeks strafrechtelijke antecedenten bekend was. De rechtbank heeft terecht overwogen dat ook in die zaak geen rol speelde of betrokkene wist van de strafbare feiten dan wel of hem ten aanzien van die strafbare feiten een verwijt kon worden gemaakt. De rechtbank heeft evenzeer terecht overwogen dat de uitspraak van de CRvB van 9 februari 2017 hieraan niet afdoet. In die zaak ging het om een ander wettelijk kader en een ander soort besluit, waardoor ook andere toetsingscriteria aan de orde waren.
+
+4.7.    Zoals hiervoor onder 4.5 is overwogen, is in dit geval niet vereist dat betrokkene weet dat de personen met wie hij omgaat strafbare feiten hebben begaan. Los daarvan heeft de korpschef zich terecht op het standpunt gesteld dat, gelet op de nauwe contacten tussen [appellant] en de leden van [club 1] en gelet op zijn positie binnen [club 1], niet aannemelijk is dat hij in het geheel niet wist dat andere leden van [club 1] diverse strafrechtelijke antecedenten hebben.
+
+4.8.    Het besluit van de korpschef is niet in strijd met het door [appellant] aangehaalde gedeelte van de Werkinstructie. In de Werkinstructie staat dat de enkele omgang met een criminele derde niet genoeg is om de betrouwbaarheid van een persoon aan te tasten. De korpschef heeft aan zijn standpunt over de betrouwbaarheid van [appellant] echter niet ten grondslag gelegd dat [appellant] omgaat met een persoon met strafrechtelijke antecedenten, maar dat hij deel uitmaakt van een hechte groep personen waarvan een groot deel strafrechtelijke antecedenten heeft. Het feit dat [appellant], naar hij stelt, werd gewaardeerd door zijn opdrachtgevers en dat zij te kennen hebben gegeven dat zij hem missen, maakt niet dat zijn betrouwbaarheid toch boven iedere twijfel verheven is.
+
+4.9.    De rechtbank is [appellant] terecht niet gevolgd in het betoog dat de korpschef strafrechtelijke antecedenten niet bij zijn beoordeling had mogen betrekken voor zover deze dateren van vóór eerder verleende toestemmingen om hem beveiligingswerkzaamheden te laten verrichten. Er is geen aanwijzing dat ten tijde van het verlenen van die toestemmingen al voldoende duidelijk was welke personen tot [club 1] behoorden. Daarom moet worden aangenomen dat de korpschef destijds geen aanleiding had om de strafrechtelijke antecedenten van leden van [club 1] in de besluitvorming te betrekken. Nu de informatie over leden van [club 1] later alsnog beschikbaar is gekomen, mocht de korpschef de strafrechtelijke antecedenten in de besluitvorming betrekken.
+
+4.10.    Het voorgaande leidt tot de conclusie dat de rechtbank terecht heeft overwogen dat de korpschef zich op het standpunt mocht stellen dat [appellant] in criminele kringen verkeert en dat daarom zijn betrouwbaarheid niet boven alle twijfel verheven is.
+
+Het betoog faalt.
+
+Gelijkheidsbeginsel
+
+5.    [appellant] betoogt verder dat de rechtbank ten onrechte heeft overwogen dat zijn beroep op het gelijkheidsbeginsel niet slaagt. Hij voert aan dat de rechtbank, gelet op de door hem overgelegde informatie, niet zonder nader onderzoek had mogen meegaan in de enkele stelling van de korpschef dat een persoon naar wie hij had verwezen die wel over toestemming beschikt, niet behoort tot [club 1]. Verder is de rechtbank eraan voorbijgegaan dat de korpschef ten aanzien van de vice-president van Hells Angels in Amsterdam heeft volstaan met een waarschuwing. Daarnaast hanteert de korpschef ten onrechte een dubbele standaard, doordat politiepersoneel minder zwaar wordt gescreend dan beveiligers. Dat blijkt onder andere uit het feit dat er een motorclub is waarvan uitsluitend politiepersoneel lid is, te weten Blue Knights LE/MC Netherlands V. Verder staat in het rapport 'Vriend en dienst' van bureau Berenschot van 2 juni 2010, dat is gevoegd bij de memorie van toelichting bij een wijziging van de Politiewet 2012 (Kamerstukken II 35 170, nr. 3), dat het verband tussen de sociale omgeving en normoverschrijdend gedrag niet direct is gegeven. Volgens het rapport moet bij screening ook worden gekeken naar persoonskenmerken, de stabiliteit van de leefwereld, de aandacht voor het professionele normenkader en de aard van het contact met de sociale relatie, aldus [appellant].
+
+5.1.     De rechtbank heeft niet overwogen dat aannemelijk is dat de persoon waar [appellant] naar verwijst, geen lid is van [club 1], maar dat de korpschef gemotiveerd naar voren heeft gebracht dat de politie niet heeft kunnen vaststellen dat die persoon lid is van [club 1]. Daarom zijn de strafrechtelijke antecedenten van de personen die als lid van [club 1] zijn aangemerkt, niet aan deze persoon tegengeworpen in het besluit over de toestemming om hem beveiligingswerkzaamheden te laten verrichten. Omdat de politie ten aanzien van [appellant] wel aanwijzingen heeft dat hij lid is van [club 1] en [appellant] dat ook niet bestrijdt, is geen sprake van vergelijkbare gevallen.
+
+5.2.    De korpschef heeft een lid van Hells Angels bij brief van 11 januari 2018 een "ernstige waarschuwing" gegeven. Daarmee heeft de korpschef hem in de gelegenheid gesteld om afstand te nemen van de criminele kring waarin hij verkeert. In de brief staat dat de korpschef de toestemming terstond zal intrekken indien blijkt dat betrokkene nog steeds in criminele kringen verkeert. Er is geen grond voor het oordeel dat het om vergelijkbare gevallen gaat, alleen al omdat niet is gebleken dat het lid van Hells Angels eerder al een waarschuwing heeft gekregen, zoals bij [appellant] wel het geval is.
+
+5.3.    Daargelaten in hoeverre de screening van politiepersoneel tot de bevoegdheid van de korpschef behoort, biedt het door [appellant] aangevoerde geen aanknopingspunten voor het oordeel dat politiepersoneel minder streng wordt gescreend dan beveiligingspersoneel. Verder heeft [appellant] niet aannemelijk gemaakt dat Blue Knights LE/MC Netherlands V vergelijkbaar is met [club 1]. De korpschef heeft [appellant] niet tegengeworpen dat [club 1] een groep motorrijders is, maar dat een aanzienlijk deel van de leden van [club 1] strafrechtelijke antecedenten heeft. Niet is gebleken dat dit ook het geval is bij Blue Knights LE/MC Netherlands V. Verder bevat het rapport van bureau Berenschot een advies over de vraag in hoeverre de sociale omgeving van een (aspirant-)politiefunctionaris zou moeten worden betrokken bij de screening van die persoon. Het rapport bepaalt echter niet hoe de screening van politiepersoneel plaatsvindt en kan alleen al daarom niet leiden tot het oordeel dat politiepersoneel minder streng wordt gescreend dan beveiligingspersoneel.
+
+5.4.    Dit leidt tot de conclusie dat de rechtbank terecht heeft overwogen dat het beroep op het gelijkheidsbeginsel niet slaagt.
+
+Het betoog faalt.
+
+Geheime stukken
+
+6.    [appellant] betoogt verder dat artikel 6 van het EVRM, het recht op fair trial en het daarmee samenhangende recht op equality of arms is geschonden doordat hij niet beschikt over de stukken met informatie over vermeende leden van [club 1] en door hen gepleegde strafbare feiten. Hij voert aan dat hij in bewijsnood verkeert. Zodra hij aanvoert dat voor iemand uit zijn vriendengroep wel toestemming voor het verrichten van beveiligingswerkzaamheden is verleend, wordt de toestemming van deze persoon ingetrokken. De korpschef heeft niets inzichtelijk gemaakt over de betrouwbaarheid van de informatie.
+
+6.1.    Zoals de Afdeling eerder heeft overwogen (bijvoorbeeld in de uitspraak van 28 maart 2012, ECLI:NL:RVS:2012:BW0146), bevat artikel 6 van het EVRM minimumnormen voor een eerlijke procesvoering, maar zijn deze normen niet absoluut. De nationale wetgever mag met het oog op een goede procesorde of ter bescherming van het publieke belang of van de belangen van derden, bepaalde procedurevoorschriften en beperkingen stellen, mits het eerlijke karakter van de procesvoering daarmee niet in zijn essentie wordt aangetast. Het eerste lid van artikel 8:29 van de Algemene wet bestuursrecht houdt een beperking in van het beginsel van openbaarheid en dat van "equality of arms". Het artikel bepaalt evenwel dat deze beperking slechts om "gewichtige redenen" kan worden aangebracht. Het derde lid draagt de toetsing daarvan aan de rechter op. Indien de rechter de beperking gerechtvaardigd acht, dan is het ingevolge het vijfde lid aan de andere partij overgelaten om te beslissen of de rechter mede op grondslag van de aan kennisneming door haar onttrokken inlichtingen of stukken uitspraak kan doen. De beperking is op deze wijze met zodanige waarborgen omkleed dat het recht op een eerlijke procesvoering daardoor niet in zijn essentie wordt beperkt.
+
+6.2.    Hiervoor onder 4.3 en 4.4 is overwogen hoe de korpschef in het besluit van 1 februari 2019 heeft uiteengezet op basis van welke aanwijzingen personen zijn aangemerkt als lid van [club 1] en welke strafrechtelijke antecedenten van die personen bij de beoordeling zijn betrokken. Alleen de namen van die personen zijn niet in het besluit vermeld. Anders dan [appellant] stelt, biedt het besluit op deze manier inzicht in de betrouwbaarheid van de informatie die eraan ten grondslag is gelegd. Ter bescherming van de persoonlijke levenssfeer van de personen op wie deze strafrechtelijke informatie ziet, is de beperking van de openbaarheid van deze informatie gerechtvaardigd. Gelet op de tamelijk uitgebreide uiteenzetting in het besluit van de korpschef is het eerlijke karakter van de procesvoering niet in zijn essentie aangetast. Nu verder de rechtbank en de Afdeling kennis hebben kunnen nemen van alle stukken, is het besluit van de korpschef volledig rechterlijk getoetst. Er is daarom geen grond voor het oordeel dat artikel 6 van het EVRM, het recht op fair trial of het recht op equality of arms is geschonden.
+
+Het betoog faalt.
+
+Horen getuige
+
+7.    [appellant] betoogt dat de rechtbank ten onrechte geen aanleiding heeft gezien om [persoon A], werkzaam bij de eenheid Midden-Nederland van de politie, als getuige te horen. Volgens [appellant] kan [persoon A] essentiële informatie verschaffen over de procedures en het toetsbeleid bij de eenheid Midden-Nederland en de communicatie tussen de eenheid Midden-Nederland, de eenheid Amsterdam en de minister.
+
+7.1.    De standpunten van de korpschef en de daaraan ten grondslag gelegde motivering staan in het besluit van 1 februari 2019. Vragen hierover zijn ter zitting beantwoord door de gemachtigde van de korpschef. Niet valt in te zien dat de informatie die [persoon A] volgens [appellant] kan geven, verband houdt met vragen die in deze zaak moeten worden beantwoord. Het horen van [persoon A] kan daarom redelijkerwijs niet bijdragen aan de beoordeling van deze zaak.
+
+Het betoog faalt.
+
+Conclusie
+
+8.    Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd.
+
+9.    Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+bevestigt de aangevallen uitspraak.
+
+Aldus vastgesteld door mr. P.B.M.J. van der Beek-Gillessen, voorzitter, en mr. J.Th. Drop en mr. B.P.M. van Ravels, leden, in tegenwoordigheid van mr. H. Herweijer, griffier.
+
+De voorzitter is verhinderd de uitspraak te ondertekenen.
+
+De griffier is verhinderd de uitspraak te ondertekenen.
+
+Uitgesproken in het openbaar op 25 maart 2020
+
+640.
+
+BIJLAGE
+
+Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden
+
+Artikel 6
+
+1 Bij het vaststellen van zijn burgerlijke rechten en verplichtingen of bij het bepalen van de gegrondheid van een tegen hem ingestelde vervolging heeft een ieder recht op een eerlijke en openbare behandeling van zijn zaak, binnen een redelijke termijn, door een onafhankelijk en onpartijdig gerecht dat bij de wet is ingesteld. […]
+
+Richtlijn nr. 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de diensten op de interne markt
+
+Artikel 2
+
+Werkingssfeer
+
+[…]
+
+2.   Deze richtlijn is niet van toepassing op de volgende activiteiten:
+
+[…]
+
+k) particuliere beveiligingsdiensten;
+
+[…]
+
+Artikel 10
+
+Vergunningsvoorwaarden
+
+1.   Vergunningstelsels zijn gebaseerd op criteria die beletten dat de bevoegde instanties hun beoordelingsbevoegdheid op willekeurige wijze uitoefenen.
+
+2.   De in lid 1 bedoelde criteria zijn:
+
+a) niet-discriminatoir;
+
+b) gerechtvaardigd om een dwingende reden van algemeen belang;
+
+c) evenredig met die reden van algemeen belang;
+
+d) duidelijk en ondubbelzinnig;
+
+e) objectief;
+
+f) vooraf openbaar bekendgemaakt;
+
+g) transparant en toegankelijk.
+
+[…]
+
+Dienstenwet
+
+Artikel 2
+
+[…]
+
+3 Deze wet is niet van toepassing op:
+
+a. […]
+
+2°. diensten en sectoren die op grond van de artikel 2, tweede lid, van de richtlijn, van het toepassingsgebied van de richtlijn zijn uitgezonderd,
+
+[…]
+
+Wet particuliere beveiligingsorganisaties en recherchebureaus
+
+Artikel 7
+
+1  Een beveiligingsorganisatie of recherchebureau aan welke een vergunning is verleend stelt geen personen te werk die belast zullen worden met de leiding van de organisatie of het bureau, dan nadat voor hen toestemming is verkregen van Onze Minister.
+
+2 Een beveiligingsorganisatie of recherchebureau als bedoeld in het eerste lid stelt geen personen te werk die belast zullen worden met werkzaamheden, anders dan bedoeld in het eerste lid, dan nadat voor hen toestemming is verkregen van de korpschef. […]
+
+4 De toestemming, bedoeld in het eerste, tweede en derde lid, wordt onthouden indien de desbetreffende persoon niet beschikt over de bekwaamheid en betrouwbaarheid die nodig zijn voor het te verrichten werk. […]
+
+Beleidsregels particuliere beveiligingsorganisaties en recherchebureaus 2014
+
+2.3. Betrouwbaarheid personeel en leidinggevenden
+
+De toestemming aan een beveiligingsorganisatie of recherchebureau om personen te werk stellen, zoals bedoeld in artikel 7, eerste, tweede en derde lid, van de wet wordt onthouden indien:
+
+a) de betrokkene binnen vier jaar voorafgaande aan het moment van toetsing is veroordeeld wegens het plegen van een misdrijf waarbij een (on)voorwaardelijke geldboete is opgelegd, dan wel een strafbeschikking of een transactie wegens het plegen van een misdrijf van het Openbaar Ministerie heeft aanvaard, of
+
+b) de betrokkene binnen acht jaar voorafgaande aan het moment van toetsing is veroordeeld wegens het plegen van een misdrijf waarbij een (on)voorwaardelijke vrijheidsstraf of taakstraf is opgelegd, of
+
+c) op grond van andere omtrent betrokkene bekende en relevante feiten kan worden aangenomen dat deze onvoldoende betrouwbaar is om voor een beveiligingsorganisatie of een recherchebureau werkzaamheden te verrichten dan wel onvoldoende betrouwbaar is om de belangen van de veiligheidszorg of de goede naam van de bedrijfstak niet te schaden.
+
+[…]
+
+Ad. c
+
+Van het bepaalde onder c zal sprake zijn indien de betrokkene er blijk van heeft gegeven rechtsregels naast zich neer te leggen waarvan de overtreding beschouwd kan worden als een tamelijk ernstige aantasting van de rechtsorde. Dat de betrokkene onvoldoende betrouwbaar is, kan worden aangenomen op basis van andere, niet uit veroordelingen of transacties gebleken, omtrent betrokkene bekende feiten. Zo kunnen (tegen betrokkene) opgemaakte processen-verbaal of (dag/mutatie)rapporten ertoe leiden dat betrokkene onvoldoende betrouwbaar of geschikt wordt geacht om voor een beveiligingsorganisatie of een recherchebureau te werken. Uiteraard is daarbij van belang dat tegen betrokkene nog altijd een serieuze verdenking bestaat.
+
+Ook sepots kunnen een rol spelen bij de beoordeling van de betrouwbaarheid. Hierbij dient de aard van het sepot in ogenschouw te worden genomen. Een technisch sepot, bijvoorbeeld wegens onvoldoende bewijs, zal bij de beoordeling naar de betrouwbaarheid een minder grote rol spelen dan een sepotbeslissing die op beleidsmatige gronden is genomen. In het geval dat een sepot wordt meegenomen in de beoordeling, wordt als datum gehanteerd de datum dat het Openbaar Ministerie de beslissing heeft genomen de zaak te seponeren.
+
+In geval van aanwijzingen dat de aanvrager verkeert in kringen waarbinnen (dreiging met) geweld niet wordt geschuwd, dan wel indicaties die wijzen in de richting van betrokkenheid van aanvrager bij enige vorm van afpersing, drugshandel of andere zware (georganiseerde) criminaliteit dan wel het verkeren door hem in (zware) criminele kringen, kan er eveneens aanleiding zijn aan te nemen dat de betrokkene onvoldoende betrouwbaar is om voor een beveiligingsorganisatie of een recherchebureau werkzaamheden te verrichten. In het geval er een vermoeden bestaat dat de betrokkene verkeert in criminele kringen dient dit vermoeden recent en objectief bepaalbaar te zijn op grond van de onderliggende politiegegevens. Daarbij moet worden bedacht dat betrokkene zoveel mogelijk de gelegenheid moet krijgen zich te verweren tegen de tegen hem bestaande bedenkingen.
+
+Wanneer de informatie (van bijvoorbeeld van de Criminele Inlichtingen Eenheid) niet mag worden prijsgegeven zijn de desbetreffende gegevens dus niet bruikbaar in een bestuursrechtelijke procedure. Vastlegging in een rapport of proces-verbaal is noodzakelijk maar ter bescherming van de identiteit van de informant kan worden volstaan met het beknopt vermelden van de gegevens waarmee de aanvrager in verband wordt gebracht en wat de betrouwbaarheid is van deze informatie. In het kader van een eventuele beroepsprocedure kan de rechtbank zo nodig vertrouwelijk kennis nemen van de onderliggende informatie om zich zodoende een oordeel te kunnen vormen over de juistheid van het bestreden besluit.
+
+De periode die in acht moet worden genomen bij toepassing van het bepaalde onder c is afhankelijk van de omstandigheden van het geval. De periode kan echter - behoudens uitzonderlijke gevallen - nooit langer zijn dan de 8 jaar als hiervoor genoemd.
