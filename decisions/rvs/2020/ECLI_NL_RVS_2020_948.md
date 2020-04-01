@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2020:948"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0081"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0081", "PR-Updates.nl 2020-0081"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2019:3060, Meerdere afhandelingswijzen"]]
 ---
 
