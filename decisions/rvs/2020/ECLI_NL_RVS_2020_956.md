@@ -1,0 +1,115 @@
+---
+ecli: "ECLI:NL:RVS:2020:956"
+court: "Raad van State"
+court_code: "RVS"
+docket: "201903800/1/R1"
+decided: "2020-04-01"
+published: "2020-04-01"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2020:956"
+published_in: ["Rechtspraak.nl", "ABkort 2020/218", "Milieurecht Totaal 2020/7126"]
+---
+
+# ECLI:NL:RVS:2020:956 Raad van State , 01-04-2020 / 201903800/1/R1
+
+## Inhoudsindicatie
+
+Bij besluit van 1 mei 2018 heeft het college van burgemeester en wethouders van Oost Gelre het verzoek van [appellante] om een wijzigingsplan vast te stellen afgewezen. Het ontwerpbestemmingsplan "Landbouwontwikkelingsgebieden Ruurlosebroek en Mariënvelde, herziening intensieve veehouderij" van 1 mei 2018 strekte ertoe een wijzigingsbevoegdheid te schrappen. Tegen het ontwerpbestemmingsplan zijn geen zienswijzen naar voren gebracht. Het bestemmingsplan is daarna in de raadsvergadering van 18 september 2018 door de gemeenteraad vastgesteld. Er bestond daarmee geen wijzigingsbevoegdheid meer die het mogelijk maakte om mee te werken aan de nieuwvestiging van nieuwe intensieve veehouderijen. Het gewijzigde bestemmingsplan is inmiddels in rechte onaantastbaar. Het college heeft daarom besloten om geen verdere medewerking meer te verlenen aan de plannen voor een vleeskuikenbedrijf te Harreveld.
+
+## Uitspraak
+
+201903800/1/R1.
+
+Datum uitspraak: 1 april 2020
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak in het geding tussen:
+
+[appellante], gevestigd te Harreveld, gemeente Oost Gelre,
+
+en
+
+het college van burgemeester en wethouders van Oost Gelre,
+
+verweerder.
+
+Procesverloop
+
+Bij besluit van 1 mei 2018 heeft het college het verzoek van [appellante] om een wijzigingsplan vast te stellen afgewezen.
+
+Bij besluit van 9 april 2019 heeft het college het door [appellante] hiertegen gemaakte bezwaar ongegrond verklaard.
+
+Tegen dit besluit heeft [appellante] beroep ingesteld.
+
+Het college heeft een verweerschrift ingediend.
+
+De Afdeling heeft de zaak ter zitting behandeld op 16 januari 2020, waar [appellante], vertegenwoordigd door mr. N.S. Commijs, advocaat te Zwolle, en [gemachtigde], en het college, vertegenwoordigd door mr. B. ten Have en ing. H. Smeenk, zijn verschenen.
+
+Overwegingen
+
+Inleiding
+
+1.    In 2007 heeft [appellante] voor het perceel aan de Schurinkweg een verzoek ingediend om een intensieve veehouderij te mogen starten. Dit verzoek is destijds niet inhoudelijk behandeld omdat eerst een visie en een bestemmingsplan voor de landbouwontwikkelingsgebieden moesten worden opgesteld. Naar aanleiding van de vaststelling van het bestemmingsplan is door [appellante] op 14 januari 2011 een principeverzoek ingediend. Het college heeft op 18 april 2011 in principe aan [appellante] medewerking toegezegd voor een nieuw vleeskuikenbedrijf aan de Schurinkweg te Harreveld. Deze toezegging was gebaseerd op een wijzigingsbevoegdheid voor het mogelijk maken van nieuwe intensieve veehouderijen, die was opgenomen in het bestemmingsplan "Landbouwontwikkelingsgebieden Ruurlose Broek en Mariënvelde", vastgesteld door de raad van de gemeente Oost-Gelre op 31 december 2010.
+
+Het ontwerpbestemmingsplan "Landbouwontwikkelingsgebieden Ruurlosebroek en Mariënvelde, herziening intensieve veehouderij" van 1 mei 2018 strekte ertoe deze wijzigingsbevoegdheid te schrappen. Tegen het ontwerpbestemmingsplan zijn geen zienswijzen naar voren gebracht. Het bestemmingsplan is daarna in de raadsvergadering van 18 september 2018  door de raad vastgesteld. Er bestond daarmee geen wijzigingsbevoegdheid meer die het mogelijk maakte om mee te werken aan de nieuwvestiging van nieuwe intensieve veehouderijen. Het gewijzigde bestemmingsplan is inmiddels in rechte onaantastbaar. Het college heeft daarom besloten om geen verdere medewerking meer te verlenen aan de plannen voor een vleeskuikenbedrijf te Harreveld.
+
+Toetsingskader
+
+2.    Bij het besluit omtrent de vaststelling van een wijzigingsplan heeft het college beleidsruimte en moet het de betrokken belangen afwegen. De Afdeling maakt die belangenafweging niet zelf, maar beoordeelt aan de hand van de beroepsgronden of het besluit om het wijzigingsplan niet vast te stellen in overeenstemming is met het recht.
+
+Toetsing beslissing op bezwaar
+
+3.    De Afdeling stelt vast dat de wijzigingsbevoegdheid, die was opgenomen in het bestemmingsplan "Landbouwontwikkelingsgebieden Ruurlose Broek en Mariënvelde", ten tijde van het besluit van 1 mei 2018 nog bestond. Ten tijde van de beslissing op bezwaar van 9 april 2019 bestond deze wijzigingsbevoegdheid echter niet meer.
+
+3.1.    De Afdeling stelt voorop dat er bij de heroverweging in bezwaar als uitgangspunt een beoordeling moet worden verricht naar de feiten en omstandigheden zoals die zich ten tijde van het besluit op bezwaar voordeden. Dit betekent dat het college rekening moet houden met alle relevante feiten en omstandigheden zoals die zich op dat moment voordoen en dat het recht moet worden toegepast zoals het op dat moment geldt, ook als de belanghebbende door de toepassing van dat nieuwe recht in een ongunstigere positie komt te verkeren.
+
+Slechts in bijzondere gevallen kan van dit uitgangspunt worden afgeweken. Volgens vaste jurisprudentie van de Afdeling (zoals de uitspraak van 11 november 2015, ECLI:NL:RVS:2015:3421) is hiervan sprake bij bouwplannen. In dat geval moet een aanvraag om een omgevingsvergunning aan een ten tijde van het besluit op bezwaar niet meer geldend bestemmingsplan worden getoetst, indien ten tijde van het indienen van de aanvraag het bouwplan in overeenstemming was met het toen geldende bestemmingsplan en op dat moment geen voorbereidingsbesluit voor een nieuw bestemmingsplan van kracht was, dan wel een nieuw bestemmingsplan ter inzage was gelegd waarmee dat bouwplan in strijd was. Deze uitzondering houdt verband met het zogenoemde limitatief-imperatief stelsel, dat erop neerkomt dat indien geen van de weigeringsgronden uit artikel 2.10, eerste lid, van de Wet algemene bepalingen omgevingsrecht zich voordoen, het bevoegde bestuursorgaan gehouden is de vergunning te verlenen.
+
+De bevoegdheid van het college om wel of geen wijzigingsplan vast te stellen heeft een wezenlijk ander karakter. Het college heeft immers, ook indien wordt voldaan aan alle voorwaarden waaronder toepassing kan worden gegeven aan de wijzigingsbevoegdheid, onder omstandigheden de mogelijkheid te weigeren van die bevoegdheid gebruik te maken. Voor een uitzondering op de regel dat een beslissing op bezwaar moet worden genomen met inachtneming van het op dat moment geldende recht, bestaat in het licht daarvan geen aanleiding. In dit geval is de wijzigingsbevoegdheid bij het bestemmingsplan "Landbouwontwikkelingsgebieden Ruurlose Broek en Mariënvelde, herziening intensieve veehouderij", vastgesteld door de raad op 18 september 2018, geschrapt. Er is tegen het plan geen beroep ingesteld en dit is dus zes weken later onherroepelijk geworden. Er was daarmee ten tijde van de beslissing op bezwaar geen wijzigingsbevoegdheid meer die het mogelijk maakte om mee te werken aan de nieuwvestiging van nieuwe intensieve veehouderijen.
+
+Vertrouwensbeginsel
+
+4.    Voor zover [appellante] zich op het standpunt heeft gesteld dat het college in strijd met het vertrouwensbeginsel heeft gehandeld omdat het college een principeakkoord heeft gegeven voor de nieuwvestiging van een vleeskuikenbedrijf, overweegt de Afdeling het volgende. De Afdeling begrijpt dit betoog aldus dat het college volgens [appellante], ondanks het schrappen van de wijzigingsbevoegdheid, haar wens om een nieuw vleeskuikenbedrijf te kunnen vestigen op enigerlei wijze had moeten faciliteren.
+
+4.1.    Voor een geslaagd beroep op het vertrouwensbeginsel is vereist dat de betrokkene aannemelijk maakt dat van de zijde van de overheid toezeggingen of andere uitlatingen zijn gedaan of gedragingen zijn verricht waaruit de betrokkene in de gegeven omstandigheden redelijkerwijs kon en mocht afleiden of en zo ja, hoe het bestuursorgaan in een concreet geval een bevoegdheid zou uitoefenen.
+
+Verder is vereist dat de toezegging, andere uitlating of gedraging aan het bevoegde bestuursorgaan kan worden toegerekend. Dat is het geval indien de betrokkene in de gegeven omstandigheden redelijkerwijs kon en mocht veronderstellen dat degene die de uitlating deed of de gedraging verrichtte de opvatting van het bevoegde orgaan vertolkte.
+
+4.2.    De Afdeling is van oordeel dat de brief van 18 april 2011 waarin het college heeft besloten in principe medewerking te verlenen aan de vestiging van een vleeskuikenbedrijf aan de Schurinkweg te Harreveld, valt te kwalificeren als een toezegging. De omstandigheid dat er strikt genomen (nog) niet aan alle voorwaarden voor de principemedewerking was voldaan omdat onder meer een bodemonderzoek en een uitgewerkt beplantingsplan ontbraken en er slechts een concept milieueffectrapportage was ingediend, maakt niet dat [appellante] aan die toezegging geen verwachtingen mocht ontlenen. De Afdeling neemt hierbij in aanmerking dat het college ter zitting heeft verklaard dat wanneer de wijzigingsbevoegdheid niet geschrapt was en de ontbrekende gegevens zouden worden aangeleverd, de procedure niet zou zijn gestrand.
+
+[appellante] mocht, gelet op het voorgaande, de gerechtvaardigde verwachting hebben dat het college medewerking zou verlenen aan de vestiging van een vleeskuikenbedrijf aan de Schurinkweg te Harreveld.
+
+4.3.    Dat sprake is van gerechtvaardigde verwachtingen betekent niet dat daaraan altijd moet worden voldaan. Zwaarder wegende belangen, zoals het algemeen belang of de belangen van derden, kunnen daaraan in de weg staan. Bij deze belangenafweging kan ook een rol spelen of de betrokkene op basis van de gewekte verwachtingen handelingen heeft verricht of nagelaten als gevolg waarvan hij schade heeft geleden of nadeel heeft ondervonden.
+
+De Afdeling merkt in dit verband op dat de wijzigingsbevoegdheid is geschrapt wegens een zwaarwegend ruimtelijk belang, namelijk het terugdringen van intensieve veehouderijen in dit gebied. Voorts heeft [appellante] geen zienswijzen naar voren gebracht tegen het schrappen van de wijzigingsbevoegdheid. Daarnaast was weliswaar in 2011 in principe medewerking aan het vleeskuikenbedrijf door het college toegezegd, maar het had op de weg gelegen van [appellante] om na het verkrijgen van de principemedewerking nog een aanvraag tot vaststelling van een wijzigingsplan in te dienen. Van bijzondere omstandigheden in verband waarmee dit niet eerder is gedaan, is niet gebleken. Gelet op het vorenstaande heeft het college, naar het oordeel van de Afdeling, ervan mogen afzien om medewerking te verlenen aan de wens van [appellante] om een nieuw vleeskuikenbedrijf te vestigen. Onder voornoemde omstandigheden was het college niet gehouden om als onderdeel van de besluitvorming tot vergoeding van schade over te gaan. Overigens heeft het college in het besluit op bezwaar en op de zitting aangegeven wel uit een oogpunt van coulance in enige tegemoetkoming van de door [appellante] gemaakte kosten te willen voorzien.
+
+Gelet op het voorgaande komt de Afdeling niet toe aan een beoordeling van de inhoudelijke beroepsgronden van [appellante] over de voorwaarden van de wijzigingsbevoegdheid, de provinciale verordening, de alternatieve locaties en de belangenafweging.
+
+Het betoog slaagt niet.
+
+Conclusie
+
+5.    Het beroep is ongegrond.
+
+6.    Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+verklaart het beroep ongegrond.
+
+Aldus vastgesteld door mr. R. Uylenburg, voorzitter, en mr. F.C.M.A. Michiels en mr. P.B.M.J. van der Beek-Gillessen, leden, in tegenwoordigheid van mr. P.A. Melse, griffier.
+
+De voorzitter is verhinderd de uitspraak te ondertekenen.
+
+De griffier is verhinderd de uitspraak te ondertekenen.
+
+Uitgesproken in het openbaar op 1 april 2020
+
+195-928.
