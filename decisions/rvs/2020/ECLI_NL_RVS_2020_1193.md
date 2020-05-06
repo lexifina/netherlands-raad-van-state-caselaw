@@ -1,0 +1,183 @@
+---
+ecli: "ECLI:NL:RVS:2020:1193"
+court: "Raad van State"
+court_code: "RVS"
+docket: "201903452/1/A1"
+decided: "2020-05-06"
+published: "2020-05-06"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2020:1193"
+published_in: ["Rechtspraak.nl", "JOM 2020/290", "JGROND 2020/142 met annotatie van Loo, F.M.A. van der", "Jurisprudentie Grondzaken 2020/142 met annotatie van Loo, F.M.A. van der"]
+---
+
+# ECLI:NL:RVS:2020:1193 Raad van State , 06-05-2020 / 201903452/1/A1
+
+## Inhoudsindicatie
+
+Bij besluit van 29 maart 2017 heeft het college van burgemeester en wethouders van Dantumadiel aan [appellant sub 1] een omgevingsvergunning verleend. [appellant sub 1] exploiteert op de percelen [locatie 1] en [locatie 2] in Hurdegaryp  - plaatselijk bekend als De Wâl in Feanwâlden  - een loon- en melkveehouderijbedrijf. Bij het besluit van 29 maart 2017 heeft het college aan [appellant sub 1] een omgevingsvergunning verleend voor zijn inrichting op de [locatie 2] in Feanwâlden. Het gaat om het oprichten van een inrichting en het vergroten van een melkveelstal. Ter plaatse geldt het bestemmingsplan "Bûtengebied Dantumadiel 2013". Het bouwplan is daarmee in strijd. Om medewerking te kunnen verlenen aan het bouwplan heeft het college de gevraagde omgevingsvergunning verleend met toepassing van artikel 2.12, eerste lid, aanhef en onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht. [appellant sub 2] en anderen wonen in de buurt van de inrichting.
+
+## Uitspraak
+
+201903452/1/A1.
+
+Datum uitspraak: 6 mei 2020
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak op het hoger beroep van:
+
+1. [appellant sub 1], wonend te Feanwâlden, gemeente Dantumadiel,
+
+2. [appellant sub 2] en anderen, allen wonend te Feanwâlden,
+
+tegen de uitspraak van de rechtbank Noord-Nederland van 22 maart 2019 in zaak nr. 17/1624 in het geding tussen:
+
+[appellant sub 2] en anderen
+
+en
+
+het college van burgemeester en wethouders van Dantumadiel.
+
+Procesverloop
+
+Bij besluit van 29 maart 2017 heeft het college aan [appellant sub 1] een omgevingsvergunning verleend.
+
+Bij uitspraak van 22 maart 2019 heeft de rechtbank het door [appellant sub 2] en anderen daartegen ingestelde beroep gegrond verklaard, dat besluit vernietigd en bepaald dat het college een nieuw besluit moet nemen op de aanvraag met inachtneming van hetgeen in deze uitspraak is overwogen. Deze uitspraak is aangehecht.
+
+Tegen deze uitspraak heeft [appellant sub 1] hoger beroep ingesteld.
+
+[appellant sub 2] en anderen hebben incidenteel hoger beroep ingesteld.
+
+Het college, [appellant sub 1] en [appellant sub 2] en anderen hebben een schriftelijke uiteenzetting schriftelijke uiteenzetting gegeven.
+
+Het college, [appellant sub 1] en [appellant sub 2] en anderen hebben nadere stukken ingediend.
+
+[appellant sub 2] en anderen hebben beroep ingesteld tegen het uitblijven van een nieuw besluit.
+
+De Afdeling heeft de zaak ter zitting behandeld op 10 februari 2020, waar [appellant sub 1], bijgestaan door [gemachtigde A], [appellant sub 2] en anderen, vertegenwoordigd door [gemachtigde B], bijgestaan door mr. A. Daan, advocaat te Deventer, en het college, vertegenwoordigd door mr. D. Wielstra-Veenstra en mr. K.J. Arends, zijn verschenen.
+
+Overwegingen
+
+Inleiding
+
+1.    [appellant sub 1] exploiteert op de percelen [locatie 1] en [locatie 2] in Hurdegaryp  - plaatselijk bekend als De Wâl in Feanwâlden  - een loon- en melkveehouderijbedrijf. Bij het besluit van 29 maart 2017 heeft het college aan [appellant sub 1] een omgevingsvergunning verleend voor zijn inrichting op de [locatie 2] in Feanwâlden. Het gaat, voor zover hier van belang, om het oprichten van een inrichting en het vergroten van een melkveelstal.
+
+2.    Ter plaatse geldt het bestemmingsplan "Bûtengebied Dantumadiel 2013". Het bouwplan is daarmee in strijd. Om medewerking te kunnen verlenen aan het bouwplan heeft het college de gevraagde omgevingsvergunning verleend met toepassing van artikel 2.12, eerste lid, aanhef en onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht.
+
+3.    [appellant sub 2] en anderen wonen in de buurt van de inrichting.
+
+4.    De rechtbank heeft de Stichting Advisering Bestuursrechtspraak (hierna: de STAB) benoemd als deskundige voor het instellen van een onderzoek De STAB heeft de rechtbank op 16 januari 2018 van advies voorzien en heeft bij rapport van 8 maart 2018 op de reactie daarop van partijen gereageerd.
+
+Beoordeling hoger beroepen
+
+5.    [appellant sub 1] betoogt dat de rechtbank ten onrechte heeft overwogen dat zijn bedrijf is gelegen binnen de bebouwde kom als bedoeld in de Wet geurhinder en veehouderij (hierna: de Wgv). Onder verwijzing naar de uitspraak van de Afdeling 20 juni 2012, ECLI:NL:RVS:2012:BW8839, stelt [appellant sub 1] dat er geen sprake is van een gebied waarin veel mensen per oppervlakte-eenheid wonen of verblijven. Voor zover de Afdeling zou oordelen dat De Wâl wel als bebouwde kom moet worden aangemerkt, stelt [appellant sub 1] dat de woningen van [appellant sub 2] en anderen daartoe niet behoren. Die woningen staan los van de lintbebouwing waardoor die geen onderdeel van de bebouwde kom zijn. Volgens [appellant sub 1] is er geen sprake van één samenhangende structuur.
+
+5.1.    Artikel 4, eerste lid, van de Wet geurhinder en veehouderij luidt: "De afstand tussen een veehouderij waar dieren worden gehouden van een diercategorie waarvoor niet bij ministeriële regeling een geuremissiefactor is vastgesteld, en een geurgevoelig object bedraagt:
+
+a. ten minste 100 meter indien het geurgevoelige object binnen de bebouwde kom is gelegen, en
+
+b. ten minste 50 meter indien het geurgevoelige object buiten de bebouwde kom is gelegen."
+
+Artikel 6, derde lid, luidt: "Bij gemeentelijke verordening kan worden bepaald dat binnen een deel van het grondgebied van de gemeente een andere afstand van toepassing is dan de afstand, genoemd in artikel 4, eerste lid, met dien verstande dat […]."
+
+5.2.    Ten tijde van belang was in de gemeentelijke verordening geen van artikel 4, eerste lid, van de Wgv afwijkende afstand bepaald.
+
+Zoals de Afdeling eerder heeft overwogen (bijvoorbeeld in de uitspraak van 27 maart 2019, ECLI:NL:RVS:2019:954), is de vraag of een perceel in de bebouwde kom is gelegen van feitelijke aard, waarbij de aard van de omgeving bepalend is en van belang is waar de bebouwing feitelijk, nagenoeg, ophoudt. De plaats van de verkeerborden is daarbij niet van belang.
+
+Het college heeft op de zitting van de Afdeling gesteld dat deze situatie een grensgeval is van wat als bebouwde kom moet worden aangemerkt. Het college is ervan uitgegaan dat de inrichting buiten de bebouwde kom ligt. De Afdeling is in navolging van de rechtbank en de STAB van oordeel dat de omgeving van de inrichting als bebouwde kom moet worden aangemerkt. De Afdeling sluit zich aan bij de overwegingen van de rechtbank dat de woningen aan De Wal 3, 5, 5b, 5c, 5d en 5e een overeenkomstige structuur hebben wat betreft dichtheid van woningen en onderlinge afstand als de bebouwing ten oosten van deze woningen. De afstand tot de overige woningen is vergelijkbaar met de afstanden tussen de woningen onderling in de rest van het gebied. Gelet hierop kan de bebouwing van deze woningen en de overige woningen ten oosten van De Veenwoudsterwalvaart als één samenhangende structuur worden beschouwd. Deze woningen sluiten direct aan op de lintbebouwing die aansluit op de kern van het dorp. De bebouwing houdt feitelijk nagenoeg op na deze woningen, waarmee deze woningen nog onderdeel uitmaken van de bebouwde kom.
+
+Het betoog faalt.
+
+6.    [appellant sub 2] en anderen betogen dat de rechtbank ten onrechte heeft nagelaten zelf te voorzien door de omgevingsvergunning te weigeren, aangezien de rechtbank terecht heeft overwogen dat de omgevingsvergunning in strijd is met artikel 4, eerste lid, van de Wgv.
+
+6.1.    De Afdeling ziet geen grond voor het oordeel dat de rechtbank gehouden was om zelf in de zaak te voorzien zoals door [appellant sub 2] en anderen wordt voorgestaan. De rechtbank heeft in aanmerking kunnen nemen dat het college heeft gesteld te willen onderzoeken of de gemeentelijke verordening in het kader van artikel 6 van de Wgv voor dit perceel kan worden aangepast. De rechtbank kon ermee volstaan om het besluit van 29 maart 2017 te vernietigen en het college op te dragen een nieuw besluit te nemen.
+
+Het betoog faalt.
+
+7.    [appellant sub 1] betoogt dat de rechtbank ten onrechte heeft overwogen dat zijn bedrijf niet grondgebonden is omdat het beschikt over ongeveer 81 hectare grond terwijl dat volgens de provinciale Verordening Romte Fryslân 2014 (hierna: de Verordening) tussen de 105 en 121 ha zou moeten zijn. De rechtbank gaat daarmee uit van een onjuiste rechtsopvatting. Volgens [appellant sub 1] stelt de Verordening geen norm, maar is het aan gemeenten om in planregels te bepalen wat moet worden verstaan onder grondgebondenheid. Het is volgens [appellant sub 1] aan het college om te beoordelen of het bedrijf in overeenstemming is met de definitie van artikel 1, lid 1.49, van de planregels. Het college heeft zich volgens [appellant sub 1] in de ruimtelijke onderbouwing terecht op het standpunt gesteld dat het bedrijf voldoende mogelijkheden heeft om haar bedrijfsvoering rond te zetten op en met de gronden die in de omgeving zijn gelegen en dat aan hem een omgevingsvergunning kan worden verleend als grondgebonden agrarisch bedrijf.
+
+7.1.    Artikel 6, lid 6.1.2, van de Verordening luidt:
+
+"1. In een ruimtelijk plan kan een bestaand bouwperceel voor een grondgebonden agrarisch bedrijf een uitbreiding krijgen tot een maximale oppervlakte van 1,5 ha, dan wel de bestaande oppervlakte behouden indien deze meer bedraagt dan 1,5 ha.
+
+2. In afwijking van het eerste lid kan een groter bouwperceel worden toegestaan, mits:
+
+a. het agrarisch bedrijf grondgebonden blijft, en
+
+b. de oppervlakte van het agrarisch bouwperceel niet meer bedraagt dan 3 ha.
+
+3. […]"
+
+Volgens de begripsbepaling worden in de Verordening onder de volgende begrippen verstaan:
+
+"grondgebonden agrarisch bedrijf: agrarisch bedrijf waarbij het gebruik van agrarische gronden in de omgeving van het bedrijf noodzakelijk is voor het functioneren van het bedrijf, in de vorm van akkerbouw, vollegronds-tuinbouw, fruitteelt en boomteelt, grondgebonden veehouderij, en naar de aard daarmee vergelijkbare bedrijven.
+
+grondgebonden veehouderij: een veehouderij waarbij voldoende grond in de omgeving van het bedrijf aanwezig is om overwegend te voorzien in de mestafzet en het benodigde ruwvoer van de veehouderij, inclusief een neventak niet-grondgebonden veehouderij die wat betreft aard en schaal ondergeschikt is aan de grondgebonden bedrijfsvoering.
+
+ruimtelijk plan: […] een omgevingsvergunning als bedoeld in artikel 2.1, eerste lid juncto artikel 2.12, eerste lid, onderdeel a, onder 3, van de Wet algemene bepalingen omgevingsrecht […]."
+
+Artikel 1, lid 1.49, van de planregels luidt:
+
+"grondgebonden agrarische bedrijfsvoering: een agrarische bedrijfsvoering die geheel dan wel grotendeels afhankelijk is van de groeikracht van de bodem waarop het bedrijf wordt uitgeoefend."
+
+7.2.    In de ruimtelijke onderbouwing van het bouwplan is vermeld dat het bouwperceel na uitbreiding groter is dan 1,5 ha. Ook in het advies van de STAB wordt van een grotere oppervlakte dan 1,5 ha uitgegaan. Eerst op de zitting van de Afdeling heeft [appellant sub 1] gesteld dat het bouwperceel na uitbreiding slechts 1,2 ha omvat, zodat alleen al daarom niet voldaan hoeft te worden aan de eis in de Verordening van grondgebondenheid. Deze enkele bewering zonder nadere onderbouwing of berekening kan niet leiden tot de conclusie dat de rechtbank de Verordening onjuist heeft toegepast, daargelaten dat [appellant sub 1] dit eerst in hoger beroep heeft aangevoerd en het op zijn weg had gelegen dit eerder aan de orde te stellen.
+
+7.3.    Het college heeft zich in de ruimtelijke onderbouwing en de zienswijzennota, behorend bij het besluit van 29 maart 2017, op het standpunt gesteld dat "grondgebonden" betekent dat het bedrijf grotendeels afhankelijk is van de groeikracht van de bodem waarop het bedrijf wordt uitgeoefend. Het bedrijf heeft volgens het college voldoende mogelijkheden om haar bedrijfsvoering rond te zetten op en met de gronden die in de omgeving zijn gelegen. Het gaat daarbij onder meer om het weiden van de koeien, het leveren van ruwvoer en afzetten van de eigen mest. Het bedrijf heeft daarvoor 81 ha tot zijn beschikking.
+
+7.4.    De rechtbank heeft terecht overwogen dat de enkele stelling van het college dat [appellant sub 1] voldoende gronden bezit om overwegend zelf te voorzien in (ruw)voer en afzet van de eigen mest, onvoldoende is om dat standpunt te kunnen dragen. Het college dient een dergelijke stelling nader te onderbouwen, hetgeen onvoldoende is gebeurd in het besluit van 29 maart 2017 en de bijbehorende stukken. Dit klemt te meer omdat indien wordt uitgegaan van de indicatieberekening in de toelichting op de Verordening, [appellant sub 1] met 81 ha over onvoldoende gronden beschikt. De indicatieberekening in de toelichting op de Verordening houdt in dat een veehouderij grondgebonden is als het voor het vee benodigde ruwvoer overwegend - dat wil zeggen: in ieder geval meer dan de helft - afkomstig is van de bij het bedrijf behorende landbouwgrond. Daaraan wordt volgens de toelichting voldaan bij een veebezetting van ongeveer 3 grootvee-eenheden (hierna: GVE) of minder per hectare gras en voedergewassen. Uitgaande van de voorziene uitbreiding heeft [appellant sub 1] volgens deze indicatieberekening minimaal 314 GVE en maximaal 362 GVE. De rechtbank heeft terecht overwogen dat indien wordt uitgegaan van de indicatieberekening in de toelichting op de Verordening, tussen de 105 en 121 ha nodig is om overwegend - dat wil zeggen voor meer dan de helft - te kunnen voorzien in de eigen behoefte.
+
+Omdat het college geen nadere onderbouwing heeft gegeven voor het standpunt dat het bedrijf grondgebonden is, heeft de rechtbank terecht geconcludeerd dat het college onvoldoende inzichtelijk heeft gemaakt dat het om een grondgebonden bedrijf gaat. Ook indien het betoog van [appellant sub 1] zou worden gevolgd dat de indicatieberekening uit de toelichting niet doorslaggevend is voor de uitleg die wordt gegeven aan het begrip grondgebonden bedrijf, dan geldt nog steeds dat het college zijn standpunt niet voldoende heeft onderbouwd zodat dit betoog alleen al daarom niet kan slagen.
+
+Het betoog faalt.
+
+8.    [appellant sub 2] en anderen betogen in hun incidenteel hogerberoepschrift dat niet kan worden uitgesloten dat de uitbreiding van het bedrijf zal leiden tot een toename van de stikstofdepositie op Natura 2000-gebieden.
+
+8.1.    In artikel 8:69a van de Awb is het volgende bepaald: "De bestuursrechter vernietigt een besluit niet op de grond dat het in strijd is met een geschreven of ongeschreven rechtsregel of een algemeen rechtsbeginsel, indien deze regel of dit beginsel kennelijk niet strekt tot bescherming van de belangen van degene die zich daarop beroept."
+
+Blijkens de geschiedenis van de totstandkoming van de Wet aanpassing bestuursprocesrecht (Kamerstukken II, 2009/10, 32 450, nr. 3, blz. 18-20) heeft de wetgever met artikel 8:69a van de Awb de eis willen stellen dat er een verband moet bestaan tussen een beroepsgrond en het belang waarin de appellant door het bestreden besluit dreigt te worden geschaad. De bestuursrechter mag een besluit niet vernietigen wegens schending van een rechtsregel die kennelijk niet strekt tot bescherming van het belang van de appellant.
+
+8.2.    De bepalingen van de Wet natuurbescherming (hierna: de Wnb) hebben met name ten doel het algemene belang van bescherming van natuur en landschap te beschermen. Uit de jurisprudentie van de Afdeling (zie bijvoorbeeld de uitspraak van 25 april 2018, ECLI:NL:RVS:2018:1371) volgt dat de individuele belangen van burgers die in of in de onmiddellijke nabijheid van een Natura 2000-gebied wonen bij behoud van een goede kwaliteit van hun directe leefomgeving, zo verweven kunnen zijn met het algemene belang dat de Wnb beoogt te beschermen, dat niet kan worden geoordeeld dat de betrokken normen van de Wnb kennelijk niet strekken tot bescherming van hun belangen. Hiervan is bij [appellant sub 2] en anderen geen sprake omdat zij niet in de onmiddellijke nabijheid wonen. [appellant sub 1] heeft onweersproken gesteld dat de afstand tussen de woningen van [appellant sub 2] en anderen en de Natura 2000-gebieden ongeveer 10 km is.
+
+Conclusie hoger beroepen
+
+9.    De hoger beroepen zijn ongegrond. De aangevallen uitspraak dient te worden bevestigd
+
+Beroep wegens niet-tijdig beslissen
+
+10.    De rechtbank heeft het college bij haar uitspraak van 22 maart 2019 opgedragen om een nieuw besluit te nemen op de aanvraag met inachtneming van hetgeen in die uitspraak is overwogen. Het college heeft daaraan nog geen gehoor gegeven. Bij het besluit van 21 oktober 2019 heeft het college een ingebrekestelling van [appellant sub 2] en anderen afgewezen en heeft het zich op het standpunt gesteld dat geen dwangsommen zijn verbeurd. [appellant sub 2] en anderen berusten in de conclusie van het college dat geen dwangsommen zijn verbeurd, maar willen dat het college wordt opgedragen om een nieuw besluit op de aanvraag te nemen. Zij hebben daarom beroep bij de Afdeling ingesteld tegen het besluit van 21 oktober 2019.
+
+11.    Het college moest zo spoedig mogelijk, doch uiterlijk zes maanden na de aangevallen uitspraak een nieuw besluit nemen op de aanvraag. Het college heeft dat niet gedaan. Het college heeft zich bij brief van 22 november 2019 onder meer op het standpunt gesteld dat het nog geen nieuw besluit heeft genomen omdat de geurverordening van de gemeente wordt herzien. Het college heeft ten onrechte nog geen nieuw besluit op de aanvraag van [appellant sub 1] genomen. De Afdeling acht hiervoor een termijn van twaalf weken redelijk.
+
+12.    Het beroep is gegrond. Het besluit waarmee het niet tijdig nemen van een besluit volgens artikel 6:2, aanhef en onder b, van de Algemene wet bestuursrecht (hierna: de Awb) is gelijkgesteld, komt voor vernietiging in aanmerking. De Afdeling bepaalt dat het college ingevolge artikel 8:55d, derde lid, van de Awb alsnog een besluit op de aanvraag van [appellant sub 1] dient te nemen binnen twaalf weken na de dag waarop de uitspraak wordt verzonden. De Afdeling bepaalt, met toepassing van artikel 8:55d, tweede lid, van de Awb, ook dat het college een dwangsom verbeurt voor iedere dag dat het college in gebreke blijft de uitspraak na te leven.
+
+Proceskosten
+
+13.    Het college dient op na te melden wijze tot vergoeding van de proceskosten te worden veroordeeld.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+I.    bevestigt de aangevallen uitspraak;
+
+II.    vernietigt het met een besluit gelijk te stellen niet tijdig nemen van een besluit naar aanleiding van de uitspraak van de rechtbank;
+
+III.    draagt het college van burgemeester en wethouders van Dantumadiel op om binnen 12 weken na de verzending van deze uitspraak met inachtneming van hetgeen in de uitspraak van de rechtbank en de Afdeling is overwogen een nieuw besluit te nemen en dit op de wettelijk voorgeschreven wijze bekend te maken;
+
+IV.    bepaalt dat het college van burgemeester en wethouders van Dantumadiel een dwangsom verbeurt voor elke dag waarmee de hiervoor genoemde termijn voor de bekendmaking van het besluit wordt overschreden, waarbij de hoogte van de dwangsom € 100,00 (zegge: honderd euro) bedraagt, met een maximum van € 15.000,00 (zegge: vijftienduizend euro);
+
+V.    veroordeelt het college tot vergoeding van bij [appellant sub 2] en anderen in verband met de behandeling van het beroep opgekomen proceskosten tot een bedrag van € 525,00 (zegge: vijfhonderdvijfentwintig euro), geheel toe te rekenen aan door een derde beroepsmatig verleende rechtsbijstand, met dien verstande dat bij betaling van genoemd bedrag aan een van hen het bestuursorgaan aan zijn betalingsverplichting heeft voldaan.
+
+Aldus vastgesteld door mr. B.J. Schueler, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. L.C.M. Wijgerde, griffier.
+
+Het lid van de enkelvoudige kamer is verhinderd de uitspraak te ondertekenen.
+
+De griffier is verhinderd de uitspraak te ondertekenen.
+
+Uitgesproken in het openbaar op 6 mei 2020
+
+672.
