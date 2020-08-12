@@ -1,0 +1,89 @@
+---
+ecli: "ECLI:NL:RVS:2020:1915"
+court: "Raad van State"
+court_code: "RVS"
+docket: "202002157/1/R4"
+decided: "2020-08-12"
+published: "2020-08-12"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2020:1915"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RVS:2020:1915 Raad van State , 12-08-2020 / 202002157/1/R4
+
+## Inhoudsindicatie
+
+Bij besluit van 13 mei 2019 heeft het college van burgemeester en wethouders van Schiedam zijn beslissing om op 29 april 2019 spoedeisende bestuursdwang toe te passen wegens het in strijd met de Afvalstoffenverordening Schiedam 2013 aanbieden van huishoudelijke afvalstoffen, op schrift gesteld. Daarbij heeft het college vermeld dat de kosten van de toepassing van bestuursdwang, te weten € 150,00, voor rekening van [appellant] komen. De toepassing van spoedeisende bestuursdwang heeft bestaan uit het verwijderen van een grote doos die op 29 april 2019 is aangetroffen naast een ondergrondse container ter hoogte van het Fabriplein 32 in Schiedam. Het college is ervan uitgegaan dat [appellant] de doos verkeerd heeft aangeboden, omdat zijn naam en adres op het adreslabel op de doos staan.  [appellant] betwist niet dat de doos van hem afkomstig is, maar stelt dat hij niet degene is geweest die de doos naast de ondergrondse container heeft gezet.
+
+## Uitspraak
+
+202002157/1/R4.
+
+Datum uitspraak: 12 augustus 2020
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak in het geding tussen:
+
+[appellant], wonend te Schiedam,
+
+en
+
+het college van burgemeester en wethouders van Schiedam,
+
+verweerder.
+
+Procesverloop
+
+Bij besluit van 13 mei 2019 heeft het college zijn beslissing om op 29 april 2019 spoedeisende bestuursdwang toe te passen wegens het in strijd met de Afvalstoffenverordening Schiedam 2013 aanbieden van huishoudelijke afvalstoffen, op schrift gesteld. Daarbij heeft het college vermeld dat de kosten van de toepassing van bestuursdwang, te weten € 150,00, voor rekening van [appellant] komen.
+
+Bij besluit van 26 maart 2020 heeft het college het door [appellant] hiertegen gemaakte bezwaar ongegrond verklaard.
+
+Tegen dit besluit heeft [appellant] beroep ingesteld.
+
+Het college heeft een verweerschrift ingediend.
+
+De Afdeling heeft de zaak ter zitting behandeld op 23 juli 2020, waar [appellant] is verschenen.
+
+Overwegingen
+
+1.    De toepassing van spoedeisende bestuursdwang heeft bestaan uit het verwijderen van een grote doos die op 29 april 2019 is aangetroffen naast een ondergrondse container ter hoogte van het Fabriplein 32 in Schiedam. Het college is ervan uitgegaan dat [appellant] de doos verkeerd heeft aangeboden, omdat zijn naam en adres op het adreslabel op de doos staan.
+
+2.    [appellant] betwist niet dat de doos van hem afkomstig is, maar stelt dat hij niet degene is geweest die de doos naast de ondergrondse container heeft gezet. Hij stelt dat hij de doos, met daarin puin en bouwafval dat de vorige bewoner in zijn berging had achterlaten, heeft weggegooid in een bouwcontainer die tijdelijk naast de ondergrondse containers stond vanwege werkzaamheden in de straat. Hij stelt dat de werklieden ermee instemden dat hij de doos in de bouwcontainer gooide. [appellant] weet niet hoe de doos vervolgens naast de bouwcontainer terecht is gekomen. Hij vermoedt dat de doos, nadat de inhoud eruit is gevallen, uit de bouwcontainer is gevallen of gewaaid of door een ander is meegenomen. Hij stelt verder dat hij te goeder trouw handelde toen hij de doos met puin in de bouwcontainer weggooide.
+
+2.1.    Volgens vaste rechtspraak van de Afdeling mag ervan worden uitgegaan dat de persoon tot wie de aangetroffen afvalstoffen kunnen worden herleid, ook de overtreder is, tenzij de betrokkene het tegendeel aannemelijk maakt. Zie voor een uiteenzetting van deze rechtspraak de uitspraak van 18 juli 2018, ECLI:NL:RVS:2018:2432.
+
+De overtreder is in de eerste plaats degene die de verboden handeling fysiek verricht. Daarnaast kan in bepaalde gevallen degene die de overtreding niet zelf feitelijk begaat, maar aan wie de handeling is toe te rekenen, voor de overtreding verantwoordelijk worden gehouden en daarom als overtreder worden aangemerkt.
+
+2.2.    Met de enkele stelling dat hij de doos in een bouwcontainer heeft weggegooid en het vermoeden dat de doos vervolgens daaruit is gevallen, gewaaid of weggehaald door een ander, heeft [appellant] niet aannemelijk gemaakt dat hij niet degene is geweest die de doos verkeerd heeft aangeboden, omdat hij deze stelling en dit vermoeden niet met bewijsstukken heeft onderbouwd of anderszins aannemelijk heeft gemaakt.
+
+Ook als ervan wordt uitgegaan dat [appellant] de doos in de bouwcontainer heeft weggegooid en de doos daarna om een onbekende reden op straat terecht is gekomen, kan hij als overtreder worden aangemerkt. Een bouwcontainer in de openbare ruimte, ten behoeve van werkzaamheden in de straat, is niet bedoeld voor het aanbieden van huishoudelijke afvalstoffen door bewoners. Ook als wordt aangenomen dat de werklieden bij de bouwcontainer ermee instemden dat [appellant] het puin en bouwafval uit zijn berging daarin weggooide, dan had hij slechts de inhoud van de doos in de bouwcontainer moeten gooien en de lege doos weer mee moeten nemen. Door ook de doos in de bouwcontainer weg te gooien, heeft [appellant] een situatie doen ontstaan waarin hij er rekening mee moest houden dat de doos door een ander zou worden meegenomen en verkeerd ter inzameling zou worden aangeboden. Als dat is gebeurd, kan dat aan [appellant] worden toegerekend en kan hij verantwoordelijk worden gehouden voor de overtreding. De omstandigheid dat hij te goeder trouw handelde, maakt dit niet anders.
+
+Gelet op het voorgaande heeft het college [appellant] terecht als overtreder aangemerkt.
+
+Het betoog faalt.
+
+3.    Het beroep is ongegrond.
+
+4.    Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+verklaart het beroep ongegrond.
+
+Aldus vastgesteld door mr. F.C.M.A. Michiels, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. L.S. Kors, griffier.
+
+Het lid van de enkelvoudige kamer is verhinderd de uitspraak te ondertekenen.
+
+De griffier is verhinderd de uitspraak te ondertekenen.
+
+Uitgesproken in het openbaar op 12 augustus 2020
+
+687.
