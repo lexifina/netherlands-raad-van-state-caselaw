@@ -1,0 +1,200 @@
+---
+ecli: "ECLI:NL:RVS:2020:2437"
+court: "Raad van State"
+court_code: "RVS"
+docket: "201909022/1/A3"
+decided: "2020-10-14"
+published: "2020-10-14"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2020:2437"
+published_in: ["Rechtspraak.nl", "AB 2020/395 met annotatie van P.J. Stolk", "JG 2020/37 met annotatie van Raat, C."]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2019:8174, Meerdere afhandelingswijzen"]]
+---
+
+# ECLI:NL:RVS:2020:2437 Raad van State , 14-10-2020 / 201909022/1/A3
+
+## Inhoudsindicatie
+
+Bij besluit van 23 mei 2018 heeft de minister van Infrastructuur en Waterstaat het verzoek van [appellant] om openbaarmaking van informatie op grond van de Wet openbaarheid van bestuur deels ingewilligd. [appellant] heeft verzocht om openbaarmaking van alle correspondentie en gemaakte afspraken tussen de Belgische staat, dan wel het Vlaams Gewest en de Nederlandse Staat aangaande het Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest betreffende de uitvoering van de Ontwikkelingsschets 2010 Schelde-estuarium, de uitvoering van het Verdrag en de verwerving en ontpoldering van de Hedwigepolder door de Nederlandse Staat, alsmede alle beschikbare documenten met betrekking tot die correspondentie en afspraken. De minister heeft [appellant] meegedeeld dat drieënzeventig documenten zijn aangetroffen die onder de reikwijdte van het Wob-verzoek vallen.
+
+## Uitspraak
+
+201909022/1/A3.
+
+Datum uitspraak: 14 oktober 2020
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak op het hoger beroep van:
+
+[appellant], wonend te [woonplaats],
+
+tegen de uitspraak van de rechtbank Amsterdam van 1 november 2019 in zaak nr. 18/6631 in het geding tussen:
+
+[appellant]
+
+en
+
+de minister van Infrastructuur en Waterstaat.
+
+Procesverloop
+
+Bij besluit van 23 mei 2018 heeft de minister het verzoek van [appellant] om openbaarmaking van informatie op grond van de Wet openbaarheid van bestuur (hierna: de Wob) deels ingewilligd.
+
+Bij besluit van 25 september 2018 heeft de minister het door [appellant] daartegen gemaakte bezwaar ongegrond verklaard.
+
+Bij uitspraak van 1 november 2019 heeft de rechtbank het door [appellant] daartegen ingestelde beroep gegrond verklaard, het besluit van 25 september 2018 vernietigd en de minister opgedragen een nieuw besluit op het bezwaar te nemen met inachtneming van deze uitspraak.
+
+Deze uitspraak is aangehecht.
+
+Tegen deze uitspraak heeft [appellant] hoger beroep ingesteld.
+
+De minister heeft een schriftelijke uiteenzetting gegeven.
+
+[appellant] heeft de Afdeling toestemming, als bedoeld in artikel 8:29, vijfde lid, van de Algemene wet bestuursrecht (hierna: de Awb) verleend.
+
+Bij besluit van 18 december 2019 heeft de minister het bezwaar van [appellant] deels gegrond verklaard en het besluit van 23 mei 2018 herroepen voor zover daarbij niet is onderkend dat er meer documenten onder de minister berusten die vallen onder het bereik van het Wob-verzoek dan de bij dat besluit beoordeelde documenten, de eerstgenoemde documenten deels openbaar gemaakt en het besluit van 23 mei 2018 voor het overige gehandhaafd, onder aanvulling van de motivering.
+
+[appellant] heeft tegen dat besluit gronden ingediend.
+
+De Afdeling heeft de zaak ter zitting behandeld op 19 augustus 2020, waar [appellant] is verschenen.
+
+Overwegingen
+
+Juridisch toetsingskader
+
+1.    Het juridisch toetsingskader is vermeld in de bijlage, die deel uitmaakt van deze uitspraak.
+
+Inleiding
+
+2.    [appellant] heeft verzocht om openbaarmaking van alle correspondentie en gemaakte afspraken tussen de Belgische staat, dan wel het Vlaams Gewest en de Nederlandse Staat aangaande het Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest betreffende de uitvoering van de Ontwikkelingsschets 2010 Schelde-estuarium (hierna: het Verdrag), de uitvoering van het Verdrag en de verwerving en ontpoldering van de Hedwigepolder door de Nederlandse Staat, alsmede alle beschikbare documenten met betrekking tot die correspondentie en afspraken. De minister heeft [appellant] meegedeeld dat drieënzeventig documenten zijn aangetroffen die onder de reikwijdte van het Wob-verzoek vallen. Zevenenzestig documenten betreffen vergaderstukken van de Vlaams-Nederlandse Scheldecommissie (hierna: de VNSC). Enige van deze documenten zijn openbaar, zodat de Wob daarop niet van toepassing is. De minister heeft openbaarmaking van de niet reeds openbare VNSC-documenten geweigerd. Van de zes overige op basis van het Wob-verzoek aangetroffen documenten is een document reeds openbaar en valt de beoordeling van de mogelijkheid tot openbaarmaking van twee documenten onder de verantwoordelijkheid van het Ministerie van Buitenlandse Zaken. De drie resterende documenten heeft de minister openbaar gemaakt, onder anonimisering van de daarin opgenomen persoonsgegevens. Bij het besluit op bezwaar heeft de minister het besluit van 23 mei 2018 onder aanvullende motivering gehandhaafd en openbaarmaking van de VNSC-documenten geweigerd op grond van artikel 10, tweede lid, aanhef en onder a en e, en artikel 11, eerste lid, van de Wob.
+
+Aangevallen uitspraak
+
+3.    De rechtbank heeft vastgesteld dat de toepassing van de weigeringsgrond van artikel 10, tweede lid, aanhef en onder e, van de Wob niet in geschil is. Zij heeft overwogen dat de VNSC-documenten kunnen worden onderscheiden in drie typen documenten, te weten, geannoteerde agenda’s voor de voorzitter van de Nederlandse delegatie in het Ambtelijk College van de VNSC, nota’s stand van zaken of voortgang, en verslagen. De agenda’s betreffen ambtelijke adviezen over de positionering van de voorzitter ten aanzien van de agendapunten in de VNSC, inclusief de daarin voorgestelde besluiten. Naar het oordeel van de rechtbank heeft de minister zich terecht op het standpunt gesteld dat deze documenten zijn opgesteld ten behoeve van intern beraad en persoonlijke beleidsopvattingen bevatten, als bedoeld in artikel 11, eerste lid, van de Wob en dat, voor zover de agenda’s feitelijke gegevens bevatten, die gegevens dermate nauw met de persoonlijke beleidsopvattingen zijn verweven dat de gegevens daarvan niet kunnen worden gescheiden. De minister heeft openbaarmaking van de agenda’s derhalve terecht integraal geweigerd. Voorts heeft hij openbaarmaking van de nota’s en de verslagen op grond van artikel 10, tweede lid, aanhef en onder a, van de Wob mogen weigeren. De minister heeft uiteengezet dat in het licht van de internationale betrekkingen de informatie in de documenten niet dusdanig gedateerd is dat tot openbaarmaking daarvan kan worden overgegaan. Er vindt nog steeds overleg plaats binnen de VNSC en door openbaarmaking worden de betrekkingen geschaad. De minister heeft verder gewezen op het belang van de opgebouwde vertrouwensrelatie voor gerelateerde dossiers, aldus de rechtbank. Zij heeft evenwel de stelling van de minister dat hij niet beschikt over meer documenten die onder de reikwijdte van het Wob-verzoek vallen, ongeloofwaardig geacht en het besluit van 25 september 2018 daarom wegens strijd met artikel 7:12, eerste lid, van de Awb vernietigd en bepaald dat de minister een nieuwe zoekslag moet verrichten.
+
+Hoger beroep
+
+4.    [appellant] bestrijdt het oordeel van de rechtbank dat de minister op goede gronden heeft geweigerd de VNSC-documenten openbaar te maken. Hij betoogt dat de ambtelijke adviezen in de agenda’s zijn opgesteld ten behoeve van de halfjaarlijkse vergaderingen van de VNSC en daarom zien op structureel overleg. Blijkens de memorie van toelichting bij de Wob worden dergelijke documenten niet als opgesteld ten behoeve van intern beraad aangemerkt. Bovendien zijn de in de agenda’s opgenomen adviezen, althans de Nederlandse opstelling ten aanzien van de vergaderpunten, geuit tijdens de vergaderingen, waarbij een Belgische afvaardiging aanwezig was. Gelet daarop gaat het niet om informatie die uitsluitend ten behoeve van intern beraad is gebruikt. De minister heeft ter zitting bij de rechtbank bevestigd dat feitelijke gegevens uit de agenda’s in openbare verslagen zijn opgenomen. Deze gegevens zijn dus niet onlosmakelijk met de persoonlijke beleidsopvattingen verweven en daarom ten onrechte niet openbaar gemaakt.
+
+Voorts heeft de minister ten onrechte op grond van artikel 10, tweede lid, aanhef en onder a, van de Wob openbaarmaking van de VNSC-documenten geweigerd. Er zijn geen aanwijzingen dat door die openbaarmaking de betrekkingen met Vlaanderen zullen worden geschaad omdat de documenten vertrouwelijke informatie bevatten of Vlaanderen op de vertrouwelijkheid daarvan rekent en bezwaar tegen openbaarmaking ervan heeft gemaakt. De informatie is zodanig gedateerd dat het belang van openbaarmaking voorop moet staan. De onteigening van de Hedwigepolder is inmiddels een gegeven, evenals het Rijksinpassingsplan dat strekt tot de ontpoldering, die momenteel wordt uitgevoerd. Dat er binnen de VNSC nog overleg wordt gevoerd, zoals de minister ter zitting bij de rechtbank heeft gesteld, is niet relevant, nu de Hedwigepolder geen gevoelig onderwerp meer is. De minister heeft verder ter zitting bij de rechtbank aangevoerd dat openbaarmaking van de documenten ook onwenselijk is in verband met nog lopende procedures tot schadeloosstelling. De weigeringsgrond van artikel 10, tweede lid, aanhef en onder a, van de Wob strekt echter niet tot bescherming van dat belang. Deze weigeringsgrond is door de minister dan ook oneigenlijk gebruikt, aldus [appellant].
+
+5.    De Afdeling heeft met toepassing van artikel 8:29, vijfde lid, van de Awb kennis genomen van de documenten waarvan de minister openbaarmaking heeft geweigerd.
+
+5.1.    Volgens de memorie van toelichting bij de Wob (Kamerstukken II 1986/87, 19 859, nr. 3, blz. 13-14) doet de betrokkenheid van externe deskundigen en (advies)organen bij de oordeelsvorming over stukken die volgens het overheidsorgaan desondanks nog intern in overweging zijn, het interne karakter van het beraad vervallen wanneer daaraan het karakter van advisering of gestructureerd overleg moet worden toegekend.
+
+In dit geval is niet gebleken van de betrokkenheid van externe personen of organen bij de totstandkoming van de ambtelijke adviezen in de agenda’s.
+
+Ook voor zover de op basis van de adviezen door de Nederlandse delegatie in de overleggen van de VNSC ingenomen standpunten bekend zijn, laat dat de noodzaak van bescherming van de inhoud van de onderliggende advisering door de ambtenaren aan de delegatie onverlet.
+
+De minister heeft zich terecht op het standpunt gesteld dat de geannoteerde agenda’s geheel zijn opgemaakt uit adviezen van ambtenaren ten behoeve van intern beraad en dat de in de adviezen verwerkte feitelijke gegevens zodanig met de persoonlijke beleidsopvattingen van de ambtenaren zijn verweven dat deze onderling niet van elkaar zijn te scheiden.
+
+5.2.    Volgens de memorie van toelichting bij de Wob (blz. 34) wordt met de uitzonderingsgrond van artikel 10, tweede lid, aanhef en onder a, van de Wob beoogd te voorkomen dat de wettelijke plicht tot het verstrekken van informatie tot gevolg zou hebben dat de Nederlandse internationale betrekkingen schade zouden lijden. Voor toepassing van deze bepaling is voldoende dat men als gevolg van het verschaffen van informatie voorziet dat het internationale contact op bepaalde punten stroever zal gaan lopen.
+
+Gezien de aard en de inhoud van de nota’s stand van zaken of voortgang en de verslagen en in aanmerking genomen dat, zoals de minister onweersproken heeft gesteld, de Vlaamse overheid naar aanleiding van een vergelijkbaar informatieverzoek heeft geweigerd de documenten openbaar te maken en in een zienswijze op het Wob-verzoek te kennen heeft gegeven dat zij de vertrouwelijkheid van de documenten wenst, is de Afdeling met de rechtbank van oordeel dat de minister zich in redelijkheid op het standpunt heeft kunnen stellen dat openbaarmaking van de documenten de betrekkingen met Vlaanderen kan schaden en dat het belang bij goede betrekkingen zwaarder dient te wegen dan het belang van openbaarheid. Er is geen grond voor het oordeel dat de minister de weigeringsgrond van artikel 10, tweede lid, aanhef en onder a, van de Wob oneigenlijk heeft gebruikt.
+
+Het betoog faalt.
+
+6.    Het hoger beroep is ongegrond. De uitspraak van de rechtbank dient te worden bevestigd, voor zover aangevallen.
+
+Besluit van 18 december 2019
+
+7.    De minister heeft op 18 december 2019 een nieuw besluit op bezwaar genomen. Gelet op de artikelen 6:19, eerste lid, en 6:24 van de Awb is dit besluit van rechtswege onderwerp van dit geding. [appellant] heeft gronden tegen het besluit ingediend.
+
+8.    Bij het besluit van 18 december 2019 heeft de minister aanvullend tien e-mails met bijlagen, die in 2009 en 2010 tussen ambtenaren van het Vlaams Gewest en de Nederlandse Staat zijn gewisseld, als vallend onder de reikwijdte van het Wob-verzoek aangemerkt en (gedeeltelijk) openbaar gemaakt. Dat er niet meer documenten zijn aangetroffen, komt doordat de onderhandelingen over het Verdrag niet door het toenmalige Ministerie van Verkeer en Waterstaat, maar de Ministeries van Economische Zaken en van Buitenlandse Zaken zijn gevoerd. Correspondentie tussen de verantwoordelijke bewindspersonen vond naar alle waarschijnlijkheid vanuit deze ministeries plaats. [appellant] heeft een brief van de minister van Verkeer en Waterstaat van 11 maart 2005 aan de voorzitter van de Tweede Kamer overgelegd, waaruit volgt dat in het traject van de opstelling van de Ontwikkelingsschets 2010 Schelde-estuarium regelmatig overleg tussen deze minister en zijn Vlaamse ambtgenoten heeft plaatsgevonden. Een zoekslag naar documenten met betrekking tot die overleggen heeft echter geen resultaat opgeleverd, aldus de minister.
+
+9.    [appellant] betoogt dat ongeloofwaardig is dat, zoals de minister stelt, slechts de onder 8. vermelde e-mails met bijlagen uit de periode 2009-2010 en de in het besluit van 23 mei 2018 genoemde brieven tussen Nederland en Vlaanderen uit de periode 2007-2010 bij de minister berusten en dat hij niet beschikt over documenten uit andere perioden, zoals brieven en e-mails van en aan andere ministeries of Vlaanderen. Uit voormelde brief van de minister van Verkeer en Waterstaat van 11 maart 2005 en een memorandum van 17 november 2005 met betrekking tot verdragen met Vlaanderen inzake de Westerschelde, volgt dat tussen de bewindslieden van het Ministerie van Verkeer en Waterstaat en het Vlaams Gewest regelmatig overleg heeft plaatsgevonden tijdens het traject dat tot het Verdrag heeft geleid. Niet aannemelijk is dat er met betrekking tot die overleggen geen stukken zijn. Ook van Rijkswaterstaat en de Projectdirectie Ontwikkelingsschets Schelde-estuarium (hierna: ProSes), die aan de Ontwikkelingsschets 2010 Schelde-estuarium heeft gewerkt, moeten er documenten zijn die zien op het Verdrag en de ontpoldering van de Hedwigepolder, aldus [appellant].
+
+9.1.    Zoals de Afdeling eerder heeft overwogen (onder meer uitspraak van 2 oktober 2013, ECLI:NL:RVS:2013:1376), is het, wanneer een bestuursorgaan stelt dat na onderzoek is gebleken dat een bepaald document niet of niet meer onder hem berust en een dergelijke mededeling niet ongeloofwaardig voorkomt, in beginsel aan degene die om informatie verzoekt om aannemelijk te maken dat, in tegenstelling tot de uitkomsten van het onderzoek door het bestuursorgaan, een bepaald document toch onder dat bestuursorgaan berust.
+
+9.2.    De Afdeling is van oordeel dat de minister ook in het besluit van 18 december 2019 onvoldoende heeft gemotiveerd dat naar aanleiding van het Wob-verzoek voldoende zorgvuldig onderzoek is gedaan. De minister heeft verklaard dat bij het ministerie in het gedigitaliseerde systeem en in de documentatie van zijn voorgangers naar de gevraagde documenten is gezocht. Voorts is het Wob-verzoek doorgeleid naar Rijkswaterstaat en de projectorganisatie ProSes. De minister heeft echter niet duidelijk gemaakt welke zoekopdracht aan de daarbij ingeschakelde functionarissen is gegeven, en niet door middel van rapportage van die functionarissen of anderszins duidelijk gemaakt op welke wijze (in welke bestanden en dossiers en met welke zoektermen) is gezocht. Het voorgaande leidt tot de conclusie dat de minister niet inzichtelijk heeft gemaakt dat voldoende zorgvuldig onderzoek is gedaan. Zoals de Afdeling eerder heeft overwogen (onder meer uitspraak van 20 mei 2015, ECLI:NL:RVS:2015:1586), mag, voor zover openbaarmaking wordt verzocht van stukken die niet bij het bestuursorgaan berusten, maar wel bij het bestuursorgaan hadden behoren te berusten, van het bestuursorgaan worden verwacht dat het al het redelijkerwijs mogelijke doet om die stukken alsnog te achterhalen. Gelet hierop dient de minister ook te onderzoeken of de gevraagde documenten (hebben) bestaan en bij hem hadden behoren te berusten. Dit betekent dat ook moet worden onderzocht of documenten die veilig gesteld hadden moeten worden, zijn vernietigd.
+
+Het betoog slaagt.
+
+10.    Het beroep tegen het besluit van 18 december 2019 is gegrond. Het besluit dient wegens strijd met de artikelen 3:2 en 7:12, eerste lid, van de Awb te worden vernietigd. De minister dient een nieuw besluit op het door [appellant] tegen het besluit van 23 mei 2018 gemaakte bezwaar te nemen met inachtneming van hetgeen in deze uitspraak is overwogen.
+
+Met het oog op een efficiënte afdoening van het geschil, zal de Afdeling met toepassing van artikel 8:113, tweede lid, van de Awb bepalen dat tegen het nieuw te nemen besluit op bezwaar slechts bij haar beroep kan worden ingesteld.
+
+11.    Van proceskosten die voor vergoeding in aanmerking komen, is niet gebleken.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+I.    bevestigt de uitspraak van de rechtbank, voor zover aangevallen;
+
+II.    verklaart het beroep tegen het besluit van de minister van Infrastructuur en Waterstaat van 18 december 2019, kenmerk IENW/BSK-2019/262520, gegrond;
+
+III.    vernietigt dat besluit;
+
+IV.    bepaalt dat tegen het nieuw te nemen besluit op bezwaar slechts bij de Afdeling bestuursrechtspraak van de Raad van State beroep kan worden ingesteld.
+
+Aldus vastgesteld door mr. P.B.M.J. van der Beek-Gillessen, voorzitter, en mr. B.P.M. van Ravels en mr. P.H.A. Knol, leden, in tegenwoordigheid van mr. C.C.J. de Wilde, griffier.
+
+De voorzitter is verhinderd de uitspraak te ondertekenen.
+
+De griffier is verhinderd de uitspraak te ondertekenen.
+
+Uitgesproken in het openbaar op 14 oktober 2020
+
+598.
+
+BIJLAGE
+
+Wet openbaarheid van bestuur
+
+Artikel 1
+
+1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+
+[-]
+
+c. intern beraad: het beraad over een bestuurlijke aangelegenheid binnen een bestuursorgaan, dan wel binnen een kring van bestuursorganen in het kader van de gezamenlijke verantwoordelijkheid voor een bestuurlijke aangelegenheid;
+
+[-]
+
+f. persoonlijke beleidsopvatting: een opvatting, voorstel, aanbeveling of conclusie van een of meer personen over een bestuurlijke aangelegenheid en de daartoe door hen aangevoerde argumenten;
+
+[-]
+
+Artikel 10
+
+[-]
+
+2. Het verstrekken van informatie ingevolge deze wet blijft eveneens achterwege voor zover het belang daarvan niet opweegt tegen de volgende belangen:
+
+a. de betrekkingen van Nederland met andere staten en met internationale organisaties;
+
+[-]
+
+e. de eerbiediging van de persoonlijke levenssfeer;
+
+[-]
+
+Artikel 11
+
+1. In geval van een verzoek om informatie uit documenten, opgesteld ten behoeve van intern beraad, wordt geen informatie verstrekt over daarin opgenomen persoonlijke beleidsopvattingen.
+
+[-]
+
+Algemene wet bestuursrecht
+
+Artikel 3:2
+
+Bij de voorbereiding van een besluit vergaart het bestuursorgaan de nodige kennis omtrent de relevante feiten en de af te wegen belangen.
+
+Artikel 7:12
+
+1. De beslissing op het bezwaar dient te berusten op een deugdelijke motivering, die bij de bekendmaking van de beslissing wordt vermeld.
+
+[-]
+
+Artikel 8:113
+
+[-]
+
+2. Indien de uitspraak van de hogerberoepsrechter ertoe strekt dat het bestuursorgaan een nieuw besluit neemt, kan de uitspraak tevens inhouden dat beroep tegen dat besluit slechts kan worden ingesteld bij de hogerberoepsrechter.
