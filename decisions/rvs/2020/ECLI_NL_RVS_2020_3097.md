@@ -1,0 +1,139 @@
+---
+ecli: "ECLI:NL:RVS:2020:3097"
+court: "Raad van State"
+court_code: "RVS"
+docket: "202001738/1/A3"
+decided: "2020-12-23"
+published: "2020-12-23"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2020:3097"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RVS:2020:3097 Raad van State , 23-12-2020 / 202001738/1/A3
+
+## Inhoudsindicatie
+
+Bij besluit van 7 mei 2018 heeft het college van burgemeester en wethouders van Den Haag het verzoek van [bedrijf B] om een terrasvergunning op grond van de Algemene Plaatselijke Verordening voor de gemeente Den Haag, ingewilligd. [bedrijf B] is een horecabedrijf aan het Anna Paulownaplein 9 in Den Haag. Hij heeft het college verzocht jaarlijks een zomerterras, dat wil zeggen: een terras in de periode van 1 maart tot 1 november, te mogen plaatsen. Het college heeft het verzoek ingewilligd. Uit de terrasvergunning blijkt dat het zomerterras een totale oppervlakte van 89,7 m2 heeft, verdeeld over vier delen, te weten: terras A van 15,2 m2, gelegen aan de gevel van Anna Paulownaplein 9, terras B van 25,6 m2, gelegen aan de overzijde van het pand langs de trottoirband, en terrassen C en D van 23,2 m2 onderscheidenlijk 25,7 m2, gelegen aan de overzijde van het pand op het plein. [appellant] is eigenaar van het naastgelegen pand [locatie].
+
+## Uitspraak
+
+202001738/1/A3.
+
+Datum uitspraak: 23 december 2020
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak op het hoger beroep van:
+
+[appellant], wonend te [woonplaats],
+
+tegen de uitspraak van de rechtbank Den Haag van 27 januari 2020 in zaken nrs. 19/493 en 19/465 in het geding tussen:
+
+[appellant]
+
+en
+
+het college van burgemeester en wethouders van Den Haag.
+
+Procesverloop
+
+Bij besluit van 7 mei 2018 heeft het college het verzoek [vergunninghouder], handelend onder de naam [bedrijf A] (thans handelend onder de naam "[bedrijf B]", hierna te noemen: [bedrijf B]) om een terrasvergunning op grond van artikel 2:10, eerste lid, van de Algemene Plaatselijke Verordening voor de gemeente Den Haag (hierna: de APV), ingewilligd.
+
+Bij besluit van 10 december 2018 heeft het college het door [appellant] daartegen gemaakte bezwaar ongegrond verklaard.
+
+Bij uitspraak van 27 januari 2020 heeft de rechtbank het door [appellant] daartegen ingestelde beroep ongegrond verklaard. Deze uitspraak is aangehecht.
+
+Tegen deze uitspraak heeft [appellant] hoger beroep ingesteld.
+
+[bedrijf B] en het college hebben een schriftelijke uiteenzetting gegeven.
+
+[appellant] heeft nadere stukken ingediend.
+
+De Afdeling heeft de zaak ter zitting behandeld op 23 oktober 2020, waar [appellant], bijgestaan door mr. T. van der Weijde, rechtsbijstandsverlener, en het college, vertegenwoordigd door mr. F. Naghi-Zadeh, zijn verschenen. Voorts is [bedrijf B], vertegenwoordigd door mr. M.W.R. Hoogstraten, advocaat te Den Haag, en [gemachtigde], ter zitting als partij gehoord.
+
+Overwegingen
+
+Inleiding
+
+1.    [bedrijf B] is een horecabedrijf aan het Anna Paulownaplein 9 in Den Haag. Hij heeft het college verzocht jaarlijks een zomerterras, dat wil zeggen: een terras in de periode van 1 maart tot 1 november, te mogen plaatsen. Het college heeft het verzoek ingewilligd. Uit de terrasvergunning blijkt dat het zomerterras een totale oppervlakte van 89,7 m2 heeft, verdeeld over vier delen, te weten: terras A van 15,2 m2, gelegen aan de gevel van Anna Paulownaplein 9, terras B van 25,6 m2, gelegen aan de overzijde van het pand langs de trottoirband, en terrassen C en D van 23,2 m2 onderscheidenlijk 25,7 m2, gelegen aan de overzijde van het pand op het plein. [appellant] is eigenaar van het naastgelegen pand [locatie]. Hij is het niet eens met het terras B omdat het voor een groot deel voor zijn eigen pand ligt. Zijn pand is daardoor slecht zichtbaar voor passanten en slecht bereikbaar voor (mogelijke) bezoekers aan een eventuele winkel in zijn pand. Het college heeft het bezwaar van [appellant] ongegrond verklaard.
+
+Aangevallen uitspraak
+
+2.    De rechtbank volgt [appellant] niet in zijn stelling dat het terras niet recht voor de gevel van Anna Paulownaplein 9 ligt. Dat een deel van het terras voor het pand van [appellant] komt te liggen en er voor hem een relatief klein stuk vrije ruimte overblijft betekent niet dat de vergunning in strijd met de Beleidsregels vergunningverlening terrassen Den Haag 2016 (hierna: de Beleidsregels) is verleend. Het college hoefde geen aanleiding te zien om van het beleid af te wijken, omdat niet is gebleken dat [appellant] onevenredig in zijn belangen is geschaad. De rechtbank heeft daarnaast geoordeeld dat het beroep van [appellant] op het gelijkheidsbeginsel niet slaagt. Van gelijke gevallen is volgens de rechtbank geen sprake, omdat de breedte en positionering van de gevel bepalend zijn voor het doortrekken van de terraslijnen en er daardoor verschillen in omvang en plaats van de terrassen ontstaan. Geen van de weigeringsgronden uit artikel 2:10, derde lid, van de APV doet zich voor. De rechtbank heeft geoordeeld dat het college in redelijkheid de terrasvergunning aan [bedrijf B] heeft mogen verlenen en heeft het beroep van [appellant] ongegrond verklaard.
+
+Hoger beroep
+
+Procesbelang
+
+3.    Ter zitting heeft het college het procesbelang van [appellant] ter discussie gesteld, omdat hij niet heeft onderbouwd dat er niet genoeg ruimte blijft bestaan tussen het terras en zijn pand of dat er geen zicht meer op een eventuele winkel in dat pand bestaat.
+
+Dit betoog faalt. Het procesbelang van een belanghebbende is het belang dat een belanghebbende heeft bij de uitkomst van een door hem ingestelde procedure. Daarbij gaat het er niet om óf hij gelijk heeft, maar of hij een reëel en actueel belang heeft bij het gelijk, als hij dat zou hebben. [appellant] wil geen terras op de stoep tussen zijn pand en de straat. Met deze procedure kan hij bereiken dat de terrasvergunning wordt vernietigd. [appellant] heeft daarom belang bij zijn hoger beroep.
+
+Inhoudelijk
+
+4.    [appellant] betoogt dat de vergunning in strijd met de APV en de Beleidsregels is verleend. Hij stelt dat een terras alleen mag zijn gelegen direct voor de gevel van het pand waarvoor een terrasvergunning wordt aangevraagd. Doordat de gevels van de panden aan het Anna Paulownaplein in een bocht lopen, ligt het terras van [bedrijf B] ook voor zijn pand. Voor zover de rechtbank wijst op de uitspraak van de Afdeling van 6 september 2017, ECLI:NL:RVS:2017:2425 over de mogelijkheid van overlappende deelterrassen, is dat volgens [appellant] ten onrechte omdat de situaties niet vergelijkbaar zijn. Het college had rekening moeten houden met de zichtlijnen vanaf de straat om te bepalen wat als ruimte ‘voor het pand’ moet worden geduid. Met het nu toegestane terras is onvoldoende met zijn belangen rekening gehouden. Hij kan zijn pand moeilijker voor een marktconforme prijs verhuren, omdat het slecht zichtbaar is voor passanten en daarnaast slecht bereikbaar is voor (mogelijke) bezoekers. Daarnaast voert [appellant] aan dat hij zijn pand niet aan een horecagelegenheid kan verhuren, omdat de beschikbare terrasruimte vanwege het vergunde terras van [bedrijf B] oneerlijk is verdeeld. In zijn nadere stuk stelt [appellant] dat het college ook geen rekening heeft gehouden met een eventuele winkeluitstalling voor zijn gevel. Op grond van artikel 2:10, tweede lid, onder e, van de APV mogen immers tot een diepte van 80 cm winkeluitstallingen worden geplaatst, maar aan de vereiste obstakelvrije ruimte van 1,5 m kan dan niet meer worden voldaan.
+
+4.1.    Artikel 2:10 (Voorwerpen of stoffen op, aan, in of boven de weg) van de APV luidt:
+
+"1. Het is verboden zonder vergunning of instemming van het college van burgemeester en wethouders een voorwerp op, in, over of boven de weg te plaatsen, aan te brengen of te hebben, of de weg anders te gebruiken dan overeenkomstig de publieke functie daarvan.
+
+[…]
+
+3. Een vergunning als bedoeld in het eerste lid wordt geweigerd, indien tegen de verlening daarvan overwegend bezwaar bestaat uit een oogpunt van:
+
+- doelmatig beheer en onderhoud van de weg, daaronder mede begrepen de bescherming van de belangen van het rij- en voetgangersverkeer en de verdeling van gebruiksmogelijkheden van de weg;
+
+- bescherming van het uiterlijk aanzien van de gemeente, tenzij het betreffende voorwerp op grond van de Woningwet dient te worden getoetst aan de redelijke eisen van welstand;
+
+- schade die door het gebruik aan de weg wordt toegebracht, of;
+
+- te verwachten hinder voor de omgeving als gevolg van het gebruik van de weg ten behoeve waarvan de vergunning wordt gevraagd, tenzij daarop regels bij of krachtens de Wet milieubeheer of het bepaalde in de artikelen 2:27 t/m 2:29 en artikel 4:6 van toepassing is.
+
+[…]
+
+6. Het college van burgemeester en wethouders kan nadere regels stellen voor de handelingen als bedoeld in het eerste lid. Deze nadere regels strekken ter bescherming van de belangen als genoemd in het derde lid.
+
+[…]."
+
+Artikel 3 van de Beleidsregels luidt: "De terrassen mogen slechts direct aan of voor de gevel van het bij behorende bedrijfspand worden geplaatst."
+
+4.2.    Bij de toepassing van zijn bevoegdheid om een terrasvergunning als bedoeld in artikel 2:10, eerste lid, van de APV te verlenen, hanteert het college de Beleidsregels. Een nadere uitleg van wat onder ‘voor de gevel’ moet worden verstaan is in artikel 3 van de Beleidsregels niet gegeven. Uit de dossierstukken volgt dat het college voor de situering van het terras op een plein de volgende methode hanteert: "Niet het gehele plein ligt recht voor de horecaonderneming. Aan weerszijden van de gevel dient een loodrechte lijn getrokken te worden over het plein. Tussen die twee loodlijnen dient het terras gesitueerd te zijn." Naar het oordeel van de Afdeling geeft het college hiermee geen onredelijke uitleg aan de zinsnede ‘voor de gevel’ en het bepaalde in artikel 3 van de Beleidsregels. De Afdeling is, op basis van de bij de terrasvergunning behorende situatietekening, met de rechtbank van oordeel dat het terras voor de gevel van [bedrijf B] ligt. Het college had geen aanleiding hoeven zien om uit te gaan van de zichtlijnen vanaf de straat om te bepalen wat als ruimte ‘voor het pand’ moet worden geduid. Dat het terras van [bedrijf B] daarmee niet alleen voor de gevel van het pand Anna Paulownaplein 9, maar ook wat zichtlijnen betreft voor het pand van [appellant] ligt, is niet in strijd met de Beleidsregels.
+
+Voor zover [appellant] betoogt dat het college de vergunning had moeten weigeren omdat zijn pand slecht zichtbaar is voor passanten en daarnaast slecht bereikbaar is voor (mogelijke) bezoekers, overweegt de Afdeling als volgt. Op grond van artikel 2:10, derde lid, van de APV, wordt de vergunning geweigerd in geval van overwegende bezwaren wat betreft de bescherming van de belangen van het voetgangersverkeer. Gelet op het feit dat 1,5 m vrije ruimte voor zijn pand wordt aangehouden, heeft [appellant] niet aannemelijk gemaakt dat zijn pand slecht bereikbaar is. Voor zover de verminderde verhuurbaarheid van het pand tegen marktconforme prijzen al onder de weigeringsgrond ‘hinder voor de omgeving’ moet worden gevat, overweegt de Afdeling dat [appellant] de door hem gestelde slechtere verhuurbaarheid niet met stukken of anderszins aannemelijk gemaakt. Hoewel aannemelijk is dat dit pand vanaf de weg minder goed zichtbaar is geworden omdat het terras tussen de weg en zijn pand staat, is de Afdeling van oordeel dat die afname aan zicht niet zodanig bezwarend is dat het college de vergunning voor het terras had moeten weigeren. Wat betreft het betoog van [appellant] dat het college ruimte had moeten reserveren voor een eventueel toekomstig terras voor het pand van [appellant], heeft het college mogen overwegen dat dit op dit moment geen optimale verdeling van ruimte die beschikbaar is voor terrassen zou betekenen. Daarbij heeft het college het beleidsdoel om het Anna Paulownaplein intensief te gebruiken als horecaplein mogen betrekken. Ter zitting is voorts onweersproken gesteld dat het mogelijk is om tot een breedte van 80 cm een winkeluitstalling te plaatsen en dat ook dan nog de 1,5 m vrije ruimte beschikbaar blijft. Gelet op het vorenstaande bestaat geen aanleiding voor het oordeel dat het college onvoldoende met de belangen van [appellant] rekening heeft gehouden.
+
+Dit betoog faalt.
+
+5.    [appellant] voert aan dat de terrasvergunning in strijd met het gelijkheidsbeginsel is verleend. Bij andere panden aan het Anna Paulownaplein waar op dit moment ook geen horeca is gevestigd, zoals bijvoorbeeld Anna Paulownaplein 14, wordt de voorgevel wel helemaal vrijgehouden van terrassen. In zijn nadere stuk van 8 juli 2020 wijst [appellant] erop dat het college in een ander geval juist voornemens is een terrasvergunning te weigeren omdat het terras voor de gevel van een ander pand komt. Het college voert op dit punt dan ook geen consistent beleid.
+
+5.1.    Wat betreft Anna Paulownaplein 14 ziet de Afdeling geen aanleiding anders te oordelen dan de rechtbank heeft gedaan, namelijk dat de breedte en positionering van de gevel bepalend zijn voor het doortrekken van de terraslijnen. Doordat het pand Anna Paulownaplein 14 en dat van [appellant] niet gelijk zijn en uitgaand van de vorm van het plein, ontstaan er verschillen in de omvang en plaats van het terras. Het beroep op het gelijkheidsbeginsel slaagt in zoverre niet.
+
+Voorts heeft het college in zijn schriftelijke uiteenzetting genoegzaam gereageerd op de gestelde weigering in het andere door [appellant] genoemde geval, een parkeerplaatsterras aan de Piet Heinstraat. Ter zitting heeft [appellant] gesteld dat dit geen beroep op het gelijkheidsbeginsel betrof. Nu het hier om verschillende situaties gaat, heeft [appellant] niet onderbouwd waarom het college geen consistent beleid zou voeren.
+
+Het betoog faalt.
+
+Conclusie en proceskosten
+
+6.    Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd.
+
+7.    Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+bevestigt de aangevallen uitspraak.
+
+Aldus vastgesteld door mr. E.J. Daalder, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. L.E.E. Konings, griffier.
+
+Het lid van de enkelvoudige kamer is verhinderd de uitspraak te ondertekenen.
+
+De griffier is verhinderd de uitspraak te ondertekenen.
+
+Uitgesproken in het openbaar op 23 december 2020
+
+612.
