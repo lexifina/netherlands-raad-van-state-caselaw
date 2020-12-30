@@ -1,0 +1,165 @@
+---
+ecli: "ECLI:NL:RVS:2020:3144"
+court: "Raad van State"
+court_code: "RVS"
+docket: "201907366/1/A2"
+decided: "2020-12-30"
+published: "2020-12-30"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2020:3144"
+published_in: ["Rechtspraak.nl", "Onderwijs Totaal 2021/1147"]
+---
+
+# ECLI:NL:RVS:2020:3144 Raad van State , 30-12-2020 / 201907366/1/A2
+
+## Inhoudsindicatie
+
+Bij besluit van 1 december 2017 heeft het college van burgemeester en wethouders van de gemeente Gennep een aanvraag van [appellante] om bekostiging van leerlingenvervoer voor haar dochter voor het schooljaar 2017-2018 afgewezen. [appellante] heeft voor haar [dochter] een aanvraag ingediend voor de bekostiging van leerlingenvervoer naar en van de reguliere middelbare (vmbo-)school Het Rijks in Nijmegen. Volgens het college kan de dochter van [appellante], die epileptische klachten heeft, ook regulier voortgezet onderwijs op vmbo-niveau volgen aan het dichterbij - op 800 meter van de woning van [appellante] en haar dochter - gelegen Elzendaal College. Aangezien uit het (medisch) advies van 8 november 2017 van Argonaut Advies B.V. blijkt dat de dochter van [appellante] niet beperkt is in het lopen, kan zij die school te voet bereiken, aldus het college.
+
+## Uitspraak
+
+201907366/1/A2.
+
+Datum uitspraak: 30 december 2020
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak op het hoger beroep van:
+
+[appellante], wonend te Gennep,
+
+tegen de uitspraak van de rechtbank Limburg van 27 augustus 2019 in zaak nr. 18/1305 in het geding tussen:
+
+[appellante]
+
+en
+
+het college van burgemeester en wethouders van de gemeente Gennep (hierna: het college).
+
+Procesverloop
+
+Bij besluit van 1 december 2017 heeft het college een aanvraag van [appellante] om bekostiging van leerlingenvervoer voor haar dochter voor het schooljaar 2017-2018 afgewezen.
+
+Bij besluit van 23 april 2018 heeft het college het door [appellante] daartegen gemaakte bezwaar ongegrond verklaard.
+
+Bij uitspraak van 27 augustus 2019 heeft de rechtbank het door [appellante] daartegen ingestelde beroep ongegrond verklaard. Deze uitspraak is aangehecht.
+
+Tegen deze uitspraak heeft [appellante] hoger beroep ingesteld.
+
+Het college heeft een schriftelijke uiteenzetting gegeven.
+
+De Afdeling heeft de zaak ter zitting behandeld op 24 november 2020, waar [appellante], vertegenwoordigd door mr. P.T.H. Janssen, advocaat te Boxmeer, en het college, vertegenwoordigd door E.A.L. van Gellecom en M.J. Eijssen, zijn verschenen.
+
+Overwegingen
+
+Wettelijk kader
+
+1.    Het relevante wettelijk kader is opgenomen in de bijlage. De bijlage maakt deel uit van deze uitspraak.
+
+Inleiding
+
+2.    [appellante] heeft voor haar [dochter] een aanvraag ingediend voor de bekostiging van leerlingenvervoer naar en van de reguliere middelbare (vmbo-)school Het Rijks in Nijmegen voor het schooljaar 2017-2018. Bij het besluit van 1 december 2017 heeft het college deze aanvraag, op grond van artikel 3 van de Verordening leerlingenvervoer gemeente Gennep 2014 (hierna: de Verordening), afgewezen. Volgens het college kan de dochter van [appellante], die epileptische klachten heeft, ook regulier voortgezet onderwijs op vmbo-niveau volgen aan het dichterbij - op 800 meter van de woning van [appellante] en haar dochter - gelegen Elzendaal College. Aangezien uit het (medisch) advies van 8 november 2017 van Argonaut Advies B.V. blijkt dat de dochter van [appellante] niet beperkt is in het lopen, kan zij die school te voet bereiken, aldus het college.
+
+Bij het besluit van 23 april 2018 heeft het college het door [appellante] daartegen gemaakte bezwaar, onder verwijzing naar het advies van 19 april 2018 van de Commissie bezwaarschriften Gennep, ongegrond verklaard. De rechtbank heeft het door [appellante] tegen laatstgenoemd besluit ingestelde beroep ongegrond verklaard. [appellante] is het daar niet mee eens en vecht het oordeel van de rechtbank in hoger beroep aan.
+
+Hoger beroep
+
+3.    [appellante] betoogt dat de rechtbank ten onrechte heeft geoordeeld dat het college haar aanvraag, op grond van artikel 3 van de Verordening, terecht heeft afgewezen. Daartoe stelt zij voorop dat het niet haar vrije keuze is geweest om haar dochter aan Het Rijks voortgezet onderwijs op vmbo-niveau te laten volgen. Zij heeft haar dochter eerst, op aanraden van de basisschool van haar dochter, voortgezet onderwijs op havo-niveau laten volgen aan het Kandinsky College in Nijmegen. In dit verband wijst zij op de door haar overgelegde verklaringen van 10 oktober 2016 en 8 juli 2019 van [persoon], die werkzaam is als docente op die basisschool. Daaruit volgt, zo betoogt [appellante], dat het Kandinsky College het beste is afgestemd op de behoeften van haar dochter. Aangezien de schoolresultaten van haar dochter als gevolg van haar epilepsie tegenvielen, heeft het Kandinsky College haar dochter, met ingang van het schooljaar 2017-2018, geplaatst op Het Rijks. Deze vmbo-school maakt onderdeel uit van het Kandinsky College, zodat in wezen slechts sprake is (geweest) van een verplaatsing. Bij verbetering van de schoolresultaten van haar dochter, kan haar dochter terugkeren naar de laatstgenoemde school. Het Rijks biedt haar dochter, zo vervolgt [appellante], daarnaast passend onderwijs aan. Zo heeft haar dochter van Het Rijks een laptop gekregen, is zij aangemeld bij het Zorg Advies Team en ontvangt zij daar de door haar benodigde begeleiding en ondersteuning, waaronder extra tijd voor het maken van toetsen. Gelet hierop, zo benadrukt [appellante], kan het Elzendaal College haar dochter niet hetzelfde voortgezet onderwijs aanbieden als Het Rijks.
+
+Indien dit betoog niet slaagt, dan betoogt [appellante] dat de rechtbank ten onrechte heeft geoordeeld dat zij voor haar dochter geen aanspraak kan maken op een voorziening in het kader van leerlingenvervoer over de afstand tussen haar woning en het Elzendaal College in Gennep. Zij voert daartoe, onder verwijzing naar de overgelegde verklaringen van het Radboud universitair medisch centrum van 15 januari 2018 en 15 juli 2019, aan dat haar dochter niet veilig kan deelnemen aan het verkeer en daardoor niet zelfstandig naar het Elzendaal College kan lopen. Gezien de zorg die zij, als alleenstaande ouder, draagt voor haar andere twee inwonende - en schoolgaande - kinderen, is zij niet in staat om haar dochter naar het Elzendaal College te begeleiden, aldus [appellante].
+
+Beoordeling
+
+4.    Met de rechtbank is de Afdeling van oordeel dat het college de aanvraag van [appellante], op grond van artikel 3 van de Verordening, terecht heeft afgewezen. Vaststaat immers dat het Elzendaal College dichterbij de woning van [appellante] en haar dochter is gelegen dan Het Rijks en dat de dochter van [appellante] aan beide middelbare scholen regulier voortgezet onderwijs op vmbo-niveau kan volgen. Hoewel artikel 4, vijfde lid, van de Wet op het voortgezet onderwijs (hierna: de WVO) bepaalt dat (in de Verordening) ook rekening moet worden gehouden met de (school)keuze van de ouder(s), is die keuze, anders dan [appellante] ter zitting lijkt te betogen, niet zonder meer leidend en leidt die keuze er hier niet toe dat de aanvraag van [appellante] niettemin had moeten worden ingewilligd. Zo ziet de Afdeling, evenals het college, in hetgeen [appellante] naar voren heeft gebracht geen aanleiding voor het oordeel dat Het Rijks, in vergelijking met het Elzendaal College, voortgezet onderwijs kan aanbieden dat beter (of bij uitstek) is afgestemd op de behoeften van de dochter van [appellante]. Het Elzendaal College biedt, evenals Het Rijks, passend onderwijs aan. Het ondersteuningsprofiel van het Elzendaal College als bedoeld in artikel 17b, tweede lid, van de WVO, gepubliceerd op de website van die school, komt, zo is de Afdeling gebleken, overeen met het ondersteuningsprofiel van Het Rijks. Ook de in de verklaring van 8 juli 2019 neergelegde omstandigheid dat de dochter van [appellante] verlegen is en reeds kinderen kent die onderwijs aan het Kandinsky College, waarvan Het Rijks onderdeel uitmaakt, volgen, leidt niet tot het oordeel dat het door het Elzendaal College geboden onderwijs minder goed is afgestemd op de behoeften van de dochter van [appellante]. Dat zij bij verbetering van haar schoolresultaten onderwijs op havo-niveau kan volgen aan het Kandinsky College, leidt evenmin tot dit oordeel, reeds omdat die mogelijkheid tot doorgroei ook bestaat indien zij onderwijs volgt aan het Elzendaal College in Gennep.
+
+Het betoog faalt.
+
+5.    Ter zitting heeft [appellante] toegelicht dat zij met haar subsidiaire betoog beoogt, als ouder van [dochter], aanspraak te maken op bekostiging van leerlingenvervoer naar en van het Elzendaal College in Gennep. Dit betoog slaagt niet. De dochter van [appellante] is, nu het Elzendaal College zich op 800 meter van haar woning bevindt, niet op ander vervoer dan openbaar vervoer aangewezen, zodat [appellante], als ouder van [dochter], op grond van artikel 4, eerste lid, van de WVO, geen aanspraak heeft op vergoeding van noodzakelijk te achten vervoerskosten. Het op 800 meter van de woning van [appellante] en haar dochter gelegen Elzendaal College, kan door de dochter van [appellante], zo volgt uit het advies van Argonaut Advies B.V. van
+
+8 november 2017, te voet worden bereikt. Zij heeft daarbij, gelet op de overgelegde verklaringen van het Radboud universitair medisch centrum, begeleiding nodig. Dat [appellante] deze redelijkerwijs van haar te vergen begeleiding niet kan (laten) verzorgen, is niet aannemelijk gemaakt.
+
+Het betoog faalt.
+
+Conclusie
+
+6.    Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd.
+
+7.    Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+bevestigt de aangevallen uitspraak.
+
+Aldus vastgesteld door mr. J.A. Hagen, voorzitter, en mr. J.J. van Eck en mr. R.J.J.M. Pans, leden, in tegenwoordigheid van mr. D. Meyer-de Beer, griffier.
+
+De voorzitter is verhinderd de uitspraak te ondertekenen.
+
+De griffier is verhinderd de uitspraak te ondertekenen.
+
+Uitgesproken in het openbaar op 30 december 2020
+
+854.
+
+BIJLAGE Wettelijk kader
+
+Wet op het voortgezet onderwijs
+
+Artikel 4. Kosten van leerlingenvervoer
+
+"1. Ten behoeve van het schoolbezoek verstrekken burgemeester en wethouders aan ouders, voogden of verzorgers van in de gemeente verblijvende leerlingen die wegens hun lichamelijke, verstandelijke, zintuiglijke of psychische handicap op ander vervoer dan openbaar vervoer zijn aangewezen, dan wel vanwege een zodanige handicap niet zelfstandig van openbaar vervoer gebruik kunnen maken, op aanvraag vergoeding van de door burgemeester en wethouders noodzakelijk te achten vervoerskosten. Indien de leerling meerderjarig en handelingsbekwaam is, wordt de vergoeding op aanvraag verstrekt aan de leerling. De gemeenteraad stelt daartoe een nadere regeling vast, met inachtneming van het bepaalde in de volgende leden.
+
+[…]
+
+4. De regeling houdt rekening met de van ouders redelijkerwijs te vergen inzet en voorziet erin dat het vervoer kan plaatsvinden op een wijze die voor de leerling passend is. De regeling bepaalt op welke wijze burgemeester en wethouders terzake advies van deskundigen inwinnen.
+
+5. De regeling bepaalt dat de kosten worden vergoed van vervoer over de afstand tussen de woning van de leerling en de dichtstbijzijnde voor de leerling toegankelijke school, met inachtneming van de keuze van de ouders, voogden of verzorgers, dan wel, indien de leerling meerderjarig en handelingsbekwaam is, van de leerling, tenzij vervoer met betrekking tot een verder weg gelegen school voor de gemeente minder kosten met zich zou brengen en de ouders, voogden of verzorgers onderscheidenlijk de leerling met het vervoer naar die school instemmen.
+
+[…]."
+
+Verordening leerlingenvervoer gemeente Gennep 2014
+
+Artikel 1 Begripsomschrijving
+
+"In deze verordening wordt verstaan onder:
+
+[…]
+
+- vervoersvoorziening:
+
+1. bekostiging van de goedkoopst mogelijke wijze van openbaar vervoer voor de leerling en zo nodig diens begeleider;
+
+2. gehele of gedeeltelijke bekostiging van de door het college noodzakelijk geachte vervoerkosten van de leerling en zo nodig diens begeleider; of
+
+[…]."
+
+Artikel 2 De door het college noodzakelijk te achten vervoersvoorziening
+
+"1. Ten behoeve van het schoolbezoek kent het college aan de ouders van in de gemeente verblijvende leerlingen op aanvraag een vervoersvoorziening toe met inachtneming van het bepaalde in deze verordening.
+
+[…]."
+
+Artikel 3 Vervoersvoorziening naar de dichtstbijzijnde toegankelijke school
+
+"1. Een vervoersvoorziening wordt toegekend over de afstand tussen de woning dan wel de opstapplaats en de dichtstbijzijnde voor de leerling toegankelijke school, tenzij vervoer naar een verder weggelegen school voor de gemeente minder kosten met zich mee zou brengen en de ouders met het vervoer naar die school schriftelijke instemmen.
+
+2. Indien ouders een vervoersvoorziening aanvragen voor het bezoeken van een school, die op grotere afstand van de woning is gelegen dan een andere school van dezelfde onderwijssoort, ontstaat slechts aanspraak op een vervoersvoorziening naar eerstgenoemde school als door de ouders schriftelijk wordt verklaard dat zij overwegende bezwaren hebben tegen het openbaar onderwijs dan wel tegen de richting van het onderwijs van alle bijzondere scholen, van de soort waarop de leerling is aangewezen, die dichterbij de woning zijn gelegen.
+
+3. Het college betrekt bij de beoordeling van de aanvraag van een vervoersvoorziening het ondersteuningsplan, zoals dat is vastgesteld door het samenwerkingsverband na overleg met het college."
+
+Artikel 17 Bekostiging van de kosten van openbaar vervoer met begeleiding en vervoer per fiets met begeleiding
+
+"1. Het college verstrekt aan de ouders van de leerling die een school zoals bedoeld onder artikel 16 bezoekt bekostiging op basis van de kosten van het openbaar vervoer van de leerling en een begeleider, indien de leerling door een structurele lichamelijke, verstandelijke of zintuiglijke handicap niet zelfstandig van het openbaar vervoer of de fiets gebruik kan maken.
+
+[…]."
+
+Artikel 19 Bekostiging op basis van de kosten van eigen vervoer
+
+"1. Indien aanspraak bestaat op een vervoersvoorziening, kan het college de ouders op aanvraag toestaan een of meer leerlingen zelf te vervoeren of te laten vervoeren.
+
+[…]."
