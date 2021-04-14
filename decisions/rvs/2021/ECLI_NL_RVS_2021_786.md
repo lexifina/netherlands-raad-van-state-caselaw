@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2021:786"
-published_in: ["Rechtspraak.nl", "Milieurecht Totaal 2021/7257", "OGR-Updates.nl 2021-0095", "Omgevingsvergunning in de praktijk 2021/8474", "Module Ruimtelijke ordening 2021/8513 met annotatie van G. van den End", "ABkort 2021/266", "NJB 2021/1340", "JOM 2020/191", "JB 2021/87 met annotatie van Schlössels, R.J.N.", "TvAR 2021/8058, UDH:TvAR/16723 met annotatie van Y. Demirci", "RVR 2021/42", "Jurisprudentie Grondzaken 2021/79", "AB 2021/201 met annotatie van A.G.A. Nijmeijer, H.D. Tolsma", "JIN 2021/114 met annotatie van Schlössels, R.J.N.", "JOM 2021/191", "M en R 2021/71", "JOM 2021/337 met annotatie van Schlössels, R.J.N."]
+published_in: ["Rechtspraak.nl", "Milieurecht Totaal 2021/7257", "OGR-Updates.nl 2021-0095", "Omgevingsvergunning in de praktijk 2021/8474", "Module Ruimtelijke ordening 2021/8513 met annotatie van G. van den End", "ABkort 2021/266", "NJB 2021/1340", "JOM 2020/191", "JB 2021/87 met annotatie van Schlössels, R.J.N.", "TvAR 2021/8058, UDH:TvAR/16723 met annotatie van Y. Demirci", "RVR 2021/42", "Jurisprudentie Grondzaken 2021/79", "AB 2021/201 met annotatie van A.G.A. Nijmeijer, H.D. Tolsma", "JIN 2021/114 met annotatie van Schlössels, R.J.N.", "JOM 2021/191", "M en R 2021/71", "JOM 2021/337 met annotatie van Schlössels, R.J.N.", "Sdu Nieuws Omgevingsrecht 2026/201"]
 ---
 
 # ECLI:NL:RVS:2021:786 Raad van State , 14-04-2021 / 201908374/1/R3
