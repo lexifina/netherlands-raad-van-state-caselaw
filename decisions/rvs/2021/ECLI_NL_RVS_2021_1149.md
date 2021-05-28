@@ -1,0 +1,85 @@
+---
+ecli: "ECLI:NL:RVS:2021:1149"
+court: "Raad van State"
+court_code: "RVS"
+docket: "202103406/2/V2"
+decided: "2021-05-28"
+published: "2021-05-31"
+type: "uitspraak"
+procedure: "Voorlopige voorziening"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2021:1149"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RVS:2021:1149 Raad van State , 28-05-2021 / 202103406/2/V2
+
+## Inhoudsindicatie
+
+Bij besluit van 15 juni 2020 heeft de staatssecretaris van Justitie en Veiligheid een aanvraag van de vreemdeling om hem een verblijfsvergunning asiel voor bepaalde tijd te verlenen, afgewezen.
+
+## Uitspraak
+
+202103406/2/V2.
+
+Datum uitspraak: 28 mei 2021
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak van de voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State op een verzoek om het treffen van een voorlopige voorziening (artikel 8:81 van de Algemene wet bestuursrecht), met toepassing van artikel 8:83, derde lid, van die wet, hangende het hoger beroep van:
+
+[de vreemdeling],
+
+verzoeker,
+
+tegen de tussenuitspraak van de rechtbank Den Haag, zittingsplaats Rotterdam, van 10 februari 2021 en haar uitspraak van 29 april 2021 in zaak nr. NL20.13592 in het geding tussen:
+
+de vreemdeling
+
+en
+
+de staatssecretaris van Justitie en Veiligheid.
+
+Procesverloop
+
+Bij besluit van 15 juni 2020 heeft de staatssecretaris een aanvraag van de vreemdeling om hem een verblijfsvergunning asiel voor bepaalde tijd te verlenen, afgewezen.
+
+Bij tussenuitspraak van 10 februari 2021 heeft de rechtbank de staatssecretaris in de gelegenheid gesteld om een aan dat besluit klevend gebrek te herstellen.
+
+Bij besluiten van 1 maart 2021 en 2 maart 2021 heeft de staatssecretaris aanvullende besluiten genomen.
+
+Bij uitspraak van 29 april 2021 heeft de rechtbank het daartegen door de vreemdeling ingestelde beroep gegrond verklaard, het bestreden besluit vernietigd en bepaald dat de rechtsgevolgen daarvan geheel in stand blijven.
+
+Tegen deze uitspraken heeft de vreemdeling hoger beroep ingesteld. Ook heeft hij de voorzieningenrechter verzocht een voorlopige voorziening te treffen.
+
+Overwegingen
+
+1.       De vreemdeling heeft de voorzieningenrechter verzocht de voorlopige voorziening te treffen dat hij niet wordt uitgezet voordat op het hoger beroep is beslist en dat hij opvang en verstrekkingen krijgt.
+
+2.       Gelet op wat is aangevoerd, treft de voorzieningenrechter een voorlopige voorziening (uitspraak van de Afdeling van 20 februari 2019, ECLI:NL:RVS:2019:457).
+
+3.       De staatssecretaris moet de proceskosten vergoeden.
+
+Beslissing
+
+De voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State:
+
+I.        bepaalt bij wijze van voorlopige voorziening dat de vreemdeling niet wordt uitgezet, totdat op het door hem ingestelde hoger beroep is beslist;
+
+II.       veroordeelt de staatssecretaris van Justitie en Veiligheid tot vergoeding van bij de vreemdeling in verband met de behandeling van het verzoek opgekomen proceskosten tot een bedrag van € 534,00, geheel toe te rekenen aan door een derde beroepsmatig verleende rechtsbijstand.
+
+Aldus vastgesteld door mr. C.C.W. Lange, voorzieningenrechter, in tegenwoordigheid van mr. M. van Wezep, griffier.
+
+w.g. Lange
+
+voorzieningenrechter
+
+w.g. Van Wezep
+
+griffier
+
+Uitgesproken in het openbaar op 28 mei 2021
+
+309-915
