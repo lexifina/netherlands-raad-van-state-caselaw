@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2021:2390"
-published_in: ["Rechtspraak.nl", "Module Ruimtelijke ordening 2021/8545 met annotatie van G. van den End", "OGR-Updates.nl 2021-0204", "ABkort 2021/617", "JOM 2021/498", "NJB 2021/2958", "Jurisprudentie Grondzaken 2022/25", "AB 2022/186 met annotatie van R.S. Wertheim"]
+published_in: ["Rechtspraak.nl", "Module Ruimtelijke ordening 2021/8545 met annotatie van G. van den End", "OGR-Updates.nl 2021-0204", "ABkort 2021/617", "JOM 2021/498", "NJB 2021/2958", "Jurisprudentie Grondzaken 2022/25", "AB 2022/186 met annotatie van R.S. Wertheim", "Sdu Nieuws Omgevingsrecht 2026/201"]
 ---
 
 # ECLI:NL:RVS:2021:2390 Raad van State , 27-10-2021 / 202004351/1/R4
