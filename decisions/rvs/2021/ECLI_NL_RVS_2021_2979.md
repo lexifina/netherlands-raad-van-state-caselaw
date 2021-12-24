@@ -1,0 +1,83 @@
+---
+ecli: "ECLI:NL:RVS:2021:2979"
+court: "Raad van State"
+court_code: "RVS"
+docket: "202107095/1/V3 en 202107095/2/V3"
+decided: "2021-12-24"
+published: "2021-12-24"
+type: "uitspraak"
+procedure: "Voorlopige voorziening+bodemzaak"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2021:2979"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RVS:2021:2979 Raad van State , 24-12-2021 / 202107095/1/V3 en 202107095/2/V3
+
+## Inhoudsindicatie
+
+Bij besluit van 12 juli 2021 heeft de staatssecretaris van Justitie en Veiligheid een aanvraag van de vreemdeling om hem een verblijfsvergunning asiel voor bepaalde tijd te verlenen, niet-ontvankelijk verklaard.
+
+## Uitspraak
+
+202107095/1/V3 en 202107095/2/V3.
+
+Datum uitspraak: 24 december 2021
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak van de voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State op een verzoek om het treffen van een voorlopige voorziening (artikel 8:81 van de Algemene wet bestuursrecht) en, met toepassing van artikel 92 van de Vw 2000, op het hoger beroep van:
+
+[de vreemdeling],
+
+appellant,
+
+tegen de uitspraak van de rechtbank Den Haag, zittingsplaats Groningen, van 5 november 2021 in zaak nr. NL21.11305 in het geding tussen:
+
+de vreemdeling
+
+en
+
+de staatssecretaris van Justitie en Veiligheid.
+
+Procesverloop
+
+Bij besluit van 12 juli 2021 heeft de staatssecretaris een aanvraag van de vreemdeling om hem een verblijfsvergunning asiel voor bepaalde tijd te verlenen, niet-ontvankelijk verklaard.
+
+Bij uitspraak van 5 november 2021 heeft de rechtbank het daartegen door de vreemdeling ingestelde beroep ongegrond verklaard.
+
+Tegen deze uitspraak heeft de vreemdeling, vertegenwoordigd door mr. A. Szirmai, advocaat te Heerenveen, hoger beroep ingesteld. Ook heeft hij de voorzieningenrechter verzocht een voorlopige voorziening te treffen.
+
+De vreemdeling heeft een nader stuk ingediend.
+
+Overwegingen
+
+1.       Het hoger beroep leidt niet tot vernietiging van de uitspraak van de rechtbank. Dit oordeel hoeft niet verder te worden gemotiveerd. De reden daarvoor is dat het hogerberoepschrift geen vragen bevat die in het belang van de rechtseenheid, de rechtsontwikkeling of de rechtsbescherming in algemene zin beantwoord moeten worden (artikel 91, tweede lid, van de Vw 2000).
+
+1.1.    Het hoger beroep gaat namelijk over een rechtsvraag die eerder door de Afdeling is beantwoord (uitspraak van 16 december 2021, ECLI:NL:RVS:2021:2857, onder 7 - 7.3, over statushouders uit Bulgarije). Het hoger beroep biedt geen reden hierover in dit geval anders te oordelen.
+
+2.       Het hoger beroep is ongegrond. De uitspraak van de rechtbank wordt bevestigd. Het verzoek om voorlopige voorziening wordt daarom afgewezen. De staatssecretaris hoeft geen proceskosten te vergoeden.
+
+Beslissing
+
+De voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State:
+
+I.        bevestigt de aangevallen uitspraak;
+
+II.       wijst het verzoek af.
+
+Aldus vastgesteld door mr. A.W.M. Bijloos, voorzieningenrechter, in tegenwoordigheid van mr. M.W. Schippers, griffier.
+
+w.g. Bijloos
+
+voorzieningenrechter
+
+w.g. Schippers
+
+griffier
+
+Uitgesproken in het openbaar op 24 december 2021
+
+638-906
