@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2022:501"
-published_in: ["Rechtspraak.nl", "PJ 2022/23 met annotatie van E. Lutjens", "PR-Updates.nl PR-2022-0046"]
+published_in: ["Rechtspraak.nl", "PJ 2022/23 met annotatie van E. Lutjens", "PR-Updates.nl PR-2022-0046", "PR-Updates.nl 2022-0046"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2020:6091, Bekrachtiging/bevestiging"]]
 ---
 
