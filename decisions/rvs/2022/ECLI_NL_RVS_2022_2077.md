@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2022:2077"
-published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2022/8709", "NJB 2022/1869", "Milieurecht Totaal 2022/7448", "JM 2022/142 met annotatie van Bokelaar, P.B."]
+published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2022/8709", "NJB 2022/1869", "Milieurecht Totaal 2022/7448", "JM 2022/142 met annotatie van mr. P.B. Bokelaar"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOVE:2020:3776, Bekrachtiging/bevestiging"]]
 ---
 
