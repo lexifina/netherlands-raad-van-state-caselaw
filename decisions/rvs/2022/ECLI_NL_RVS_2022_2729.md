@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2022:2729"
-published_in: ["Rechtspraak.nl", "JOM 2022/420", "ABkort 2022/386", "JB 2022/194", "Jurisprudentie Grondzaken 2022/173", "JOM 2023/94"]
+published_in: ["Rechtspraak.nl", "JOM 2022/420", "ABkort 2022/386", "JB 2022/194", "Jurisprudentie Grondzaken 2022/173", "JOM 2023/94", "Sdu Nieuws Omgevingsrecht 2022/334"]
 ---
 
 # ECLI:NL:RVS:2022:2729 Raad van State , 21-09-2022 / 202004341/1/R4
