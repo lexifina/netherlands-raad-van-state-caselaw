@@ -1,0 +1,77 @@
+---
+ecli: "ECLI:NL:RVS:2022:3252"
+court: "Raad van State"
+court_code: "RVS"
+docket: "202205882/1/V3 en 202205882/2/V3"
+decided: "2022-11-14"
+published: "2022-11-11"
+type: "uitspraak"
+procedure: "Voorlopige voorziening+bodemzaak"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2022:3252"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RVS:2022:3252 Raad van State , 14-11-2022 / 202205882/1/V3 en 202205882/2/V3
+
+## Inhoudsindicatie
+
+Bij besluit van 16 juni 2021 heeft de staatssecretaris van Justitie en Veiligheid een aanvraag van de vreemdeling om hem een verblijfsvergunning asiel voor bepaalde tijd te verlenen, afgewezen.
+
+## Uitspraak
+
+202205882/1/V3 en 202205882/2/V3.
+
+Datum uitspraak: 14 november 2022
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak van de voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State op een verzoek om het treffen van een voorlopige voorziening (artikel 8:81 van de Algemene wet bestuursrecht) en, met toepassing van artikel 92 van de Vw 2000, op het hoger beroep van:
+
+[de vreemdeling],
+
+appellant,
+
+tegen de uitspraak van de rechtbank Den Haag, zittingsplaats Utrecht, van 4 oktober 2022 in zaak nr. NL21.9934 in het geding tussen:
+
+de vreemdeling
+
+en
+
+de staatssecretaris van Justitie en Veiligheid.
+
+Procesverloop
+
+Bij besluit van 16 juni 2021 heeft de staatssecretaris een aanvraag van de vreemdeling om hem een verblijfsvergunning asiel voor bepaalde tijd te verlenen, afgewezen.
+
+Bij uitspraak van 4 oktober 2022 heeft de rechtbank het daartegen door de vreemdeling ingestelde beroep ongegrond verklaard.
+
+Tegen deze uitspraak heeft de vreemdeling, vertegenwoordigd door mr. M. Pals, advocaat te Arnhem, hoger beroep ingesteld. Ook heeft hij de voorzieningenrechter verzocht een voorlopige voorziening te treffen.
+
+Overwegingen
+
+1.       Het hoger beroep richt zich niet tegen de uitspraak van de rechtbank. De vreemdeling legt namelijk niet uit waarom de uitspraak van de rechtbank volgens hem niet juist is. Daarom kan de Afdeling geen inhoudelijk oordeel geven over het hoger beroep (artikel 85 van de Vw 2000).
+
+2.       Het hoger beroep is niet-ontvankelijk. Het verzoek om voorlopige voorziening wordt daarom afgewezen. De staatssecretaris hoeft geen proceskosten te vergoeden.
+
+Beslissing
+
+De voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State:
+
+I.        verklaart het hoger beroep niet-ontvankelijk;
+
+II.       wijst het verzoek af.
+
+Aldus vastgesteld door mr. N. Verheij, voorzieningenrechter, in tegenwoordigheid van mr. M.W. Schippers, griffier.
+
+De voorzieningenrechter is verhinderd de uitspraak te ondertekenen.
+
+w.g. Schippers
+
+griffier
+
+Uitgesproken in het openbaar op 14 november 2022
+
+873
