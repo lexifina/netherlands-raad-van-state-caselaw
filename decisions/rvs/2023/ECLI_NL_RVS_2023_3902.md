@@ -1,0 +1,79 @@
+---
+ecli: "ECLI:NL:RVS:2023:3902"
+court: "Raad van State"
+court_code: "RVS"
+docket: "202306363/1/V3"
+decided: "2023-10-23"
+published: "2023-10-23"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2023:3902"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RVS:2023:3902 Raad van State , 23-10-2023 / 202306363/1/V3
+
+## Inhoudsindicatie
+
+Bij besluit van 1 augustus 2023 heeft de staatssecretaris van Justitie en Veiligheid een aanvraag van de vreemdeling om hem een verblijfsvergunning asiel voor bepaalde tijd te verlenen, niet in behandeling genomen.
+
+## Uitspraak
+
+202306363/1/V3.
+
+Datum uitspraak: 23 oktober 2023
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak met toepassing van artikel 8:54, eerste lid, van de Algemene wet bestuursrecht op het hoger beroep van:
+
+[de vreemdeling],
+
+appellant,
+
+tegen de uitspraak van de rechtbank Den Haag, zittingsplaats Rotterdam, van 5 oktober 2023 in zaak nr. NL23.22051 in het geding tussen:
+
+de vreemdeling
+
+en
+
+de staatssecretaris van Justitie en Veiligheid.
+
+Procesverloop
+
+Bij besluit van 1 augustus 2023 heeft de staatssecretaris een aanvraag van de vreemdeling om hem een verblijfsvergunning asiel voor bepaalde tijd te verlenen, niet in behandeling genomen.
+
+Bij uitspraak van 5 oktober 2023 heeft de rechtbank het daartegen door de vreemdeling ingestelde beroep ongegrond verklaard.
+
+Tegen deze uitspraak heeft de vreemdeling, vertegenwoordigd door mr. A. Jhingoer, advocaat te Rotterdam, hoger beroep ingesteld.
+
+Overwegingen
+
+1.       Het hoger beroep leidt niet tot vernietiging van de uitspraak van de rechtbank. Dit oordeel hoeft niet verder te worden gemotiveerd. De reden daarvoor is dat het hogerberoepschrift geen vragen bevat die in het belang van de rechtseenheid, de rechtsontwikkeling of de rechtsbescherming in algemene zin beantwoord moeten worden (artikel 91, tweede lid, van de Vw 2000).
+
+1.1.    Het hoger beroep gaat namelijk over een rechtsvraag die eerder door de Afdeling is beantwoord (uitspraken van 16 augustus 2023, ECLI:NL:RVS:2023:3133 en ECLI:NL:RVS:2023:3134, onder 4.4 tot en met 4.13, over het interstatelijk vertrouwensbeginsel voor Bulgarije). Het hoger beroep biedt geen reden hierover in dit geval anders te oordelen.
+
+2.       Het hoger beroep is ongegrond. De uitspraak van de rechtbank wordt bevestigd. De staatssecretaris hoeft geen proceskosten te vergoeden.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+bevestigt de aangevallen uitspraak.
+
+Aldus vastgesteld door mr. J.H. van Breda, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. W.M. Vos, griffier.
+
+w.g. Van Breda
+
+lid van de enkelvoudige kamer
+
+w.g. Vos
+
+griffier
+
+Uitgesproken in het openbaar op 23 oktober 2023
+
+644
