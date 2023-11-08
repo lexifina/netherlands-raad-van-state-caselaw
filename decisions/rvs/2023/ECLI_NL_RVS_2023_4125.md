@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2023:4125"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2023/296", "JV 2023/259", "SEW 2024, afl. 1, p. 38", "Sdu Nieuws Bestuursrecht 2024/129"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:136, Overig"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2024:1028"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:136, Overig"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2024:1028"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2025:326"]]
 ---
 
 # ECLI:NL:RVS:2023:4125 Raad van State , 08-11-2023 / 202300717/1/V1
