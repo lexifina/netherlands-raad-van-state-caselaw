@@ -10,6 +10,7 @@ procedure: "Prejudicieel verzoek"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2023:4632"
 published_in: ["Rechtspraak.nl", "NJB 2024/90", "JV 2024/25", "V-N Vandaag 2024/564", "V-N 2024/15.21", "SEW 2024/43, p. 142", "AB 2025/80 met annotatie van R. Ortlep"]
+relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2025:486"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2026:243"]]
 ---
 
 # ECLI:NL:RVS:2023:4632 Raad van State , 13-12-2023 / 202102327/1/V1
