@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2023:4630"
-published_in: ["Rechtspraak.nl", "NJB 2024/91", "V-N Vandaag 2024/72", "V-N 2024/6.18 met annotatie van Redactie", "JB 2024/17 met annotatie van Redactie", "JBP 2024/11", "AB 2024/64 met annotatie van R.S. Wijling, O. de Vries", "Viditax (FutD) 2023121405", "FutD 2023-3212"]
+published_in: ["Rechtspraak.nl", "NJB 2024/91", "V-N Vandaag 2024/72", "V-N 2024/6.18", "JB 2024/17", "JBP 2024/11", "AB 2024/64 met annotatie van O. de Vries, R.S. Wijling", "Viditax (FutD) 2023121405", "FutD 2023-3212"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2021:1865, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
