@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2023:4723"
-published_in: ["Rechtspraak.nl", "NJB 2024/159", "Sdu Nieuws Bestuursrecht 2024/17", "AB 2024/53 met annotatie van R. Stijnen", "V-N Vandaag 2024/431", "V-N 2024/13.18 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "NJB 2024/159", "Sdu Nieuws Bestuursrecht 2024/17", "AB 2024/53 met annotatie van R. Stijnen", "V-N Vandaag 2024/431", "V-N 2024/13.18"]
 ---
 
 # ECLI:NL:RVS:2023:4723 Raad van State , 27-12-2023 / 202003226/1/A3
