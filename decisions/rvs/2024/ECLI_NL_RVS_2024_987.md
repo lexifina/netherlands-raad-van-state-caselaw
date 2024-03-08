@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:987"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2023:6152, Overig"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2023:6152, Overig"], ["Formele relatie", "Herziening: ECLI:NL:RVS:2026:2430, Overig"]]
 ---
 
 # ECLI:NL:RVS:2024:987 Raad van State , 08-03-2024 / 202306917/2/A3
