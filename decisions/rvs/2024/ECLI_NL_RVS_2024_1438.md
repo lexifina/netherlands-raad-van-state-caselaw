@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:1438"
 published_in: ["Rechtspraak.nl", "ABkort 2024/77", "NJB 2024/969", "JB 2024/105 met annotatie van prof. mr. R.J.N. Schlössels", "AB 2024/252 met annotatie van R. Stolk", "JIN 2024/150 met annotatie van prof. mr. R.J.N. Schlössels"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2022:5206, Bekrachtiging/bevestiging"], ["Formele relatie", "Herziening: ECLI:NL:RVS:2026:5897, Afwijzing"]]
 ---
 
 # ECLI:NL:RVS:2024:1438 Raad van State , 10-04-2024 / 202204323/1/A3
