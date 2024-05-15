@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:2045"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1073", "Sdu Nieuws Bestuursrecht 2024/92", "NLF 2024/1190 met annotatie van Felix Peppelenbosch", "V-N 2024/27.24 met annotatie van Redactie", "AA20240769 met annotatie van Marseille A.T. Bert"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1073", "Sdu Nieuws Bestuursrecht 2024/92", "NLF 2024/1190 met annotatie van Felix Peppelenbosch", "V-N 2024/27.24", "AA20240769 met annotatie van Marseille A.T. Bert"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2023:3143, Bekrachtiging/bevestiging"]]
 ---
 
