@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:2829"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2024/129", "JV 2024/187", "NJB 2024/1673"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:19612, Meerdere afhandelingswijzen"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:19612, Meerdere afhandelingswijzen"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2026:160"]]
 ---
 
 # ECLI:NL:RVS:2024:2829 Raad van State , 10-07-2024 / 202400194/1/V1
