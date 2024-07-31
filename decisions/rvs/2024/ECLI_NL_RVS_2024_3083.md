@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:3083"
-published_in: ["Rechtspraak.nl", "ABkort 2024/144", "NJB 2024/1815"]
+published_in: ["Rechtspraak.nl", "ABkort 2024/144", "NJB 2024/1815", "AB 2025/256 met annotatie van A.C.M. Lijten, J.E. van den Brink", "AB 2025/Studentenspecial 5 met annotatie van S. Losekoot"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2021:6411, Bekrachtiging/bevestiging"]]
 ---
 
