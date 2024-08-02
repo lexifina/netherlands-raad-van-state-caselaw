@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:3150"
-published_in: ["Rechtspraak.nl", "ABkort 2024/164", "NJB 2024/1818", "AB 2024/312 met annotatie van L.J.A. Damen, V.M. Bex-Reimert"]
+published_in: ["Rechtspraak.nl", "ABkort 2024/164", "NJB 2024/1818", "AB 2024/312 met annotatie van L.J.A. Damen, Redactie, V.M. Bex-Reimert"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:2283, Meerdere afhandelingswijzen"]]
 ---
 
