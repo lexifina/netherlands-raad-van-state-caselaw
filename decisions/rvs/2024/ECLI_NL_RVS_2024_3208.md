@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:3208"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2024/161", "NJB 2024/1820", "JB 2024/150", "JOM 2025/43"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2024/161", "NJB 2024/1820", "JB 2024/150", "JOM 2025/43", "AB 2026/192 met annotatie van J.E. van den Brink"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2022:901, Bekrachtiging/bevestiging"]]
 ---
 
