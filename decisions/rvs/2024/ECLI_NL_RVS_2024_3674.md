@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:3674"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2024/172", "V-N Vandaag 2024/1839", "NJB 2024/1909", "Belastingblad 2024/334", "V-N 2024/44.20", "JB 2024/180 met annotatie van B.P. Martens", "Viditax (FutD) 2024091207", "FutD 2024-1973", "AB 2025/30 met annotatie van J.C. de Wit, L.C. Groen", "JIN 2025/62 met annotatie van B.P. Martens"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2024/172", "V-N Vandaag 2024/1839", "NJB 2024/1909", "Belastingblad 2024/334", "V-N 2024/44.20", "JB 2024/180 met annotatie van B.P. Martens", "Viditax (FutD) 2024091207", "FutD 2024-1973", "AB 2025/30 met annotatie van J.C. de Wit, L.C. Groen", "JIN 2025/62 met annotatie van B.P. Martens", "Gst. 2025/99 met annotatie van J.L.W. Broeksteeg"]
 ---
 
 # ECLI:NL:RVS:2024:3674 Raad van State , 11-09-2024 / 202400721/1/A2
