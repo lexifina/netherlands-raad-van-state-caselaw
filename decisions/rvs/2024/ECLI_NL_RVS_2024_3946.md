@@ -10,6 +10,7 @@ procedure: "Tussenuitspraak bestuurlijke lus"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:3946"
 published_in: ["Rechtspraak.nl", "JOM 2024/504", "JM 2025/7 met annotatie van H.S. de Vries"]
+relations: [["Formele relatie", "Einduitspraak na bestuurlijke lus: ECLI:NL:RVS:2025:5608"]]
 ---
 
 # ECLI:NL:RVS:2024:3946 Raad van State , 02-10-2024 / 202304224/1/A2
