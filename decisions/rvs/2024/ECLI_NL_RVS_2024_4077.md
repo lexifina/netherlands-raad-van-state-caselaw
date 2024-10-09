@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:4077"
-published_in: ["Rechtspraak.nl", "NJB 2024/970", "NJB 2024/2268", "JB 2024/183", "M en R 2024/127 met annotatie van H.J.A. van Ham", "Gst. 2025/4 met annotatie van B. van der Vorm", "JOM 2025/54"]
+published_in: ["Rechtspraak.nl", "NJB 2024/970", "NJB 2024/2268", "JB 2024/183", "M en R 2024/127 met annotatie van H.J.A. van Ham", "Gst. 2025/4 met annotatie van B. van der Vorm", "JOM 2025/54", "AB 2025/Studentenspecial 4 met annotatie van W.J. Stoker"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:2250, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
