@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:4603"
-published_in: ["Rechtspraak.nl", "FutD 2024-2430", "V-N Vandaag 2024/2375", "Viditax (FutD) 2024111404", "NLF 2024/2668 met annotatie van Roel Kerckhoffs", "V-N 2025/2.21 met annotatie van Redactie", "JBP 2025/11", "AB 2025/91 met annotatie van J.J.H. van Mil, M.D. Reijneveld"]
+published_in: ["Rechtspraak.nl", "FutD 2024-2430", "V-N Vandaag 2024/2375", "Viditax (FutD) 2024111404", "NLF 2024/2668 met annotatie van Roel Kerckhoffs", "V-N 2025/2.21", "JBP 2025/11", "AB 2025/91 met annotatie van J.J.H. van Mil, M.D. Reijneveld"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2022:1771, Bekrachtiging/bevestiging"]]
 ---
 
