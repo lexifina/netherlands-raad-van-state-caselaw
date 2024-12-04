@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:4984"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2485", "V-N 2025/6.22 met annotatie van Redactie", "Belastingblad 2025/83 met annotatie van J.K. Lanser", "AB 2025/72 met annotatie van A. Drahmann"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2485", "V-N 2025/6.22", "Belastingblad 2025/83 met annotatie van J.K. Lanser", "AB 2025/72 met annotatie van A. Drahmann"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2024:574, Overig"]]
 ---
 
