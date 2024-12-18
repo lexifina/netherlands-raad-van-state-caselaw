@@ -10,6 +10,7 @@ procedure: "Prejudicieel verzoek"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2024:5258"
 published_in: ["Rechtspraak.nl", "JV 2025/31", "NJB 2025/257"]
+relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2026:37"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2026:397"]]
 ---
 
 # ECLI:NL:RVS:2024:5258 Raad van State , 18-12-2024 / 202201153/1/V2 en 202400407/1/V2
