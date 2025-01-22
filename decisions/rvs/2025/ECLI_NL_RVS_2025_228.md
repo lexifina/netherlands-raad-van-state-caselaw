@@ -1,0 +1,83 @@
+---
+ecli: "ECLI:NL:RVS:2025:228"
+court: "Raad van State"
+court_code: "RVS"
+docket: "202407645/1/V3 en 202407645/2/V3"
+decided: "2025-01-22"
+published: "2025-01-23"
+type: "uitspraak"
+procedure: "Voorlopige voorziening+bodemzaak"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:228"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RVS:2025:228 Raad van State , 22-01-2025 / 202407645/1/V3 en 202407645/2/V3
+
+## Inhoudsindicatie
+
+Bij brief van 18 juli 2024 heeft de minister van Asiel en Migratie de Bulgaarse autoriteiten meegedeeld dat hij de termijn voor de overdracht aan Bulgarije heeft verlengd tot achttien maanden.
+
+## Uitspraak
+
+202407645/1/V3 en 202407645/2/V3.
+
+Datum uitspraak: 22 januari 2025
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak van de voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State op een verzoek om het treffen van een voorlopige voorziening (artikel 8:81 van de Algemene wet bestuursrecht) en, met toepassing van artikel 92 van de Vw 2000, op het hoger beroep van:
+
+[vreemdeling 1] en [vreemdeling 2],
+
+appellanten,
+
+tegen de uitspraak van de rechtbank Den Haag, zittingsplaats 's-Hertogenbosch, van 19 november 2024 in zaak nr. NL24.30310 in het geding tussen:
+
+de vreemdelingen
+
+en
+
+de minister van Asiel en Migratie.
+
+Procesverloop
+
+Bij brief van 18 juli 2024 heeft de minister de Bulgaarse autoriteiten meegedeeld dat hij de termijn voor de overdracht aan Bulgarije heeft verlengd tot achttien maanden.
+
+Bij uitspraak van 19 november 2024 heeft de rechtbank het daartegen door de vreemdelingen ingestelde beroep gegrond verklaard, dat besluit vernietigd en bepaald dat de rechtsgevolgen daarvan geheel in stand blijven.
+
+Tegen deze uitspraak hebben de vreemdelingen, vertegenwoordigd door mr. A. Khalaf, advocaat in Zwolle, hoger beroep ingesteld. Ook hebben zij de voorzieningenrechter verzocht een voorlopige voorziening te treffen.
+
+De vreemdelingen hebben een nader stuk ingediend.
+
+Overwegingen
+
+1.       Het hoger beroep leidt niet tot vernietiging van de uitspraak van de rechtbank. De rechtbank is namelijk terecht en op goede gronden tot haar oordeel gekomen. De voorzieningenrechter van de Afdeling neemt de motivering onder 11 en 12 van de uitspraak van de rechtbank over.
+
+1.1.    Dit oordeel hoeft niet verder te worden gemotiveerd. De reden daarvoor is dat het hogerberoepschrift geen vragen bevat die in het belang van de rechtseenheid, de rechtsontwikkeling of de rechtsbescherming in algemene zin beantwoord moeten worden (artikel 91, tweede lid, van de Vw 2000).
+
+2.       Het hoger beroep is ongegrond. De uitspraak van de rechtbank wordt bevestigd. Het verzoek om voorlopige voorziening wordt daarom afgewezen. De minister hoeft geen proceskosten te vergoeden.
+
+Beslissing
+
+De voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State:
+
+I.        bevestigt de aangevallen uitspraak;
+
+II.       wijst het verzoek af.
+
+Aldus vastgesteld door mr. J.H. van Breda, voorzieningenrechter, in tegenwoordigheid van mr. D.I. Schipper, griffier.
+
+w.g. Van Breda
+
+voorzieningenrechter
+
+w.g. Schipper
+
+griffier
+
+Uitgesproken in het openbaar op 22 januari 2025
+
+846-1137
