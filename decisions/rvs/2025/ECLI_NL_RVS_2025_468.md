@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:468"
-published_in: ["Rechtspraak.nl", "JBO 2025/8 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "JBO 2025/8", "VGR 2026/24, p.91 met annotatie van Jelle Kuijer"]
 ---
 
 # ECLI:NL:RVS:2025:468 Raad van State , 10-02-2025 / 202500044/1/R4 en 202500045/1/R4
