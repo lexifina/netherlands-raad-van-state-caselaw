@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:456"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/298", "NLF 2025/0415", "V-N 2025/10.26", "NJB 2025/496", "RSV 2025/50", "JB 2025/64 met annotatie van J.H. Roelfsema", "AB 2025/101 met annotatie van R. Ortlep"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/298", "NLF 2025/0415", "V-N 2025/10.26", "NJB 2025/496", "RSV 2025/50", "JB 2025/64 met annotatie van J.H. Roelfsema", "AB 2025/101 met annotatie van R. Ortlep", "Gst. 2025/52 met annotatie van Redactie"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2024:3160, Bekrachtiging/bevestiging"]]
 ---
 
