@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:676"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/222 met annotatie van A. Drahmann"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:36, Bekrachtiging/bevestiging"]]
 ---
 
