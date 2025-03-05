@@ -10,6 +10,7 @@ procedure: "Tussenuitspraak bestuurlijke lus"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:894"
 published_in: ["Rechtspraak.nl", "NJB 2025/545", "JB 2025/83", "Gst. 2025/41 met annotatie van D.I. van Weerden"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2023:1421, Bekrachtiging/bevestiging"], ["Formele relatie", "Einduitspraak na bestuurlijke lus: ECLI:NL:RVS:2025:6388"]]
 ---
 
 # ECLI:NL:RVS:2025:894 Raad van State , 05-03-2025 / 202303532/1/A3
