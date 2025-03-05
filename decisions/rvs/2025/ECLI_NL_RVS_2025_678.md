@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:678"
-published_in: ["Rechtspraak.nl", "ABkort 2025/48", "NJB 2025/546", "Milieurecht Totaal 2025/7802", "JB 2025/81 met annotatie van mr. dr. C.L.G.F.H. Albers", "JOM 2025/124", "Jurisprudentie Grondzaken 2025/34 met annotatie van N. Thorborg, R.C.K. van Andel"]
+published_in: ["Rechtspraak.nl", "ABkort 2025/48", "NJB 2025/546", "Milieurecht Totaal 2025/7802", "JB 2025/81 met annotatie van mr. dr. C.L.G.F.H. Albers", "JOM 2025/124", "Jurisprudentie Grondzaken 2025/34 met annotatie van N. Thorborg, R.C.K. van Andel", "JIN 2025/82 met annotatie van mr. dr. C.L.G.F.H. Albers", "Gst. 2025/98", "TBR 2026/18 met annotatie van O.J.D.M.L. Jansen", "AB 2026/103 met annotatie van C.M.M. van Mil", "AB 2025/Studentenspecial 3 met annotatie van E. Verbeet"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:5807, Bekrachtiging/bevestiging"]]
 ---
 
