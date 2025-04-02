@@ -10,6 +10,7 @@ procedure: "Prejudicieel verzoek"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:1473"
 published_in: ["Rechtspraak.nl", "JV 2025/112", "NJB 2025/815"]
+relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2026:313"]]
 ---
 
 # ECLI:NL:RVS:2025:1473 Raad van State , 02-04-2025 / 202402732/1/V2
