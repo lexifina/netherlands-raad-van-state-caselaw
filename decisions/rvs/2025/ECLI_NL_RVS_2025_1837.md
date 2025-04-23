@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:1837"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Gst. 2026/51 met annotatie van M. Kappelhof, R. Nomden"]
 ---
 
 # ECLI:NL:RVS:2025:1837 Raad van State , 23-04-2025 / 202400879/1/A3
