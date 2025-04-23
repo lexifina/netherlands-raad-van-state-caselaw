@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:1831"
-published_in: ["Rechtspraak.nl", "NJB 2025/946"]
+published_in: ["Rechtspraak.nl", "NJB 2025/946", "ABkort 2025/95", "JB 2025/110 met annotatie van mr. dr. C.L.G.F.H. Albers, prof. mr. R.J.N. Schlössels", "JIN 2025/146 met annotatie van mr. dr. C.L.G.F.H. Albers, prof. mr. R.J.N. Schlössels", "AB 2025/Studentenspecial 2 met annotatie van G. Keizers", "AA20250629 met annotatie van Marseille A.T. Bert"]
 ---
 
 # ECLI:NL:RVS:2025:1831 Raad van State , 23-04-2025 / 202406189/1/A2
