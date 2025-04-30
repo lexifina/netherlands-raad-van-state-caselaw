@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:1925"
-published_in: ["Rechtspraak.nl", "NJB 2025/996"]
+published_in: ["Rechtspraak.nl", "NJB 2025/996", "JB 2025/117", "AB 2026/221 met annotatie van A. Drahmann"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2021:5692, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:1925 Raad van State , 30-04-2025 / 202105857/1/A3
