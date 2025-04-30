@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:1969"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2025/103", "NJB 2025/995"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2025/103", "NJB 2025/995", "JB 2025/120", "GJ 2025/68 met annotatie van prof. mr. J.G. Sijmons", "JGR 2026/30 met annotatie van A. Abou Elmagd"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2022:996, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2025:1969 Raad van State , 30-04-2025 / 202201997/1/A3
