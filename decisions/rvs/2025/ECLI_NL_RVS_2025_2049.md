@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak bestuurlijke lus"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:2049"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Milieurecht Totaal 2025/7827", "Omgevingsvergunning in de praktijk 2025/9253", "Sdu Nieuws Omgevingsrecht 2026/197"]
 ---
 
 # ECLI:NL:RVS:2025:2049 Raad van State , 07-05-2025 / 202202275/1/R3
