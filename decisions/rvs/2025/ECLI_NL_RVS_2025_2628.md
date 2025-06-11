@@ -10,6 +10,7 @@ procedure: "Prejudicieel verzoek"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:2628"
 published_in: ["Rechtspraak.nl", "JV 2025/184 met annotatie van mr. M.J.L.G. Zweers"]
+relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2026:703"]]
 ---
 
 # ECLI:NL:RVS:2025:2628 Raad van State , 11-06-2025 / 202301122/1/V1 en 202402906/1/V1
