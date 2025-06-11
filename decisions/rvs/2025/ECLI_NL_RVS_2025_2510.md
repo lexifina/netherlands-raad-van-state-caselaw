@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:2510"
-published_in: ["Rechtspraak.nl", "School en Wet 2025/174"]
+published_in: ["Rechtspraak.nl", "School en Wet 2025/174", "AB 2026/232 met annotatie van M.S.P. van den Hove, S. Philipsen"]
 ---
 
 # ECLI:NL:RVS:2025:2510 Raad van State , 11-06-2025 / 202500236/1/A2
