@@ -1,0 +1,100 @@
+---
+ecli: "ECLI:NL:RVS:2025:2874"
+court: "Raad van State"
+court_code: "RVS"
+docket: "202402016/1/V3"
+decided: "2025-06-26"
+published: "2025-06-26"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:2874"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:4212, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+---
+
+# ECLI:NL:RVS:2025:2874 Raad van State , 26-06-2025 / 202402016/1/V3
+
+## Inhoudsindicatie
+
+Bij besluit van 28 augustus 2023 heeft de staatssecretaris van Justitie en Veiligheid bepaald dat op 4 september 2023 het recht op bescherming eindigt dat appellant geniet op grond van Richtlijn 2001/55/EG en het daarop gebaseerde Uitvoeringsbesluit (EU) 2022/382 van 4 maart 2022. De staatssecretaris heeft appellant ook opgedragen om de Europese Unie binnen vier weken te verlaten. De staatssecretaris heeft dit besluit op 9 februari 2024 ingetrokken.
+
+## Uitspraak
+
+202402016/1/V3.
+
+Datum uitspraak: 26 juni 2025
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak met toepassing van artikel 8:54, eerste lid, van de Algemene wet bestuursrecht op het hoger beroep van:
+
+[appellant],
+
+appellant,
+
+tegen de uitspraak van de rechtbank Den Haag, zittingsplaats Utrecht, van 26 maart 2024 in zaken nrs. NL23.25570 en NL24.8178 in het geding tussen:
+
+appellant
+
+en
+
+de minister van Asiel en Migratie.
+
+Procesverloop
+
+Bij besluit van 28 augustus 2023 heeft de staatssecretaris van Justitie en Veiligheid bepaald dat op 4 september 2023 het recht op bescherming eindigt dat appellant geniet op grond van Richtlijn 2001/55/EG en het daarop gebaseerde Uitvoeringsbesluit (EU) 2022/382 van 4 maart 2022. De staatssecretaris heeft appellant ook opgedragen om de Europese Unie binnen vier weken te verlaten. De staatssecretaris heeft dit besluit op 9 februari 2024 ingetrokken.
+
+Bij besluit van 7 februari 2024 heeft de staatssecretaris bepaald dat op 4 maart 2024 het recht op bescherming eindigt dat appellant geniet op grond van Richtlijn 2001/55/EG en het daarop gebaseerde Uitvoeringsbesluit (EU) 2022/382 van 4 maart 2022. De staatssecretaris heeft appellant ook opgedragen om de Europese Unie binnen vier weken na 4 maart 2024 te verlaten.
+
+Bij uitspraak van 26 maart 2024 heeft de rechtbank het door appellant tegen het besluit van 28 augustus 2023 ingestelde beroep niet-ontvankelijk verklaard. De rechtbank heeft het door appellant tegen het besluit van 7 februari 2024 ingestelde beroep ongegrond verklaard.
+
+Tegen deze uitspraak heeft appellant, vertegenwoordigd door mr. C.E. van Diepen, advocaat in Gouda, hoger beroep ingesteld.
+
+De minister en appellant hebben op verzoek van de Afdeling schriftelijke zienswijzen gegeven op het arrest van het Hof van Justitie van 19 december 2024, Kaduna e.a., ECLI:EU:C:2024:1038.
+
+Overwegingen
+
+1.       De vierde grief leidt niet tot vernietiging van de uitspraak van de rechtbank. Dit oordeel hoeft niet verder te worden gemotiveerd. De reden daarvoor is dat die grief geen vragen bevat die in het belang van de rechtseenheid, de rechtsontwikkeling of de rechtsbescherming in algemene zin beantwoord moeten worden (artikel 91, tweede lid, van de Vw 2000).
+
+2.       Ook de eerste grief leidt niet tot vernietiging van de uitspraak van de rechtbank. Dit oordeel hoeft niet verder te worden gemotiveerd. De reden daarvoor is dat die grief geen vragen bevat die in het belang van de rechtseenheid, de rechtsontwikkeling of de rechtsbescherming in algemene zin beantwoord moeten worden (artikel 91, tweede lid, van de Vw 2000).
+
+2.1.    De eerste grief gaat namelijk over een rechtsvraag die eerder door de Afdeling is beantwoord (uitspraken van 23 april 2025, ECLI:NL:RVS:2025:1829, ECLI:NL:RVS:2025:1827 en ECLI:NL:RVS:2025:1836, onder 3.1 tot en met 3.6, over het moment waarop de minister voor derdelanders uit Oekraïne de facultatieve tijdelijke bescherming mocht beëindigen). Deze grief biedt geen reden hierover in dit geval anders te oordelen.
+
+3.       In zijn tweede grief klaagt appellant terecht dat de rechtbank zijn beroepsgrond dat de minister het terugkeerbesluit van 7 februari 2024 prematuur heeft genomen, niet heeft beoordeeld. Dit betekent echter niet dat de uitspraak van de rechtbank al daarom moet worden vernietigd. De Afdeling beoordeelt die beroepsgrond alsnog.
+
+3.1.    Appellant betoogt terecht dat de minister het terugkeerbesluit prematuur heeft genomen. De Afdeling verwijst naar de hiervoor genoemde uitspraken van 23 april 2025, onder 3.7 tot en met 3.9. De minister heeft namelijk het terugkeerbesluit op 7 februari 2024 genomen, terwijl appellant op dat moment nog facultatieve tijdelijke bescherming genoot en dus legaal op het Nederlandse grondgebied verbleef. Op grond van artikel 2, eerste lid, van de Terugkeerrichtlijn kon de minister daarom nog geen terugkeerbesluit nemen. De grief slaagt.
+
+4.       Het hoger beroep is gegrond. De Afdeling vernietigt de uitspraak van de rechtbank, voor zover die gaat over het terugkeerbesluit van 7 februari 2024. Het is niet nodig wat appellant in zijn derde grief over de totstandkoming van het terugkeerbesluit heeft aangevoerd te bespreken. Het beroep is gegrond, voor zover het is gericht tegen het terugkeerbesluit van 7 februari 2024, en dat besluit wordt vernietigd. Omdat er geen beroepsgronden zijn die de rechtbank niet heeft besproken, is het beroep voor het overige ongegrond. De minister moet de proceskosten vergoeden.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+I.        verklaart het hoger beroep gegrond;
+
+II.       vernietigt de uitspraak van de rechtbank Den Haag, zittingsplaats Utrecht, van 26 maart 2024 in zaken nrs. NL23.25570 en NL24.8178, voor zover die gaat over het terugkeerbesluit van 7 februari 2024;
+
+III.      verklaart het beroep, voor zover het is gericht tegen het terugkeerbesluit van 7 februari 2024, gegrond;
+
+IV.      vernietigt het besluit van 7 februari 2024, V-[...];
+
+V.       bevestigt de uitspraak voor het overige;
+
+VI.      veroordeelt de minister van Asiel en Migratie tot vergoeding van bij appellant in verband met de behandeling van het beroep en het hoger beroep opgekomen proceskosten tot een bedrag van € 3.174,50,, geheel toe te rekenen aan door een derde beroepsmatig verleende rechtsbijstand.
+
+Aldus vastgesteld door mr. J.C.A. de Poorter, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. D.C.M. van Trappen, griffier.
+
+w.g. De Poorter
+
+lid van de enkelvoudige kamer
+
+w.g. Van Trappen
+
+griffier
+
+Uitgesproken in het openbaar op 26 juni 2025
+
+985
