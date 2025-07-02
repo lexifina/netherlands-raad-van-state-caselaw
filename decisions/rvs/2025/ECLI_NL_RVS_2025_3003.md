@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak bestuurlijke lus"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:3003"
-published_in: ["Rechtspraak.nl", "BR 2026/6 met annotatie van J.A. Mohuddy"]
+published_in: ["Rechtspraak.nl", "BR 2026/6 met annotatie van J.A. Mohuddy", "AB 2026/165 met annotatie van T. Groot"]
 ---
 
 # ECLI:NL:RVS:2025:3003 Raad van State , 02-07-2025 / 202204567/1/R2
