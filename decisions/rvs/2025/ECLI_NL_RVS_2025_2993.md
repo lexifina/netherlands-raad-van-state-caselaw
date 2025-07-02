@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:2993"
-published_in: ["Rechtspraak.nl", "RSV 2025/139"]
+published_in: ["Rechtspraak.nl", "RSV 2025/139", "AB 2026/122 met annotatie van M.W. Venderbos"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2024:6404, Bekrachtiging/bevestiging"]]
 ---
 
