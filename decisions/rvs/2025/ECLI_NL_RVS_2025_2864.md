@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:2864"
-published_in: ["Rechtspraak.nl", "NJB 2025/2027", "RSV 2025/138"]
+published_in: ["Rechtspraak.nl", "NJB 2025/2027", "RSV 2025/138", "AB 2026/121 met annotatie van M.W. Venderbos"]
 ---
 
 # ECLI:NL:RVS:2025:2864 Raad van State , 02-07-2025 / 202304197/1/A2
