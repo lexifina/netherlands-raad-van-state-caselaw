@@ -10,6 +10,7 @@ procedure: "Tussenuitspraak bestuurlijke lus"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:3095"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Einduitspraak na bestuurlijke lus: ECLI:NL:RVS:2026:2084"]]
 ---
 
 # ECLI:NL:RVS:2025:3095 Raad van State , 09-07-2025 / 202307182/1/R3
