@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:3258"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGR 2026/25 met annotatie van mr. drs. J.A. Lisman"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOVE:2021:4841, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
