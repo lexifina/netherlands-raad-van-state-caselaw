@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:3223"
-published_in: ["Rechtspraak.nl", "JB 2025/210 met annotatie van D.A.R. Snelders", "2026/5 met annotatie van S.K. Hooijer"]
+published_in: ["Rechtspraak.nl", "JB 2025/210 met annotatie van D.A.R. Snelders", "2026/5 met annotatie van S.K. Hooijer", "JIN 2026/83 met annotatie van D.A.R. Snelders"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2022:2404, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
