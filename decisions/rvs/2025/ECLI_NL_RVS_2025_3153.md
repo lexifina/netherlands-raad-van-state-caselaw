@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:3153"
-published_in: ["Rechtspraak.nl", "ABkort 2025/128", "JV 2025/192", "NJB 2025/2107"]
+published_in: ["Rechtspraak.nl", "ABkort 2025/128", "JV 2025/192", "NJB 2025/2107", "JV 2026/140 met annotatie van K.M. Kager"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:20169, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
