@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:3499"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:9006, Onduidelijk"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:9006, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2025:3499 Raad van State , 29-07-2025 / BRS.25.000594
@@ -21,19 +21,13 @@ Bij besluit van 19 december 2024 heeft de minister een aanvraag van betrokkene o
 
 ## Uitspraak
 
-BRS.25.000594
+BRS.25.000594Datum uitspraak: 29 juli 2025
 
-Datum uitspraak: 29 juli 2025
-
-AFDELING
-
-BESTUURSRECHTSPRAAK
+AFDELINGBESTUURSRECHTSPRAAK
 
 Uitspraak met toepassing van artikel 8:54, eerste lid, van de Algemene wet bestuursrecht op het hoger beroep van:
 
-de minister van Asiel en Migratie,
-
-appellant,
+de minister van Asiel en Migratie,appellant,
 
 tegen de uitspraak van de rechtbank Den Haag, zittingsplaats Rotterdam, van 14 mei 2025 in zaak nr. NL24.51293 in het geding tussen:
 
@@ -55,21 +49,25 @@ Betrokkene, vertegenwoordigd door mr. O.C. Bondam, advocaat in Voorschoten, heef
 
 Overwegingen
 
-1.1.    De grieven slagen niet.
+1. Het hoger beroep leidt niet tot vernietiging van de uitspraak van de rechtbank. Bij uitspraak van 16 juli 2025, ECLI:NL:RVS:2025:3153, heeft de Afdeling geoordeeld dat de minister de beoordeling in het beleid in paragraaf C7/19.4.2 van de Vc 2000 of in Jemen sprake is van de meest uitzonderlijke situatie die valt onder artikel 15, aanhef en onder c, van de Kwalificatierichtlijn, niet deugdelijk heeft gemotiveerd. Bij deze beoordeling zijn namelijk niet alle relevante omstandigheden globaal in aanmerking genomen. Gelet op deze uitspraak van de Afdeling, onder 4.2, 6 en 6.1, heeft de rechtbank dus terecht overwogen dat de minister niet deugdelijk heeft gemotiveerd hoe zij de slechte humanitaire situatie in Jemen in combinatie met de andere door betrokkene overgelegde informatie over het actuele geweldsniveau en andere relevante omstandigheden weegt in de beoordeling in het kader van artikel 15, aanhef en onder c, van de Kwalificatierichtlijn.
+
+1.1. De grieven slagen niet.
+
+2. Het hoger beroep is ongegrond. De Afdeling bevestigt de uitspraak van de rechtbank. De minister moet de proceskosten vergoeden.
 
 Beslissing
 
 De Afdeling bestuursrechtspraak van de Raad van State:
 
+I. bevestigt de aangevallen uitspraak;
+
+II. veroordeelt de minister van Asiel en Migratie tot vergoeding van bij betrokkene in verband met de behandeling van het hoger beroep opgekomen proceskosten tot een bedrag van € 907,00, geheel toe te rekenen aan door een derde beroepsmatig verleende rechtsbijstand.
+
 Aldus vastgesteld door mr. M. den Heyer, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. M.A. Huizer, griffier.
 
-w.g. Den Heyer
+w.g. Den Heyerlid van de enkelvoudige kamer
 
-lid van de enkelvoudige kamer
-
-w.g. Huizer
-
-griffier
+w.g. Huizergriffier
 
 Uitgesproken in het openbaar op 29 juli 2025
 
