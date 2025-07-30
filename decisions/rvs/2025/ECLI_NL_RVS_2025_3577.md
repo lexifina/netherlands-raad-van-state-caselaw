@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:3577"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2025/174", "ABkort 2025/143", "NJB 2025/2180", "Gst. 2025/115 met annotatie van A.E.M. van den Berg, C.J. Loggen-ten Hoopen"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2025/174", "ABkort 2025/143", "NJB 2025/2180", "Gst. 2025/115 met annotatie van A.E.M. van den Berg, C.J. Loggen-ten Hoopen", "AB 2026/214 met annotatie van A.E. Schilder, J.G. Brouwer"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2022:5080"]]
 ---
 
