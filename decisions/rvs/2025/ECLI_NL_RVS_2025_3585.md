@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:3585"
-published_in: ["Rechtspraak.nl", "NJB 2025/2178", "JB 2025/166"]
+published_in: ["Rechtspraak.nl", "NJB 2025/2178", "JB 2025/166", "AB 2026/248 met annotatie van M.S.P. van den Hove, S. Philipsen"]
 ---
 
 # ECLI:NL:RVS:2025:3585 Raad van State , 30-07-2025 / 202501708/1/A2
