@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:3619"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/231 met annotatie van M.S.P. van den Hove, S. Philipsen"]
 ---
 
 # ECLI:NL:RVS:2025:3619 Raad van State , 01-08-2025 / 202406440/2/A2
