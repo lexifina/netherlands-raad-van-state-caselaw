@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:3834"
 published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2025/9299"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2023:7227, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2025:3834 Raad van State , 13-08-2025 / 202400268/1/R4
