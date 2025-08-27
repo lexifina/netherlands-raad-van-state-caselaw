@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4125"
-published_in: ["Rechtspraak.nl", "NJB 2025/2197"]
+published_in: ["Rechtspraak.nl", "NJB 2025/2197", "Gst. 2026/44 met annotatie van C.J. Dekker, R. Yahya"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2023:2607, Bekrachtiging/bevestiging"]]
 ---
 
