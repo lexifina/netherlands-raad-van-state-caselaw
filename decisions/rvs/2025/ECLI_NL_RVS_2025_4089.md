@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4089"
 published_in: ["Rechtspraak.nl", "Module Privacy & AVG 2025/4467", "JBP 2025/123"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2024:1768, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2025:4089 Raad van State , 27-08-2025 / 202401270/1/A3
