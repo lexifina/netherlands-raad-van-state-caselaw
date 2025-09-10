@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4324"
-published_in: ["Rechtspraak.nl", "NJB 2025/2254", "JB 2025/199 met annotatie van prof. mr. R.J.N. Schlössels"]
+published_in: ["Rechtspraak.nl", "NJB 2025/2254", "JB 2025/199 met annotatie van prof. mr. R.J.N. Schlössels", "JIN 2026/68 met annotatie van prof. mr. R.J.N. Schlössels"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:2796, Bekrachtiging/bevestiging"]]
 ---
 
