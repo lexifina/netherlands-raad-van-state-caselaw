@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4323"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGR 2026/26 met annotatie van mr. drs. J.A. Lisman"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2022:4600, Bekrachtiging/bevestiging"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2022:4598, Bekrachtiging/bevestiging"]]
 ---
 
