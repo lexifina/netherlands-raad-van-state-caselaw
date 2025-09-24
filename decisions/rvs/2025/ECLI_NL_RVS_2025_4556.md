@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4556"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2025/217", "Omgevingsvergunning in de praktijk 2025/9313", "TvAR 2026/8240 met annotatie van D. Korsse", "AB 2026/78 met annotatie van R.H.W. Frins"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2025/217", "Omgevingsvergunning in de praktijk 2025/9313", "TvAR 2026/8240 met annotatie van D. Korsse", "AB 2026/78 met annotatie van R.H.W. Frins", "Milieurecht Totaal 2026/7968"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:9296, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
