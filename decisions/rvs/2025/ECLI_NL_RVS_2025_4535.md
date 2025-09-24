@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4535"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VR 2026/103"]
 ---
 
 # ECLI:NL:RVS:2025:4535 Raad van State , 24-09-2025 / 202400521/1/A2
