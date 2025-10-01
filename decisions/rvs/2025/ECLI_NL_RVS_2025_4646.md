@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4646"
-published_in: ["Rechtspraak.nl", "NJB 2025/2418", "Sdu Nieuws Omgevingsrecht 2025/223", "JB 2025/202 met annotatie van mr. dr. C.L.G.F.H. Albers"]
+published_in: ["Rechtspraak.nl", "NJB 2025/2418", "Sdu Nieuws Omgevingsrecht 2025/223", "JB 2025/202 met annotatie van mr. dr. C.L.G.F.H. Albers", "JIN 2026/70 met annotatie van mr. dr. C.L.G.F.H. Albers"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:16631, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
