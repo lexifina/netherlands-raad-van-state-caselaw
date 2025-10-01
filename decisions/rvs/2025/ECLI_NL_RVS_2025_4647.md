@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4647"
-published_in: ["Rechtspraak.nl", "NJB 2025/2417", "JB 2025/203 met annotatie van mr. dr. J.W.A. Fleuren", "JV 2026/30 met annotatie van mr. D. Kuiper"]
+published_in: ["Rechtspraak.nl", "NJB 2025/2417", "JB 2025/203 met annotatie van mr. dr. J.W.A. Fleuren", "JV 2026/30 met annotatie van mr. D. Kuiper", "JIN 2026/71 met annotatie van mr. dr. J.W.A. Fleuren"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2024:5995, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
