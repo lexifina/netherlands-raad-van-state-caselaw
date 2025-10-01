@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4651"
-published_in: ["Rechtspraak.nl", "ABkort 2025/193", "NJB 2025/2477", "Sdu Nieuws Omgevingsrecht 2025/236", "Sdu Nieuws Omgevingsrecht 2025/237", "JB 2025/204 met annotatie van mr. J.H. Keinemans", "Omgevingsvergunning in de praktijk 2025/9321", "TBR 2026/44 met annotatie van W.L. Schuttert"]
+published_in: ["Rechtspraak.nl", "ABkort 2025/193", "NJB 2025/2477", "Sdu Nieuws Omgevingsrecht 2025/236", "Sdu Nieuws Omgevingsrecht 2025/237", "JB 2025/204 met annotatie van mr. J.H. Keinemans", "Omgevingsvergunning in de praktijk 2025/9321", "TBR 2026/44 met annotatie van W.L. Schuttert", "AB 2026/118 met annotatie van T. Groot", "JIN 2026/69 met annotatie van mr. J.H. Keinemans"]
 ---
 
 # ECLI:NL:RVS:2025:4651 Raad van State , 01-10-2025 / 202301527/1/R4
