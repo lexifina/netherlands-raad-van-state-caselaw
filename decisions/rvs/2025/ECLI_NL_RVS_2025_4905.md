@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4905"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2025:736, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2025:4905 Raad van State , 03-10-2025 / 202502000/1/A2
