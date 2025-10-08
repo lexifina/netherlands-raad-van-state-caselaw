@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4814"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2025/227", "NJB 2025/2479", "Gst. 2025/119 met annotatie van A. Drahmann", "Omgevingswet VTH 2025/457", "JB 2025/211 met annotatie van G.C.C.M. Reeken, mr. L.E. Szuhai, mr. R. Molenaar-Wingens"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2025/227", "NJB 2025/2479", "Gst. 2025/119 met annotatie van A. Drahmann", "Omgevingswet VTH 2025/457", "JB 2025/211 met annotatie van G.C.C.M. Reeken, mr. L.E. Szuhai, mr. R. Molenaar-Wingens", "JIN 2026/84 met annotatie van mr. G.C.C.M. van Reeken, mr. L.E. Szuhai, mr. R. Molenaar-Wingens"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2024:93, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RVS:2025:4814 Raad van State , 08-10-2025 / 202401200/1/A3
