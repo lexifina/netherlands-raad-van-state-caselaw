@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4803"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2025/229", "NJB 2025/2480", "Sdu Nieuws Omgevingsrecht 2025/238", "Sdu Nieuws Omgevingsrecht 2025/239"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2023:6490, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RVS:2025:4803 Raad van State , 08-10-2025 / 202307834/1/A3
