@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4774"
 published_in: ["Rechtspraak.nl", "AB 2025/284 met annotatie van M.W. Venderbos"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:11933, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:4774 Raad van State , 09-10-2025 / BRS.25.000824
