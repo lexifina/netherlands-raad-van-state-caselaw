@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4868"
 published_in: ["Rechtspraak.nl", "JV 2025/278 met annotatie van mr. M.A.K. Klaassen"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:7163, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:4868 Raad van State , 10-10-2025 / 202403275/1/V1
