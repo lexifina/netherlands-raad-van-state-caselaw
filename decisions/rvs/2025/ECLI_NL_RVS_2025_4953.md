@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4953"
 published_in: ["Rechtspraak.nl", "NJB 2025/2483", "ABkort 2025/199", "Module Ruimtelijke Ordening 2025/8792", "AB 2025/305 met annotatie van A.G.A. Nijmeijer", "Sdu Nieuws Omgevingsrecht 2025/246", "JB 2025/212"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2023:4389, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2025:4953 Raad van State , 15-10-2025 / 202305786/1/R1
