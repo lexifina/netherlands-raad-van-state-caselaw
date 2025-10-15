@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4927"
-published_in: ["Rechtspraak.nl", "Omgevingswet Ruimte 2025/315", "Omgevingsvergunning in de praktijk 2025/9319", "Jurisprudentie Grondzaken 2025/55 met annotatie van mr. N. Thorborg, R.C.K. van Andel", "JB 2026/35 met annotatie van mr. M.H.W.C.M. Theunisse"]
+published_in: ["Rechtspraak.nl", "Omgevingswet Ruimte 2025/315", "Omgevingsvergunning in de praktijk 2025/9319", "Jurisprudentie Grondzaken 2025/55 met annotatie van mr. N. Thorborg, R.C.K. van Andel", "JB 2026/35 met annotatie van mr. M.H.W.C.M. Theunisse", "JIN 2026/112 met annotatie van mr. M.H.W.C.M. Theunisse"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2022:3299, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:4927 Raad van State , 15-10-2025 / 202206089/1/R3
