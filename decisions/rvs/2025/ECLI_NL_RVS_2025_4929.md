@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4929"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/123 met annotatie van M.W. Venderbos"]
 ---
 
 # ECLI:NL:RVS:2025:4929 Raad van State , 15-10-2025 / 202404947/1/A2
