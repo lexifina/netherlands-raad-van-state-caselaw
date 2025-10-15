@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4955"
 published_in: ["Rechtspraak.nl", "AB 2026/23 met annotatie van F. v. Hal", "2026/4 met annotatie van B. van der Vorm"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2023:7306, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2025:4955 Raad van State , 15-10-2025 / 202305703/1/A3
