@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4942"
 published_in: ["Rechtspraak.nl", "NJB 2025/2482", "RSV 2025/200"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2022:159, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:4942 Raad van State , 15-10-2025 / 202201372/1/A2
