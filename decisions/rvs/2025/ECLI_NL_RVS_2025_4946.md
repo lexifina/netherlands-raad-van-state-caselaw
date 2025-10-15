@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:4946"
 published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2025/9317"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:10870, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:4946 Raad van State , 15-10-2025 / 202405284/1/A2
