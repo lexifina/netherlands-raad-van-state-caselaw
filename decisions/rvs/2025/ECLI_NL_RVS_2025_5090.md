@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5090"
 published_in: ["Rechtspraak.nl", "Milieurecht Totaal 2025/7893", "Omgevingsvergunning in de praktijk 2025/9316"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2021:4524, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:5090 Raad van State , 22-10-2025 / 202106899/1/R2
