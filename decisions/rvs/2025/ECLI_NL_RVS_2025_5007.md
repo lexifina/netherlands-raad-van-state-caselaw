@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5007"
-published_in: ["Rechtspraak.nl", "NJB 2025/2537", "JB 2025/213", "AB 2026/90 met annotatie van B. Tijssen"]
+published_in: ["Rechtspraak.nl", "NJB 2025/2537", "JB 2025/213", "AB 2026/90 met annotatie van B. Tijssen", "Gst. 2026/50 met annotatie van B. van der Vorm"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOVE:2023:2307, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2025:5007 Raad van State , 22-10-2025 / 202304870/1/A3
