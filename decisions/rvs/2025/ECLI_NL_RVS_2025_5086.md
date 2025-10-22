@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5086"
 published_in: ["Rechtspraak.nl", "NJB 2025/2534", "JB 2025/214", "AB 2026/35 met annotatie van J.C.F.N. Schoenmakers, J.E. van den Brink"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2024:1586, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RVS:2025:5086 Raad van State , 22-10-2025 / 202403268/1/A2 en 202403269/1/A2
