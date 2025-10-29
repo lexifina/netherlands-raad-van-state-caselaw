@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5182"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025103005", "V-N Vandaag 2025/2162", "FutD 2025-2188", "NLF 2025/2344 met annotatie van Lukas Hendriks", "V-N 2025/50.14 met annotatie van Redactie", "Belastingblad 2025/448 met annotatie van Redactie"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:20126"]]
 ---
 
 # ECLI:NL:RVS:2025:5182 Raad van State , 29-10-2025 / 202400557/1/A3
