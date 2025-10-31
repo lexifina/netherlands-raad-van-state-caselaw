@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5239"
 published_in: ["Rechtspraak.nl", "JV 2026/4 met annotatie van dr. K.J. Swider, mr. R. Fitz"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2022:11207, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:5239 Raad van State , 31-10-2025 / 202206432/1/V1
