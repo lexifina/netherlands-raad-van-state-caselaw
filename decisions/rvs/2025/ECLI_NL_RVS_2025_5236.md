@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5236"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/3"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2025:3812"]]
 ---
 
 # ECLI:NL:RVS:2025:5236 Raad van State , 31-10-2025 / 202505226/2/R3
