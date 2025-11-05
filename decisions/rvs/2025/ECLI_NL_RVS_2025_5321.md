@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5321"
 published_in: ["Rechtspraak.nl", "JV 2026/56 met annotatie van mr. dr. L.M. Koenraad"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOVE:2024:3524, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:5321 Raad van State , 05-11-2025 / 202404356/1/V6
