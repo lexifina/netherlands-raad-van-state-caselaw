@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5307"
 published_in: ["Rechtspraak.nl", "Module Ruimtelijke Ordening 2025/8794 met annotatie van M.G.O. de Lange", "Sdu Nieuws Omgevingsrecht 2026/2", "TvAR 2026/8245 met annotatie van G. Bosma"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2024:8403, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RVS:2025:5307 Raad van State , 05-11-2025 / 202407842/1/A2
