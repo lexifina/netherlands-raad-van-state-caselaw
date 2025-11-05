@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5331"
 published_in: ["Rechtspraak.nl", "Milieurecht Totaal 2025/7900", "Sdu Nieuws Omgevingsrecht 2025/263"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2022:1523, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:5331 Raad van State , 05-11-2025 / 202203807/1/R3
