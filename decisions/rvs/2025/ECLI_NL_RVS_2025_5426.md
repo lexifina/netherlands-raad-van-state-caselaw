@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5426"
-published_in: ["Rechtspraak.nl", "Milieurecht Totaal 2025/7915", "JM 2026/28 met annotatie van mr. drs. J.C. Ozinga"]
+published_in: ["Rechtspraak.nl", "Milieurecht Totaal 2025/7915", "JM 2026/28 met annotatie van mr. drs. J.C. Ozinga", "AB 2026/128 met annotatie van R.H.W. Frins"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2022:1791, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RVS:2025:5426 Raad van State , 12-11-2025 / 202203919/1/R2
