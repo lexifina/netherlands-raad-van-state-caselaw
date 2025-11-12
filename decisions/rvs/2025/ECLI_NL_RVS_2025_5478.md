@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5478"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2025/269"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2023:6919, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2025:5478 Raad van State , 12-11-2025 / 202400136/1/R1
