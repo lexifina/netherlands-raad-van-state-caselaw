@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5479"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2023:7967, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2025:5479 Raad van State , 12-11-2025 / 202306074/1/R1
