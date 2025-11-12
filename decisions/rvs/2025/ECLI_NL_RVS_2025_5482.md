@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5482"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2025/260", "NJB 2025/2773", "RSV 2025/198 met annotatie van Redactie", "Sdu Nieuws Omgevingsrecht 2025/262", "Belastingblad 2026/18 met annotatie van A.P. Monsma", "JB 2026/8", "AB 2026/34 met annotatie van L.J.A. Damen"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2024:2533, (Gedeeltelijke) vernietiging met terugwijzen"]]
 ---
 
 # ECLI:NL:RVS:2025:5482 Raad van State , 12-11-2025 / 202403130/1/A2
