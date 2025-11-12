@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5471"
 published_in: ["Rechtspraak.nl", "Module Ruimtelijke Ordening 2025/8798 met annotatie van M.G.O. de Lange"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2024:4191, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2025:5471 Raad van State , 12-11-2025 / 202405173/1/A2
