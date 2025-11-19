@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5548"
-published_in: ["Rechtspraak.nl", "ABkort 2025/215", "NJB 2026/312"]
+published_in: ["Rechtspraak.nl", "ABkort 2025/215", "NJB 2026/312", "JV 2026/78"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2022:7084, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:5548 Raad van State , 19-11-2025 / 202204477/1/V2
