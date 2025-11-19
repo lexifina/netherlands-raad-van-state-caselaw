@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5621"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/202 met annotatie van T. Groot"]
 ---
 
 # ECLI:NL:RVS:2025:5621 Raad van State , 19-11-2025 / 202404432/1/R3
