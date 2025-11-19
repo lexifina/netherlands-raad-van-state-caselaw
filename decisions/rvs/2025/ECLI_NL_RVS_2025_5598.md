@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5598"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2025/249", "Milieurecht Totaal 2025/7905", "STAB-OGR-Updates.nl 2025-0216", "Omgevingsvergunning in de praktijk 2026/9333", "JM 2026/2 met annotatie van J.K. van de Poel", "ABkort 2026/32"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2025/249", "Milieurecht Totaal 2025/7905", "STAB-OGR-Updates.nl 2025-0216", "Omgevingsvergunning in de praktijk 2026/9333", "JM 2026/2 met annotatie van J.K. van de Poel", "ABkort 2026/32", "AB 2026/174 met annotatie van H.D. Tolsma, R.H.W. Frins"]
 ---
 
 # ECLI:NL:RVS:2025:5598 Raad van State , 19-11-2025 / 202200279/1/R2
