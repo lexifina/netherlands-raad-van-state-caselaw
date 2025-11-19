@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5625"
-published_in: ["Rechtspraak.nl", "JB 2026/47 met annotatie van mr. M.H.W.C.M. Theunisse"]
+published_in: ["Rechtspraak.nl", "JB 2026/47 met annotatie van mr. M.H.W.C.M. Theunisse", "JIN 2026/129 met annotatie van mr. M.H.W.C.M. Theunisse"]
 ---
 
 # ECLI:NL:RVS:2025:5625 Raad van State , 19-11-2025 / 202307634/1/R2
