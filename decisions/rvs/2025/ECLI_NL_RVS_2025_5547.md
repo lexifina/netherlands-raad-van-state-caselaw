@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5547"
-published_in: ["Rechtspraak.nl", "ABkort 2025/214", "NJB 2026/313"]
+published_in: ["Rechtspraak.nl", "ABkort 2025/214", "NJB 2026/313", "JV 2026/79"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:22386, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:5547 Raad van State , 19-11-2025 / 202302824/1/V3
