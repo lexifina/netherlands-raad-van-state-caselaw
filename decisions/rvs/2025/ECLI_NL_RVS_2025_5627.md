@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5627"
 published_in: ["Rechtspraak.nl", "NJB 2025/2778", "AB 2026/7 met annotatie van P.J. Stolk", "Omgevingsvergunning in de praktijk 2026/9332"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2023:7474, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RVS:2025:5627 Raad van State , 19-11-2025 / 202400070/1/A3
