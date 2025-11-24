@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5673"
 published_in: ["Rechtspraak.nl", "JV 2026/11", "AB 2026/70 met annotatie van R. Ortlep"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:9517, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:5673 Raad van State , 24-11-2025 / 202503088/1/V2
