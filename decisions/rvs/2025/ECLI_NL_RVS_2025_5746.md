@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5746"
-published_in: ["Rechtspraak.nl", "ABkort 2025/224", "NJB 2025/2833", "JB 2026/48 met annotatie van mr. J.A.F. Peters"]
+published_in: ["Rechtspraak.nl", "ABkort 2025/224", "NJB 2025/2833", "JB 2026/48 met annotatie van mr. J.A.F. Peters", "AB 2026/153 met annotatie van J.E. van den Brink, V.A. van Waarde", "JIN 2026/131 met annotatie van mr. J.A.F. Peters"]
 ---
 
 # ECLI:NL:RVS:2025:5746 Raad van State , 26-11-2025 / 202400609/1/A2
