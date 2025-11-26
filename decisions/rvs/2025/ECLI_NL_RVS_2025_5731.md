@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5731"
-published_in: ["Rechtspraak.nl", "NJB 2025/2835"]
+published_in: ["Rechtspraak.nl", "NJB 2025/2835", "Gst. 2026/49 met annotatie van M. Buitenhuis, M. van Mossel"]
 ---
 
 # ECLI:NL:RVS:2025:5731 Raad van State , 26-11-2025 / 202502122/1/A2
