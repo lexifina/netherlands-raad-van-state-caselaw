@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5787"
-published_in: ["Rechtspraak.nl", "ABkort 2025/223", "JV 2026/32"]
+published_in: ["Rechtspraak.nl", "ABkort 2025/223", "JV 2026/32", "AB 2026/230 met annotatie van M. Klaassen"]
 ---
 
 # ECLI:NL:RVS:2025:5787 Raad van State , 28-11-2025 / BRS.25.000946
