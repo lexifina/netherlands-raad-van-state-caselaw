@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5809"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2026/80 met annotatie van mr. J. Werner"]
 ---
 
 # ECLI:NL:RVS:2025:5809 Raad van State , 01-12-2025 / 202407770/1/V1
