@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5683"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2025/267", "NJB 2026/20", "Gst. 2026/26 met annotatie van B.S. Jaasma, J.V. de Kort", "AA20260313 met annotatie van Sillen J.J.J. Joost"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2023:1920"]]
 ---
 
 # ECLI:NL:RVS:2025:5683 Raad van State , 03-12-2025 / 202303955/1/A3
