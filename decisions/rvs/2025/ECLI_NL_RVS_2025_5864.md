@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5864"
 published_in: ["Rechtspraak.nl", "Module Ruimtelijke Ordening 2026/8804"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2023:2552"]]
 ---
 
 # ECLI:NL:RVS:2025:5864 Raad van State , 03-12-2025 / 202304390/1/R4
