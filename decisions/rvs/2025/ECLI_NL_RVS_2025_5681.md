@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5681"
 published_in: ["Rechtspraak.nl", "Gst. 2026/27 met annotatie van B.S. Jaasma, R.E. van Deijck"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2022:9957"]]
 ---
 
 # ECLI:NL:RVS:2025:5681 Raad van State , 03-12-2025 / 202207459/1/A3
