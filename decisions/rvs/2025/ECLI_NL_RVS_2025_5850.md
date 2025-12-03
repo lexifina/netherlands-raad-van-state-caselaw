@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5850"
 published_in: ["Rechtspraak.nl", "AB 2026/27 met annotatie van B. van der Vorm", "Gst. 2026/12 met annotatie van B. van der Vorm"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2023:378"]]
 ---
 
 # ECLI:NL:RVS:2025:5850 Raad van State , 03-12-2025 / 202301681/1/A2
