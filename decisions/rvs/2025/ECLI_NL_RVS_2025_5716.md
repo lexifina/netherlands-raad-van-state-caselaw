@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5716"
-published_in: ["Rechtspraak.nl", "NJB 2025/2838", "Jurisprudentie Grondzaken 2026/3 met annotatie van mr. N. Thorborg, R.C.K. van Andel"]
+published_in: ["Rechtspraak.nl", "NJB 2025/2838", "Jurisprudentie Grondzaken 2026/3 met annotatie van mr. N. Thorborg, R.C.K. van Andel", "Gst. 2026/96 met annotatie van A. Drahmann"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2023:4789"]]
 ---
 
 # ECLI:NL:RVS:2025:5716 Raad van State , 03-12-2025 / 202305707/1/R1
