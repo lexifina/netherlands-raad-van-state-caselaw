@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5857"
-published_in: ["Rechtspraak.nl", "ABkort 2025/222", "NJB 2025/2837", "Milieurecht Totaal 2025/7910", "Sdu Nieuws Omgevingsrecht 2026/14", "JB 2026/36 met annotatie van prof. mr. R.J.N. Schlössels"]
+published_in: ["Rechtspraak.nl", "ABkort 2025/222", "NJB 2025/2837", "Milieurecht Totaal 2025/7910", "Sdu Nieuws Omgevingsrecht 2026/14", "JB 2026/36 met annotatie van prof. mr. R.J.N. Schlössels", "JIN 2026/113 met annotatie van prof. mr. R.J.N. Schlössels"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:10917, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
