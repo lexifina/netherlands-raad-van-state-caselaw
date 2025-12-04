@@ -10,6 +10,7 @@ procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5906"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:22742"]]
 ---
 
 # ECLI:NL:RVS:2025:5906 Raad van State , 04-12-2025 / BRS.25.002255
