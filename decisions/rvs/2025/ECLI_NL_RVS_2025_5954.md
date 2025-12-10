@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5954"
-published_in: ["Rechtspraak.nl", "NJB 2026/26"]
+published_in: ["Rechtspraak.nl", "NJB 2026/26", "AB 2026/193 met annotatie van J.E. van den Brink"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2025:491, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2025:5954 Raad van State , 10-12-2025 / 202501435/1/A2
