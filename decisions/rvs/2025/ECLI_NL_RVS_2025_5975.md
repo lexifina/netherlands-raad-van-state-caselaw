@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5975"
 published_in: ["Rechtspraak.nl", "GJ 2026/13 met annotatie van prof. mr. J.G. Sijmons"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2024:4318, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:5975 Raad van State , 10-12-2025 / 202406080/1/A2
