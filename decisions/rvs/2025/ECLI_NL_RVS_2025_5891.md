@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5891"
 published_in: ["Rechtspraak.nl", "JBP 2026/10"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2024:3141, (Gedeeltelijke) vernietiging met terugwijzen"]]
 ---
 
 # ECLI:NL:RVS:2025:5891 Raad van State , 10-12-2025 / 202403953/1/A3
