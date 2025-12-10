@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:5976"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/173 met annotatie van T. Groot"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2022:3877, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RVS:2025:5976 Raad van State , 10-12-2025 / 202206400/1/R4
