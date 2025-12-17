@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:6179"
-published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0016", "Module Ruimtelijke Ordening 2026/8811 met annotatie van M.G.O. de Lange", "O&A 2026/8"]
+published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0016", "Module Ruimtelijke Ordening 2026/8811 met annotatie van M.G.O. de Lange", "O&A 2026/8", "AB 2026/107 met annotatie van B. van Nieuwaal"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2024:773, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:6179 Raad van State , 17-12-2025 / 202402195/1/A2
