@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:6143"
-published_in: ["Rechtspraak.nl", "ABkort 2026/11", "NJB 2026/78", "JB 2026/24"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/11", "NJB 2026/78", "JB 2026/24", "AB 2026/149 met annotatie van L.J.A. Damen"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2024:13002, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2025:6143 Raad van State , 17-12-2025 / 202500183/1/R1
