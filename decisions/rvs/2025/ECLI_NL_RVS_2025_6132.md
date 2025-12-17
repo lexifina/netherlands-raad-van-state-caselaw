@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:6132"
 published_in: ["Rechtspraak.nl", "ABkort 2026/2", "RSV 2026/31"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2024:7167, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:6132 Raad van State , 17-12-2025 / 202408083/1/A2
