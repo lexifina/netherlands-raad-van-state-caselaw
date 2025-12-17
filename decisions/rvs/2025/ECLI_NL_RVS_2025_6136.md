@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:6136"
-published_in: ["Rechtspraak.nl", "NJB 2026/82", "JB 2026/23 met annotatie van mr. J.H. Roelfsema"]
+published_in: ["Rechtspraak.nl", "NJB 2026/82", "JB 2026/23 met annotatie van mr. J.H. Roelfsema", "JIN 2026/99 met annotatie van mr. J.H. Roelfsema"]
 ---
 
 # ECLI:NL:RVS:2025:6136 Raad van State , 17-12-2025 / 202400036/1/A2
