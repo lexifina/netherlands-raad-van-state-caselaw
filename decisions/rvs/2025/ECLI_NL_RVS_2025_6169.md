@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:6169"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/145 met annotatie van L.J.A. Damen"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:20227, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:6169 Raad van State , 17-12-2025 / 202400777/1/R3
