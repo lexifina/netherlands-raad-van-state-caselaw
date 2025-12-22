@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:6279"
 published_in: ["Rechtspraak.nl", "JV 2026/35"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:3039, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2025:6279 Raad van State , 22-12-2025 / 202501379/1/V3
