@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:6268"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:23056, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2025:6268 Raad van State , 22-12-2025 / 202405217/1/V1
