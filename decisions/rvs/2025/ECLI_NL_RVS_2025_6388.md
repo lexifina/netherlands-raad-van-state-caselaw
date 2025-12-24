@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:6388"
 published_in: ["Rechtspraak.nl", "NJB 2026/154", "AB 2026/26 met annotatie van P.J. Stolk", "JB 2026/29"]
+relations: [["Formele relatie", "Tussenuitspraak bestuurlijke lus: ECLI:NL:RVS:2025:894"]]
 ---
 
 # ECLI:NL:RVS:2025:6388 Raad van State , 24-12-2025 / 202303532/3/A3
