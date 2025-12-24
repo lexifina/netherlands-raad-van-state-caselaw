@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Prejudicieel verzoek"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:6395"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGR 2026/29 met annotatie van mr. drs. J.A. Lisman"]
 ---
 
 # ECLI:NL:RVS:2025:6395 Raad van State , 24-12-2025 / 202205361/1/A3
