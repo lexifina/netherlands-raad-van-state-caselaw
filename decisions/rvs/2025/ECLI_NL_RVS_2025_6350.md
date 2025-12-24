@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:6350"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/134 met annotatie van L.J.A. Damen"]
 ---
 
 # ECLI:NL:RVS:2025:6350 Raad van State , 24-12-2025 / 202504159/1/R4
