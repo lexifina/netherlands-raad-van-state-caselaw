@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:6332"
-published_in: ["Rechtspraak.nl", "NJB 2026/153", "RSV 2026/47"]
+published_in: ["Rechtspraak.nl", "NJB 2026/153", "RSV 2026/47", "AB 2026/136 met annotatie van R. Stijnen"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:4071, Niet ontvankelijk"]]
 ---
 
 # ECLI:NL:RVS:2025:6332 Raad van State , 24-12-2025 / 202402809/1/A2
