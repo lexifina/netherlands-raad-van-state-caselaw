@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:6374"
 published_in: ["Rechtspraak.nl", "Jurisprudentie HSE 2025/183", "AB 2026/53 met annotatie van R. Stijnen"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2023:5111, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2025:6374 Raad van State , 24-12-2025 / 202400251/1/R1
