@@ -1,0 +1,79 @@
+---
+ecli: "ECLI:NL:RVS:2025:6420"
+court: "Raad van State"
+court_code: "RVS"
+docket: "BRS.25.002502"
+decided: "2025-12-31"
+published: "2025-12-30"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2025:6420"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RVS:2025:6420 Raad van State , 31-12-2025 / BRS.25.002502
+
+## Inhoudsindicatie
+
+Bij besluit van 9 oktober 2025 heeft de minister van Asiel en Migratie een aanvraag van appellant om haar een verblijfsvergunning asiel voor bepaalde tijd te verlenen, niet in behandeling genomen.
+
+## Uitspraak
+
+BRS.25.002502
+
+ECLI:NL:RVS:2025:6420
+
+Datum uitspraak: 31 december 2025
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak met toepassing van artikel 8:54, eerste lid, van de Algemene wet bestuursrecht op het hoger beroep van:
+
+[appellant],
+
+appellant,
+
+tegen de uitspraak van de rechtbank Den Haag, zittingsplaats 's-Hertogenbosch, van 10 december 2025 in zaak nr. NL25.49572 in het geding tussen:
+
+appellant
+
+en
+
+de minister van Asiel en Migratie.
+
+Procesverloop
+
+Bij besluit van 9 oktober 2025 heeft de minister een aanvraag van appellant om haar een verblijfsvergunning asiel voor bepaalde tijd te verlenen, niet in behandeling genomen.
+
+Bij uitspraak van 10 december 2025 heeft de rechtbank het daartegen door appellant ingestelde beroep ongegrond verklaard.
+
+Tegen deze uitspraak heeft appellant, vertegenwoordigd door mr. E.A. Welling, advocaat in Wageningen, hoger beroep ingesteld.
+
+Overwegingen
+
+1.        Het hoger beroep leidt niet tot vernietiging van de uitspraak van de rechtbank. Dit oordeel hoeft niet verder te worden gemotiveerd. De reden daarvoor is dat het hogerberoepschrift geen vragen bevat die in het belang van de rechtseenheid, de rechtsontwikkeling of de rechtsbescherming in algemene zin beantwoord moeten worden (artikel 91, tweede lid, van de Vw 2000).
+
+2.        Het hoger beroep is ongegrond. De Afdeling bevestigt de uitspraak van de rechtbank. De minister hoeft geen proceskosten te vergoeden.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+bevestigt de aangevallen uitspraak.
+
+Aldus vastgesteld door mr. A.J.C. de Moor-van Vugt, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. N.S. Koelman, griffier.
+
+w.g. De Moor-van Vugt
+
+lid van de enkelvoudige kamer
+
+w.g. Koelman
+
+griffier
+
+Uitgesproken in het openbaar op 31 december 2025
+
+1143-915
