@@ -10,6 +10,7 @@ procedure: "Mondelinge uitspraak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:116"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2025:49"]]
 ---
 
 # ECLI:NL:RVS:2026:116 Raad van State , 07-01-2026 / 202500933/2/R2
