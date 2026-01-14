@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:219"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/13", "NJB 2026/260", "JB 2026/40", "AB 2026/57 met annotatie van L.M. Koenraad"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/13", "NJB 2026/260", "JB 2026/40", "AB 2026/57 met annotatie van L.M. Koenraad", "Gst. 2026/43 met annotatie van A.E.M. van den Berg, C.J. Loggen-ten Hoopen"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2022:10951, Bekrachtiging/bevestiging"]]
 ---
 
