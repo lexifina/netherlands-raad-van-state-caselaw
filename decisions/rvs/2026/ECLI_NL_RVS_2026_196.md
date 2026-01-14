@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:196"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Module Ruimtelijke Ordening 2026/8834 met annotatie van M.G.O. de Lange"]
 ---
 
 # ECLI:NL:RVS:2026:196 Raad van State , 14-01-2026 / 202500929/1/A2
