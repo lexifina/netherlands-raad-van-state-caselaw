@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:197"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2026/81 met annotatie van mr. dr. H. Oosterom-Staples"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:10134, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:197 Raad van State , 14-01-2026 / 202404832/1/V6
