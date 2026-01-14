@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:194"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/138 met annotatie van L.J.A. Damen"]
 ---
 
 # ECLI:NL:RVS:2026:194 Raad van State , 14-01-2026 / 202407738/1/A2
