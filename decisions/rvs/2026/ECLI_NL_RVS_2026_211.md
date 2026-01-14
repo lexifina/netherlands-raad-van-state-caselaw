@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:211"
-published_in: ["Rechtspraak.nl", "ABkort 2026/28", "NJB 2026/259", "JB 2026/39 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/28", "NJB 2026/259", "JB 2026/39 met annotatie van Redactie", "AB 2026/162 met annotatie van L.J.A. Damen"]
 ---
 
 # ECLI:NL:RVS:2026:211 Raad van State , 14-01-2026 / 202403580/1/A2
