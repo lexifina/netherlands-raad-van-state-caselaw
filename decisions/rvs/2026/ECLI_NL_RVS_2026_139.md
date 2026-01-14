@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:139"
-published_in: ["Rechtspraak.nl", "ABkort 2026/30", "NJB 2026/422"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/30", "NJB 2026/422", "JV 2026/107 met annotatie van mr. dr. F.T. Groenewegen"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2021:4635, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:139 Raad van State , 14-01-2026 / 202107338/1/V1
