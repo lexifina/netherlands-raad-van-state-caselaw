@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:140"
-published_in: ["Rechtspraak.nl", "NJB 2026/421"]
+published_in: ["Rechtspraak.nl", "NJB 2026/421", "JV 2026/108 met annotatie van mr. dr. F.T. Groenewegen"]
 ---
 
 # ECLI:NL:RVS:2026:140 Raad van State , 14-01-2026 / 202203259/1/V1
