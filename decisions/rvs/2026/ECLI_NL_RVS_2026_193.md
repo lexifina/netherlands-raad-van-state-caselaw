@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:193"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/17", "ABkort 2026/29", "NJB 2026/203", "Omgevingsvergunning in de praktijk 2026/9343", "Milieurecht Totaal 2026/7924", "Sdu Nieuws Omgevingsrecht 2026/31", "TvAR 2026/8241 met annotatie van D. Korsse", "M en R 2026/36 met annotatie van P. Mendelts", "TBR 2026/43 met annotatie van N.G.M. Valkering"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/17", "ABkort 2026/29", "NJB 2026/203", "Omgevingsvergunning in de praktijk 2026/9343", "Milieurecht Totaal 2026/7924", "Sdu Nieuws Omgevingsrecht 2026/31", "TvAR 2026/8241 met annotatie van D. Korsse", "M en R 2026/36 met annotatie van P. Mendelts", "TBR 2026/43 met annotatie van N.G.M. Valkering", "Jurisprudentie Grondzaken 2026/13 met annotatie van mr. N. Thorborg, R.C.K. van Andel", "Gst. 2026/104"]
 ---
 
 # ECLI:NL:RVS:2026:193 Raad van State , 14-01-2026 / 202306968/1/R3
