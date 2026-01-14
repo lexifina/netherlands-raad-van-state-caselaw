@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:236"
 published_in: ["Rechtspraak.nl", "ABkort 2026/34", "Module Ruimtelijke Ordening 2026/8810", "Omgevingsvergunning in de praktijk 2026/9342", "NJB 2026/258"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2022:3795, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:236 Raad van State , 14-01-2026 / 202206266/1/R4
