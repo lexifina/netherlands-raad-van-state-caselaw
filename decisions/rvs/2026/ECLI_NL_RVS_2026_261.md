@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:261"
-published_in: ["Rechtspraak.nl", "AB 2026/51 met annotatie van P.J. Stolk"]
+published_in: ["Rechtspraak.nl", "AB 2026/51 met annotatie van P.J. Stolk", "Gst. 2026/48 met annotatie van W.A.E. Brüheim"]
 ---
 
 # ECLI:NL:RVS:2026:261 Raad van State , 16-01-2026 / 202506103/1/A2
