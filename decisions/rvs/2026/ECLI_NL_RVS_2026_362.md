@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:362"
-published_in: ["Rechtspraak.nl", "NJB 2026/318", "ABkort 2026/46", "Milieurecht Totaal 2026/7927"]
+published_in: ["Rechtspraak.nl", "NJB 2026/318", "ABkort 2026/46", "Milieurecht Totaal 2026/7927", "BR 2026/35 met annotatie van D. Al-Zubaidi, E.P. Euverman"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2022:2463, (Gedeeltelijke) vernietiging met terugwijzen"]]
 ---
 
 # ECLI:NL:RVS:2026:362 Raad van State , 21-01-2026 / 202202983/1/R2
