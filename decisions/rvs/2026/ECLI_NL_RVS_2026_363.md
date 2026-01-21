@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:363"
 published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2026/9345", "Milieurecht Totaal 2026/7928", "AB 2026/84 met annotatie van R. Ortlep"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2022:2460, (Gedeeltelijke) vernietiging met terugwijzen"]]
 ---
 
 # ECLI:NL:RVS:2026:363 Raad van State , 21-01-2026 / 202202980/1/R2
