@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:334"
-published_in: ["Rechtspraak.nl", "NJB 2026/317", "JB 2026/49 met annotatie van prof. mr. R.J.N. Schlössels"]
+published_in: ["Rechtspraak.nl", "NJB 2026/317", "JB 2026/49 met annotatie van prof. mr. R.J.N. Schlössels", "JIN 2026/130 met annotatie van prof. mr. R.J.N. Schlössels"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2022:9932, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:334 Raad van State , 21-01-2026 / 202300501/1/A3
