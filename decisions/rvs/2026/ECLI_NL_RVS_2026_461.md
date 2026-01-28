@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:461"
-published_in: ["Rechtspraak.nl", "NJB 2026/322", "JB 2026/51 met annotatie van prof. mr. R.J.N. Schlössels"]
+published_in: ["Rechtspraak.nl", "NJB 2026/322", "JB 2026/51 met annotatie van prof. mr. R.J.N. Schlössels", "AB 2026/148 met annotatie van A.E. Schilder, J.G. Brouwer"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:6249, Overig"]]
 ---
 
