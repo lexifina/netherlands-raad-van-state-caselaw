@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:478"
-published_in: ["Rechtspraak.nl", "NJB 2026/320", "JB 2026/52 met annotatie van mr. G.J. Stoepker", "AB 2026/97 met annotatie van H.E. Bröring, Redactie"]
+published_in: ["Rechtspraak.nl", "NJB 2026/320", "JB 2026/52 met annotatie van mr. G.J. Stoepker", "AB 2026/97 met annotatie van H.E. Bröring", "Gst. 2026/42 met annotatie van J. van Berkel, M.E. Rog"]
 ---
 
 # ECLI:NL:RVS:2026:478 Raad van State , 28-01-2026 / 202406392/1/A2
