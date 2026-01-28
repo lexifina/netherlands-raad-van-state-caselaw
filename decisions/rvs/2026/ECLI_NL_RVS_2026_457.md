@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:457"
 published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0024"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOVE:2025:2741, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:457 Raad van State , 28-01-2026 / 202503326/1/A2
