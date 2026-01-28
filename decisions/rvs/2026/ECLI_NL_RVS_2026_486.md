@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak bestuurlijke lus"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:486"
-published_in: ["Rechtspraak.nl", "NJB 2026/373", "Sdu Nieuws Omgevingsrecht 2026/45", "Milieurecht Totaal 2026/7931"]
+published_in: ["Rechtspraak.nl", "NJB 2026/373", "Sdu Nieuws Omgevingsrecht 2026/45", "Milieurecht Totaal 2026/7931", "Jurisprudentie Grondzaken 2026/11 met annotatie van mr. N. Thorborg, R.C.K. van Andel"]
 ---
 
 # ECLI:NL:RVS:2026:486 Raad van State , 28-01-2026 / 202302754/1/R3
