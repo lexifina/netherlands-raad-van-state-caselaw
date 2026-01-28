@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:493"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "BR 2026/32 met annotatie van A. Janssens, R.J.G. Bäcker"]
 ---
 
 # ECLI:NL:RVS:2026:493 Raad van State , 28-01-2026 / 202304782/1/R4
