@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:459"
-published_in: ["Rechtspraak.nl", "NJB 2026/319", "JB 2026/50 met annotatie van mr. J.H. Roelfsema"]
+published_in: ["Rechtspraak.nl", "NJB 2026/319", "JB 2026/50 met annotatie van mr. J.H. Roelfsema", "AB 2026/164 met annotatie van B. van der Vorm"]
 ---
 
 # ECLI:NL:RVS:2026:459 Raad van State , 28-01-2026 / 202505552/1/A2
