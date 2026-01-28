@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:460"
-published_in: ["Rechtspraak.nl", "ABkort 2026/35", "NJB 2026/321", "JB 2026/41 met annotatie van mr. G.J. Stoepker", "TT 2026/17 met annotatie van mr. N.A. de Leon-van den Berg"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/35", "NJB 2026/321", "JB 2026/41 met annotatie van mr. G.J. Stoepker", "TT 2026/17 met annotatie van mr. N.A. de Leon-van den Berg", "JIN 2026/114 met annotatie van mr. G.J. Stoepker"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:8257, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:460 Raad van State , 28-01-2026 / 202403724/1/A2
