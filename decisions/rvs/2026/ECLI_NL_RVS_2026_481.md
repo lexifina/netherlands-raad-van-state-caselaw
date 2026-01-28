@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:481"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Mediaforum 2026-2, nr. 7 met annotatie van P.J. Kreijger"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2023:6476, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:481 Raad van State , 28-01-2026 / 202400277/1/A2
