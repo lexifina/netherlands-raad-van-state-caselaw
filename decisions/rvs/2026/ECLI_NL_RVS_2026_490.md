@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:490"
-published_in: ["Rechtspraak.nl", "JBP 2026/38"]
+published_in: ["Rechtspraak.nl", "JBP 2026/38", "Module Privacy & AVG 2026/4499"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2023:2969, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:490 Raad van State , 28-01-2026 / 202304226/1/A3
