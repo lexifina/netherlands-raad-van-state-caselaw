@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:467"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "School en Wet 2026/128"]
 ---
 
 # ECLI:NL:RVS:2026:467 Raad van State , 28-01-2026 / 202407679/1/A2
