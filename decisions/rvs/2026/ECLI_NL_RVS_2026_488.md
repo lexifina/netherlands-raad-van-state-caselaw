@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:488"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2023:866, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2026:488 Raad van State , 28-01-2026 / 202302028/1/R4
