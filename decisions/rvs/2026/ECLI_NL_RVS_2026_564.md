@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:564"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/133 met annotatie van L.J.A. Damen"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:22389, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2026:564 Raad van State , 30-01-2026 / 202306348/1/V1
