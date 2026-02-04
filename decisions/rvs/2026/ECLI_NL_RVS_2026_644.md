@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:644"
-published_in: ["Rechtspraak.nl", "ABkort 2026/45", "Milieurecht Totaal 2026/7933", "NJB 2026/423", "Omgevingsvergunning in de praktijk 2026/9350", "Sdu Nieuws Omgevingsrecht 2026/65", "JB 2026/54"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/45", "Milieurecht Totaal 2026/7933", "NJB 2026/423", "Omgevingsvergunning in de praktijk 2026/9350", "Sdu Nieuws Omgevingsrecht 2026/65", "JB 2026/54", "AB 2026/120 met annotatie van T.N. Sanders"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOVE:2023:3429, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RVS:2026:644 Raad van State , 04-02-2026 / 202306360/1/R3
