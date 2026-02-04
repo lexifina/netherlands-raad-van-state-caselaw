@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:642"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2026/82 met annotatie van mr. H. de Voer"]
 ---
 
 # ECLI:NL:RVS:2026:642 Raad van State , 04-02-2026 / 202203365/1/A3
