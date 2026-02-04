@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:625"
-published_in: ["Rechtspraak.nl", "ABkort 2026/42", "Milieurecht Totaal 2026/7930"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/42", "Milieurecht Totaal 2026/7930", "AB 2026/111 met annotatie van H.D. Tolsma, L.M. Koenraad", "M en R 2026/46 met annotatie van J.H.N. Ypinga, M.C. Pakkert"]
 ---
 
 # ECLI:NL:RVS:2026:625 Raad van State , 04-02-2026 / 202404385/1/A3
