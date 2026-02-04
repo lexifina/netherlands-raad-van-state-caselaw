@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Vereenvoudigde behandeling"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:629"
-published_in: ["Rechtspraak.nl", "Module Ruimtelijke Ordening 2026/8814", "AB 2026/50 met annotatie van C.M.M. van Mil", "NJB 2026/424", "Omgevingswet VTH 2026/535", "Sdu Nieuws Omgevingsrecht 2026/63", "JB 2026/53 met annotatie van mr. dr. S. Schuite", "TBR 2026/31 met annotatie van J.A.M.A. Sluysmans"]
+published_in: ["Rechtspraak.nl", "Module Ruimtelijke Ordening 2026/8814", "AB 2026/50 met annotatie van C.M.M. van Mil", "NJB 2026/424", "Omgevingswet VTH 2026/535", "Sdu Nieuws Omgevingsrecht 2026/63", "JB 2026/53 met annotatie van mr. dr. S. Schuite", "TBR 2026/31 met annotatie van J.A.M.A. Sluysmans", "Jurisprudentie Grondzaken 2026/8 met annotatie van mr. N. Thorborg, R.C.K. van Andel"]
 ---
 
 # ECLI:NL:RVS:2026:629 Raad van State , 04-02-2026 / 202505692/1/A2
