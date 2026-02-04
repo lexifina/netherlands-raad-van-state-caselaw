@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:615"
-published_in: ["Rechtspraak.nl", "NJB 2026/482", "Omgevingsvergunning in de praktijk 2026/9352", "ABkort 2026/81", "JM 2026/43 met annotatie van J.K. van de Poel", "STAB-OGR-Updates.nl 2026-0079", "Milieurecht Totaal 2026/7951"]
+published_in: ["Rechtspraak.nl", "NJB 2026/482", "Omgevingsvergunning in de praktijk 2026/9352", "ABkort 2026/81", "JM 2026/43 met annotatie van J.K. van de Poel", "STAB-OGR-Updates.nl 2026-0079", "Milieurecht Totaal 2026/7951", "M en R 2026/45 met annotatie van A. Collignon, M.E.C. Scheurwater"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2024:4476, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RVS:2026:615 Raad van State , 04-02-2026 / 202407825/1/R2
