@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:717"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/67"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/67", "AB 2026/161 met annotatie van L.J.A. Damen"]
 ---
 
 # ECLI:NL:RVS:2026:717 Raad van State , 06-02-2026 / 202406022/2/R1
