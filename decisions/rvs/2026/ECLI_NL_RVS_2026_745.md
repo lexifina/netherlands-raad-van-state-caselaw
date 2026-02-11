@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:745"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/36", "NJB 2026/428", "JB 2026/65 met annotatie van mr. M.H.W.C.M. Theunisse"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/36", "NJB 2026/428", "JB 2026/65 met annotatie van mr. M.H.W.C.M. Theunisse", "AB 2026/132 met annotatie van E.M.J. Hardy"]
 ---
 
 # ECLI:NL:RVS:2026:745 Raad van State , 11-02-2026 / 202505577/1/A2
