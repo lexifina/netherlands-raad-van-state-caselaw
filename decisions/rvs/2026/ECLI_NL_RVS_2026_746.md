@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:746"
-published_in: ["Rechtspraak.nl", "ABkort 2026/52", "NJB 2026/430", "JB 2026/56", "JBP 2026/37"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/52", "NJB 2026/430", "JB 2026/56", "JBP 2026/37", "Module Privacy & AVG 2026/4501"]
 ---
 
 # ECLI:NL:RVS:2026:746 Raad van State , 11-02-2026 / 202203874/1/A3
