@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:743"
-published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0043"]
+published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0043", "EeR 2026/35, p.179"]
 ---
 
 # ECLI:NL:RVS:2026:743 Raad van State , 11-02-2026 / 202207507/1/R1
