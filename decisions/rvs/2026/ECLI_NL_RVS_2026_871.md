@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:871"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2026/110 met annotatie van mr. M.F. Wijngaarden"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2020:14390, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2026:871 Raad van State , 13-02-2026 / 202005625/1/V3
