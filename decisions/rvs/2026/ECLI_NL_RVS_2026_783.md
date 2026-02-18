@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:783"
-published_in: ["Rechtspraak.nl", "ABkort 2026/55", "STAB-OGR-Updates.nl 2026-0056", "NJB 2026/486", "Milieurecht Totaal 2026/7936", "Omgevingsvergunning in de praktijk 2026/9358", "Sdu Nieuws Omgevingsrecht 2026/72", "Omgevingsvergunning in de praktijk 2026/9363"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/55", "STAB-OGR-Updates.nl 2026-0056", "NJB 2026/486", "Milieurecht Totaal 2026/7936", "Omgevingsvergunning in de praktijk 2026/9358", "Sdu Nieuws Omgevingsrecht 2026/72", "Omgevingsvergunning in de praktijk 2026/9363", "GSt. 2026/64 met annotatie van J. van Berkel, M.E. Rog"]
 ---
 
 # ECLI:NL:RVS:2026:783 Raad van State , 18-02-2026 / 202401788/1/R3
