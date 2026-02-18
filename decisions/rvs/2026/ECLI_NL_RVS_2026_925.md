@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:925"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/38"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/38", "JV 2026/128 met annotatie van mr. M. Zweers"]
 ---
 
 # ECLI:NL:RVS:2026:925 Raad van State , 18-02-2026 / 202405598/1/V6
