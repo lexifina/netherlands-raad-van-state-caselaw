@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:909"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "BR 2026/31 met annotatie van M.Y.C.L. de Wit"]
 ---
 
 # ECLI:NL:RVS:2026:909 Raad van State , 18-02-2026 / 202402125/1/A2
