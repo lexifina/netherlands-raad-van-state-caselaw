@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:875"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/44"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/44", "Gst. 2026/41 met annotatie van B. Knop"]
 ---
 
 # ECLI:NL:RVS:2026:875 Raad van State , 18-02-2026 / 202600275/1/A3
