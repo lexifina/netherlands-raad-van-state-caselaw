@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak bestuurlijke lus"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:784"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/73", "Milieurecht Totaal 2026/7947"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/73", "Milieurecht Totaal 2026/7947", "Gst. 2026/66 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RVS:2026:784 Raad van State , 18-02-2026 / 202401931/1/R3
