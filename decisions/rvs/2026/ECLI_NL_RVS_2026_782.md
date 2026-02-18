@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:782"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/70", "BR 2026/26 met annotatie van J.A. Mohuddy"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/70", "BR 2026/26 met annotatie van J.A. Mohuddy", "Gst. 2026/65 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RVS:2026:782 Raad van State , 18-02-2026 / 202200646/2/R3 en 202404685/1/R3
