@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:966"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2022:9852, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:966 Raad van State , 20-02-2026 / 202206080/1/V3
