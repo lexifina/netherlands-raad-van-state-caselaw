@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:720"
-published_in: ["Rechtspraak.nl", "NJB 2026/491", "RSV 2026/61", "ABkort 2026/80", "JB 2026/66"]
+published_in: ["Rechtspraak.nl", "NJB 2026/491", "RSV 2026/61", "ABkort 2026/80", "JB 2026/66", "AB 2026/135 met annotatie van R. Stijnen"]
 ---
 
 # ECLI:NL:RVS:2026:720 Raad van State , 25-02-2026 / 202500512/1/A2
