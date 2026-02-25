@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1081"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/77"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2023:1118, (Gedeeltelijke) vernietiging met terugwijzen"]]
 ---
 
 # ECLI:NL:RVS:2026:1081 Raad van State , 25-02-2026 / 202302585/1/R2
