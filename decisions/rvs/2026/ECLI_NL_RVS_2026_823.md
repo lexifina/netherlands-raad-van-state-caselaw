@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:823"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/57", "NJB 2026/488"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/57", "NJB 2026/488", "Gst. 2026/58 met annotatie van M. Coerts, M.B. Burgstede"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2024:5578, (Gedeeltelijke) vernietiging met terugwijzen"]]
 ---
 
 # ECLI:NL:RVS:2026:823 Raad van State , 25-02-2026 / 202406384/1/A3
