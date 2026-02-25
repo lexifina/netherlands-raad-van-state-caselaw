@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1064"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2024:5555, Niet ontvankelijk"]]
 ---
 
 # ECLI:NL:RVS:2026:1064 Raad van State , 25-02-2026 / 202406395/1/A3
