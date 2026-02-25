@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1079"
 published_in: ["Rechtspraak.nl", "AB 2026/83 met annotatie van P.J. Stolk"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:7840, (Gedeeltelijke) vernietiging met terugwijzen"]]
 ---
 
 # ECLI:NL:RVS:2026:1079 Raad van State , 25-02-2026 / 202304610/1/A3
