@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1038"
-published_in: ["Rechtspraak.nl", "NJB 2026/492", "JB 2026/67"]
+published_in: ["Rechtspraak.nl", "NJB 2026/492", "JB 2026/67", "Gst. 2026/103 met annotatie van M. Coerts, M.B. Burgstede"]
 ---
 
 # ECLI:NL:RVS:2026:1038 Raad van State , 25-02-2026 / 202405631/1/A2
