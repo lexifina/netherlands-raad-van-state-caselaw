@@ -10,6 +10,7 @@ procedure: "Herziening"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1027"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2024:4119, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:1027 Raad van State , 25-02-2026 / 202405662/1/V6
