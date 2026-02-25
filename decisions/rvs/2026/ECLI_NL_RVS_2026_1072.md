@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1072"
-published_in: ["Rechtspraak.nl", "NJB 2026/490"]
+published_in: ["Rechtspraak.nl", "NJB 2026/490", "JGR 2026/18 met annotatie van mr. drs. M.D.B. Schutjens"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2024:8094, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2026:1072 Raad van State , 25-02-2026 / 202405818/1/A2
