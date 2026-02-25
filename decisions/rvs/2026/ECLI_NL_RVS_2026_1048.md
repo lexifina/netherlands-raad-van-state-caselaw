@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1048"
 published_in: ["Rechtspraak.nl", "Module Ruimtelijke Ordening 2026/8818", "Sdu Nieuws Omgevingsrecht 2026/76"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOVE:2022:1700, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2026:1048 Raad van State , 25-02-2026 / 202204519/1/R3
