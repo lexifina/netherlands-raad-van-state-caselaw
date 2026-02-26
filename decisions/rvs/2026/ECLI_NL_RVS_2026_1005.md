@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1005"
-published_in: ["Rechtspraak.nl", "NJB 2026/657"]
+published_in: ["Rechtspraak.nl", "NJB 2026/657", "JV 2026/111 met annotatie van mr. C.F. Wassenaar"]
 ---
 
 # ECLI:NL:RVS:2026:1005 Raad van State , 26-02-2026 / BRS.25.001289
