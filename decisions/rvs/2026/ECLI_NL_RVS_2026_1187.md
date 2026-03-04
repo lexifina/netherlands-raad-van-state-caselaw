@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1187"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/213 met annotatie van B. van der Vorm"]
 ---
 
 # ECLI:NL:RVS:2026:1187 Raad van State , 04-03-2026 / 202505691/1/A2
