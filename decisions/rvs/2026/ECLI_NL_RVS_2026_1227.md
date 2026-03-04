@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1227"
-published_in: ["Rechtspraak.nl", "NJB 2026/556", "V-N Vandaag 2026/516", "Omgevingsvergunning in de praktijk 2026/9364", "Sdu Nieuws Omgevingsrecht 2026/81"]
+published_in: ["Rechtspraak.nl", "NJB 2026/556", "V-N Vandaag 2026/516", "Omgevingsvergunning in de praktijk 2026/9364", "Sdu Nieuws Omgevingsrecht 2026/81", "V-N 2026/19.17 met annotatie van Redactie", "Belastingblad 2026/199 met annotatie van A.P. Monsma"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2023:5849, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2026:1227 Raad van State , 04-03-2026 / 202305135/1/A3
