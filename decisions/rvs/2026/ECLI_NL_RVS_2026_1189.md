@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1189"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/52", "NJB 2026/555", "Sdu Nieuws Omgevingsrecht 2026/85"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/52", "NJB 2026/555", "Sdu Nieuws Omgevingsrecht 2026/85", "BR 2026/46 met annotatie van V.M.S. Verschoor"]
 ---
 
 # ECLI:NL:RVS:2026:1189 Raad van State , 04-03-2026 / 202500544/1/R4
