@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1230"
-published_in: ["Rechtspraak.nl", "NJB 2026/557", "Sdu Nieuws Omgevingsrecht 2026/83"]
+published_in: ["Rechtspraak.nl", "NJB 2026/557", "Sdu Nieuws Omgevingsrecht 2026/83", "JB 2026/94"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:12654, Niet ontvankelijk"]]
 ---
 
