@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:982"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/50"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/50", "JV 2026/112"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:15944, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:982 Raad van State , 04-03-2026 / 202504929/1/A2
