@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1202"
-published_in: ["Rechtspraak.nl", "Milieurecht Totaal 2026/7943", "Sdu Nieuws Omgevingsrecht 2026/87"]
+published_in: ["Rechtspraak.nl", "Milieurecht Totaal 2026/7943", "Sdu Nieuws Omgevingsrecht 2026/87", "STAB-OGR-Updates.nl 2026-0102"]
 ---
 
 # ECLI:NL:RVS:2026:1202 Raad van State , 04-03-2026 / 202502876/1/R1
