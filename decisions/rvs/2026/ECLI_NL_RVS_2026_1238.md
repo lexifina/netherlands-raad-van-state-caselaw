@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1238"
-published_in: ["Rechtspraak.nl", "NJB 2026/607", "Module Ruimtelijke Ordening 2026/8819", "JB 2026/68"]
+published_in: ["Rechtspraak.nl", "NJB 2026/607", "Module Ruimtelijke Ordening 2026/8819", "JB 2026/68", "AB 2026/172 met annotatie van J. Wieland"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:9109, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2026:1238 Raad van State , 04-03-2026 / 202400530/1/R1
