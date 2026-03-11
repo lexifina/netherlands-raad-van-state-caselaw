@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1396"
 published_in: ["Rechtspraak.nl", "NJB 2026/609", "JB 2026/70"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:821, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2026:1396 Raad van State , 11-03-2026 / 202401681/1/A2
