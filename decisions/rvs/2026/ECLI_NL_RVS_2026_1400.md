@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1400"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/57", "Sdu Nieuws Omgevingsrecht 2026/61", "ABkort 2026/89", "JM 2026/46 met annotatie van W.Th. Douma", "NJB 2026/658", "Milieurecht Totaal 2026/7946"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/57", "Sdu Nieuws Omgevingsrecht 2026/61", "ABkort 2026/89", "JM 2026/46 met annotatie van W.Th. Douma", "NJB 2026/658", "Milieurecht Totaal 2026/7946", "BR 2026/39 met annotatie van J.A. Mohuddy", "M en R 2026/70 met annotatie van B. Arentz", "AB 2026/220 met annotatie van M.A.A. Soppe, R.H.W. Frins"]
 ---
 
 # ECLI:NL:RVS:2026:1400 Raad van State , 11-03-2026 / 202502813/1/R1
