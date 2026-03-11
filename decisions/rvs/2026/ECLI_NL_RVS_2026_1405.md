@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1405"
-published_in: ["Rechtspraak.nl", "NJB 2026/611", "JB 2026/71"]
+published_in: ["Rechtspraak.nl", "NJB 2026/611", "JB 2026/71", "Gst. 2026/74 met annotatie van A. Schreijenberg"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2024:8511, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2026:1405 Raad van State , 11-03-2026 / 202407203/1/A3
