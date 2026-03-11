@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1386"
-published_in: ["Rechtspraak.nl", "NJB 2026/612", "JB 2026/69"]
+published_in: ["Rechtspraak.nl", "NJB 2026/612", "JB 2026/69", "AB 2026/117 met annotatie van P.J. Stolk"]
 ---
 
 # ECLI:NL:RVS:2026:1386 Raad van State , 11-03-2026 / 202206931/1/A3
