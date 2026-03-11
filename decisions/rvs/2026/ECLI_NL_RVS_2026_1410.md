@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1410"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "BR 2026/34 met annotatie van J. oude Egbrink"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOVE:2024:2225, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:1410 Raad van State , 11-03-2026 / 202403494/1/R3
