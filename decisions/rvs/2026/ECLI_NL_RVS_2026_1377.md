@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1377"
-published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0069", "ABkort 2026/77", "NJB 2026/608", "Omgevingsvergunning in de praktijk 2026/9361", "Milieurecht Totaal 2026/7945", "AB 2026/88 met annotatie van A.G.A. Nijmeijer", "Sdu Nieuws Omgevingsrecht 2026/90"]
+published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0069", "ABkort 2026/77", "NJB 2026/608", "Omgevingsvergunning in de praktijk 2026/9361", "Milieurecht Totaal 2026/7945", "AB 2026/88 met annotatie van A.G.A. Nijmeijer", "Sdu Nieuws Omgevingsrecht 2026/90", "Jurisprudentie Grondzaken 2026/19 met annotatie van mr. N. Thorborg, R.C.K. van Andel", "Gst. 2026/73 met annotatie van J.L.W. Broeksteeg"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:15085, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2026:1377 Raad van State , 11-03-2026 / 202307313/1/R3
