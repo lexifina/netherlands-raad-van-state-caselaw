@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1453"
-published_in: ["Rechtspraak.nl", "NJB 2026/661"]
+published_in: ["Rechtspraak.nl", "NJB 2026/661", "JV 2026/113 met annotatie van mr. dr. H. Oosterom-Staples"]
 ---
 
 # ECLI:NL:RVS:2026:1453 Raad van State , 13-03-2026 / 202407435/1/V2
