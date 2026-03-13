@@ -1,0 +1,89 @@
+---
+ecli: "ECLI:NL:RVS:2026:1456"
+court: "Raad van State"
+court_code: "RVS"
+docket: "202204883/1/V1"
+decided: "2026-03-13"
+published: "2026-03-13"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1456"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RVS:2026:1456 Raad van State , 13-03-2026 / 202204883/1/V1
+
+## Inhoudsindicatie
+
+Bij besluit van 12 april 2022 heeft het COa de hoogte van de eigen bijdrage van appellant in de kosten van de opvang vastgesteld op € 3.536,67.
+
+## Uitspraak
+
+202204883/1/V1.
+
+Datum uitspraak: 13 maart 2026
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak met toepassing van artikel 8:54, eerste lid, van de Algemene wet bestuursrecht (Awb) op het hoger beroep van:
+
+[appellant],
+
+appellant,
+
+tegen de uitspraak van de rechtbank Den Haag, zittingsplaats Arnhem, van 19 juli 2022 in zaak nr. 22/2891 in het geding tussen:
+
+appellant
+
+en
+
+het Centraal Orgaan opvang asielzoekers.
+
+Procesverloop
+
+Bij besluit van 12 april 2022 heeft het COa de hoogte van de eigen bijdrage van appellant in de kosten van de opvang vastgesteld op € 3.536,67.
+
+Bij uitspraak van 19 juli 2022 heeft de rechtbank het daartegen door appellant ingestelde beroep ongegrond verklaard.
+
+Tegen deze uitspraak heeft appellant, vertegenwoordigd door mr. R.C. van den Berg, advocaat in Tilburg, hoger beroep ingesteld.
+
+Het COa en appellant hebben op verzoek van de Afdeling nadere stukken ingediend.
+
+Overwegingen
+
+1.       Appellant heeft tegen het besluit van 12 april 2022 rechtstreeks beroep ingesteld. Hij heeft daarmee gevolg gegeven aan de rechtsmiddelenclausule onder dat besluit, die vermeldt dat tegen het besluit beroep kan worden ingesteld bij de rechtbank.
+
+1.1.    Zoals volgt uit de uitspraak van de Afdeling van 14 januari 2026, ECLI:NL:RVS:2026:139, onder 4.1, staat tegen een besluit tot het vaststellen van een eigen bijdrage in de kosten van de opvang bezwaar open en geen rechtstreeks beroep bij de rechtbank. De rechtbank had daarom het door appellant ingestelde beroep niet-ontvankelijk moeten verklaren, het beroepschrift moeten aanmerken als een bezwaarschrift en dat op grond van artikel 6:15 van de Awb, ter behandeling moeten doorsturen naar het COa.
+
+1.2.    De Afdeling heeft bij brief van 16 januari 2026 partijen gevraagd of zij desondanks akkoord gaan met de inhoudelijke behandeling van het hoger beroep. Appellant heeft bij brief van 29 januari 2026 laten weten dat hij een herstart van de bezwaarfase wenst.
+
+2.       Het hoger beroep is gegrond. De grieven behoeven geen bespreking. De Afdeling vernietigt de uitspraak van de rechtbank. De Afdeling verklaart het beroep alsnog niet-ontvankelijk. De Afdeling zal het beroepschrift van appellant doorsturen aan het COa voor verdere behandeling als bezwaarschrift (zie artikel 6:15 van de Awb). Het COa moet de proceskosten vergoeden, omdat het een onjuiste rechtsmiddelenclausule in het besluit heeft opgenomen.
+
+Beslissing
+
+De Afdeling bestuursrechtspraak van de Raad van State:
+
+I.        verklaart het hoger beroep gegrond;
+
+II.       vernietigt de uitspraak van de rechtbank Den Haag, zittingsplaats Arnhem, van 19 juli 2022 in zaak nr. 22/2891;
+
+III.      verklaart het beroep niet-ontvankelijk;
+
+IV.     veroordeelt het Centraal Orgaan opvang asielzoekers tot vergoeding van bij appellant in verband met de behandeling van het beroep en het hoger beroep opgekomen proceskosten tot een bedrag van € 2.802,00, geheel toe te rekenen aan door een derde beroepsmatig verleende rechtsbijstand.
+
+Aldus vastgesteld door mr. J.J.W.P. van Gastel, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. J. Verbeek, griffier.
+
+w.g. Van Gastel
+
+lid van de enkelvoudige kamer
+
+w.g. Verbeek
+
+griffier
+
+Uitgesproken in het openbaar op 13 maart 2026
+
+574-1078
