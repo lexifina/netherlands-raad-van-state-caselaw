@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1438"
-published_in: ["Rechtspraak.nl", "NJB 2026/662"]
+published_in: ["Rechtspraak.nl", "NJB 2026/662", "JV 2026/84"]
 ---
 
 # ECLI:NL:RVS:2026:1438 Raad van State , 16-03-2026 / 202501495/1/V3
