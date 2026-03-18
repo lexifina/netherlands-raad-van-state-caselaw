@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1537"
-published_in: ["Rechtspraak.nl", "NJB 2026/664"]
+published_in: ["Rechtspraak.nl", "NJB 2026/664", "JB 2026/80"]
 ---
 
 # ECLI:NL:RVS:2026:1537 Raad van State , 18-03-2026 / 202505964/1/A2
