@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1545"
-published_in: ["Rechtspraak.nl", "AB 2026/100 met annotatie van L.M. Koenraad"]
+published_in: ["Rechtspraak.nl", "AB 2026/100 met annotatie van L.M. Koenraad", "JB 2026/81", "USZ 2026/165 met annotatie van mr. dr. L.M. Koenraad"]
 ---
 
 # ECLI:NL:RVS:2026:1545 Raad van State , 18-03-2026 / 202502848/1/A2
