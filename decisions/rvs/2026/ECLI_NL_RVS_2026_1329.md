@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1329"
-published_in: ["Rechtspraak.nl", "Milieurecht Totaal 2026/7948"]
+published_in: ["Rechtspraak.nl", "Milieurecht Totaal 2026/7948", "Sdu Nieuws Omgevingsrecht 2026/93"]
 ---
 
 # ECLI:NL:RVS:2026:1329 Raad van State , 18-03-2026 / 202305803/1/R1
