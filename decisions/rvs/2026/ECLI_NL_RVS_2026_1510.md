@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening+bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1510"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/68", "STAB-OGR-Updates.nl 2026-0074", "ABkort 2026/91", "NJB 2026/718", "Milieurecht Totaal 2026/7950", "Omgevingswet VTH 2026/619"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/68", "STAB-OGR-Updates.nl 2026-0074", "ABkort 2026/91", "NJB 2026/718", "Milieurecht Totaal 2026/7950", "Omgevingswet VTH 2026/619", "Sdu Nieuws Omgevingsrecht 2026/92", "Jurisprudentie Grondzaken 2026/18 met annotatie van mr. N. Thorborg, R.C.K. van Andel", "JBO 2026/15 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RVS:2026:1510 Raad van State , 18-03-2026 / 202503989/2/R1 en 202503989/2/R1
