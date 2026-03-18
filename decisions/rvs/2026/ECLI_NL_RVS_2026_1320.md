@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1320"
-published_in: ["Rechtspraak.nl", "NJB 2026/666"]
+published_in: ["Rechtspraak.nl", "NJB 2026/666", "VR 2026/100"]
 ---
 
 # ECLI:NL:RVS:2026:1320 Raad van State , 18-03-2026 / 202305686/1/A2
