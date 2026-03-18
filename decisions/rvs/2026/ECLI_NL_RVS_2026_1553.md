@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1553"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/94"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2024:6126"]]
 ---
 
 # ECLI:NL:RVS:2026:1553 Raad van State , 18-03-2026 / 202407718/1/R4
