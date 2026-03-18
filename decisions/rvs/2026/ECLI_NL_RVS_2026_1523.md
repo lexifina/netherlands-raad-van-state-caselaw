@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1523"
-published_in: ["Rechtspraak.nl", "NJB 2026/665"]
+published_in: ["Rechtspraak.nl", "NJB 2026/665", "JB 2026/78"]
 ---
 
 # ECLI:NL:RVS:2026:1523 Raad van State , 18-03-2026 / 202501909/1/A2
