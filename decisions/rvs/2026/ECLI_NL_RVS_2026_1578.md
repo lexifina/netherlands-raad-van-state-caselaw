@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1578"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "M en R 2026/52 met annotatie van J.J. Scheltens-Fokke, M.A.A. Soppe", "JM 2026/126 met annotatie van mr. R. Sillevis Smitt"]
 ---
 
 # ECLI:NL:RVS:2026:1578 Raad van State , 18-03-2026 / 202108215/1/R2
