@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1604"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2026/188 met annotatie van mr. A.M. van Eik"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:22393, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:1604 Raad van State , 19-03-2026 / 202302869/1/V1
