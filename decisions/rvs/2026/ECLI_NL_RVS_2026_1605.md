@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1605"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2026/86"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:6272, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RVS:2026:1605 Raad van State , 19-03-2026 / 202502717/1/V1
