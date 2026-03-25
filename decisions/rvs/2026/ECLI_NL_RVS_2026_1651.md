@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Prejudicieel verzoek"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1651"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JW 2026/42"]
 ---
 
 # ECLI:NL:RVS:2026:1651 Raad van State , 25-03-2026 / 202203114/1/A3, 202300412/1/A3, 202301224/1/A3, 202306765/1/A3,  202306766/1/A3 en 202405435/1/A3
