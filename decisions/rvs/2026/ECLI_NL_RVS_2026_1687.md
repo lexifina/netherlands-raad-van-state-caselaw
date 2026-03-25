@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1687"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JM 2026/79 met annotatie van mr. H.S. de Vries", "O&A 2026/29"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2025:563, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:1687 Raad van State , 25-03-2026 / 202501758/1/A2
