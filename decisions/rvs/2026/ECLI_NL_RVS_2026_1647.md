@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1647"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/143 met annotatie van M.W. Venderbos"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:6104, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2026:1647 Raad van State , 25-03-2026 / BRS.25.000433
