@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak bestuurlijke lus"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1723"
-published_in: ["Rechtspraak.nl", "ABkort 2026/90"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/90", "Milieurecht Totaal 2026/7954"]
 ---
 
 # ECLI:NL:RVS:2026:1723 Raad van State , 25-03-2026 / 202201957/1/R4
