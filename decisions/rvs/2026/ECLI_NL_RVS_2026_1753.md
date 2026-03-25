@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1753"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/562", "NJB 2026/720", "V-N 2026/16.15 met annotatie van Redactie", "RSV 2026/68"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/562", "NJB 2026/720", "V-N 2026/16.15 met annotatie van Redactie", "RSV 2026/68", "JB 2026/84"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2025:1418, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2026:1753 Raad van State , 25-03-2026 / 202501843/1/A2
