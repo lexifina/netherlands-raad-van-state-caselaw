@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1747"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "School en Wet 2026/86 met annotatie van S. Philipsen"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2024:3854, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:1747 Raad van State , 25-03-2026 / 202404797/1/A2
