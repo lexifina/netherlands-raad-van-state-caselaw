@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1750"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "BR 2026/48 met annotatie van D.C.M. Vleeskens, M.J.W. Timmer"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2023:1089, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:1750 Raad van State , 25-03-2026 / 202303047/1/R3 en 202404821/1/R3
