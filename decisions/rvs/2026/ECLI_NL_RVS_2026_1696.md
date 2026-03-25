@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1696"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/106 met annotatie van A.G.A. Nijmeijer"]
 ---
 
 # ECLI:NL:RVS:2026:1696 Raad van State , 25-03-2026 / 202401017/2/R4
