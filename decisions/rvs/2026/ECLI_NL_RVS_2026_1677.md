@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1677"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2026/100"]
 ---
 
 # ECLI:NL:RVS:2026:1677 Raad van State , 25-03-2026 / 202405731/1/R1
