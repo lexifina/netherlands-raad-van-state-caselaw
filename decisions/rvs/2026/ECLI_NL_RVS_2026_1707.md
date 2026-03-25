@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1707"
-published_in: ["Rechtspraak.nl", "ABkort 2026/101"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/101", "Module Ruimtelijke Ordening 2026/8822", "Jurisprudentie Grondzaken 2026/21 met annotatie van mr. N. Thorborg, R.C.K. van Andel"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2023:1092, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RVS:2026:1707 Raad van State , 25-03-2026 / 202302704/1/R1
