@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1733"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "BR 2026/49 met annotatie van C.M.M. van Mil"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:3840, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
