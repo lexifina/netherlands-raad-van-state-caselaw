@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1729"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "USZ 2026/167 met annotatie van mr. dr. L.M. Koenraad"]
 ---
 
 # ECLI:NL:RVS:2026:1729 Raad van State , 25-03-2026 / 202302931/1/A2
