@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1736"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/110 met annotatie van P.J. Stolk"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2023:2978, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:1736 Raad van State , 25-03-2026 / 202305276/1/A3
