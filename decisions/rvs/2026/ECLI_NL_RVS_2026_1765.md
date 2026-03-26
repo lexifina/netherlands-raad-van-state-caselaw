@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1765"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBO 2026/17 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RVS:2026:1765 Raad van State , 26-03-2026 / 202501225/2/R3 en 202501264/2/R3
