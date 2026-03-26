@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1657"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2026/90"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:6692, (Gedeeltelijke) vernietiging met terugwijzen"]]
 ---
 
 # ECLI:NL:RVS:2026:1657 Raad van State , 26-03-2026 / BRS.25.000428
