@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1650"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/118", "AB 2026/144 met annotatie van M.W. Venderbos"]
 ---
 
 # ECLI:NL:RVS:2026:1650 Raad van State , 26-03-2026 / BRS.26.000853
