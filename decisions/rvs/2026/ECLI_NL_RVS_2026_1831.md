@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1831"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RSV 2026/84"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2023:7367, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:1831 Raad van State , 01-04-2026 / 202307934/1/A2
