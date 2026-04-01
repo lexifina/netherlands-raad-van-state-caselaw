@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1809"
-published_in: ["Rechtspraak.nl", "NJB 2026/773"]
+published_in: ["Rechtspraak.nl", "NJB 2026/773", "JM 2026/77 met annotatie van R. Leijendekker", "JB 2026/96 met annotatie van prof. mr. R.J.N. Schlössels"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2024:559, (Gedeeltelijke) vernietiging met terugwijzen"]]
 ---
 
 # ECLI:NL:RVS:2026:1809 Raad van State , 01-04-2026 / 202401440/1/A2
