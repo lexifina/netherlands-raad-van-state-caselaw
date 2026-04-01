@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1833"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0124"]
 ---
 
 # ECLI:NL:RVS:2026:1833 Raad van State , 01-04-2026 / 202402910/1/R3
