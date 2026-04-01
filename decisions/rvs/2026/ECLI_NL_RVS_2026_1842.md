@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak bestuurlijke lus"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1842"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "BR 2026/45 met annotatie van S.M. Schipper"]
 ---
 
 # ECLI:NL:RVS:2026:1842 Raad van State , 01-04-2026 / 202307728/1/R1
