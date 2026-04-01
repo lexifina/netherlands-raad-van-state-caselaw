@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1840"
-published_in: ["Rechtspraak.nl", "NJB 2026/817"]
+published_in: ["Rechtspraak.nl", "NJB 2026/817", "JB 2026/97"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2024:7860, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:1840 Raad van State , 01-04-2026 / 202407543/1/R1
