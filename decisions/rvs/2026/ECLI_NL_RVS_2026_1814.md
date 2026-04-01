@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1814"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JB 2026/85 met annotatie van mr. J.H. Roelfsema"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2023:3260, Niet ontvankelijk"]]
 ---
 
 # ECLI:NL:RVS:2026:1814 Raad van State , 01-04-2026 / 202305187/1/R2
