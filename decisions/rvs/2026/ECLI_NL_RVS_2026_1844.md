@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak bestuurlijke lus"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1844"
-published_in: ["Rechtspraak.nl", "Module Ruimtelijke Ordening 2026/8820 met annotatie van M.G.O. de Lange", "Sdu Nieuws Omgevingsrecht 2026/86"]
+published_in: ["Rechtspraak.nl", "Module Ruimtelijke Ordening 2026/8820 met annotatie van M.G.O. de Lange", "Sdu Nieuws Omgevingsrecht 2026/86", "Jurisprudentie Grondzaken 2026/22 met annotatie van mr. N. Thorborg, R.C.K. van Andel", "O&A 2026/28", "BR 2026/52 met annotatie van J.S. Procee, N.J.K. Eijpe", "O&A 2026/53 met annotatie van G.M. van den Broek"]
 ---
 
 # ECLI:NL:RVS:2026:1844 Raad van State , 01-04-2026 / 202501934/1/A2
