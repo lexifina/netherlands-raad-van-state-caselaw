@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1846"
-published_in: ["Rechtspraak.nl", "NJB 2026/775"]
+published_in: ["Rechtspraak.nl", "NJB 2026/775", "JB 2026/86", "GJ 2026/43", "JGR 2026/28 met annotatie van mr. drs. J.A. Lisman"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2022:444, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2022:443, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2026:1846 Raad van State , 01-04-2026 / 202201857/1/A3 en 202201863/1/A3
