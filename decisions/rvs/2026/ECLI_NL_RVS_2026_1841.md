@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1841"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/71", "NJB 2026/774"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/71", "NJB 2026/774", "AB 2026/127 met annotatie van L.R.M.A. Beurskens", "JB 2026/98"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:6987, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
