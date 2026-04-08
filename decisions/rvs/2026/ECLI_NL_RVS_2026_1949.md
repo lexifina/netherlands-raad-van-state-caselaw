@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1949"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Module Ruimtelijke Ordening 2026/8823", "ABkort 2026/117", "M en R 2026/71 met annotatie van A.G.A. Nijmeijer"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2023:1555, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RVS:2026:1949 Raad van State , 08-04-2026 / 202303522/1/R2
