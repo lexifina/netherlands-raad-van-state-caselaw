@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak bestuurlijke lus"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1952"
-published_in: ["Rechtspraak.nl", "ABkort 2026/100"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/100", "Milieurecht Totaal 2026/7957", "JM 2026/78 met annotatie van mr. P.B. Bokelaar"]
 ---
 
 # ECLI:NL:RVS:2026:1952 Raad van State , 08-04-2026 / 202404638/1/R1
