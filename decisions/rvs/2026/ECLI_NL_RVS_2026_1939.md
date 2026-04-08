@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1939"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/77"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/77", "JBO 2026/14 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RVS:2026:1939 Raad van State , 08-04-2026 / 202501972/1/A2
