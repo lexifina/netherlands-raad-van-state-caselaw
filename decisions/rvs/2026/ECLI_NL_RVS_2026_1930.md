@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1930"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2025:394, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RVS:2026:1930 Raad van State , 08-04-2026 / 202501710/1/R4
