@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1951"
-published_in: ["Rechtspraak.nl", "NJB 2026/821"]
+published_in: ["Rechtspraak.nl", "NJB 2026/821", "JB 2026/101", "Jurisprudentie Grondzaken 2026/34 met annotatie van mr. N. Thorborg, R.C.K. van Andel"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2022:5146, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:1951 Raad van State , 08-04-2026 / 202205256/1/R2
