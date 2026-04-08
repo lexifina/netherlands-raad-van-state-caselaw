@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1919"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Milieurecht Totaal 2026/7956", "JB 2026/164 met annotatie van mr. dr. M.K.G. Tjepkema"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOVE:2023:2800, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:1919 Raad van State , 08-04-2026 / 202305689/1/A3
