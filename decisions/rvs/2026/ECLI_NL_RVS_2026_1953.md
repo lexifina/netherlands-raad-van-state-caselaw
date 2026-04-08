@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1953"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "M en R 2026/72 met annotatie van P. Mendelts", "TvAR 2026/8260 met annotatie van D. Korsse"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2023:317, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RVS:2026:1953 Raad van State , 08-04-2026 / 202301494/1/R2
