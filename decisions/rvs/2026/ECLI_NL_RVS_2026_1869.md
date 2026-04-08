@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1869"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2026/114"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:5226, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:1869 Raad van State , 08-04-2026 / 202502705/1/V6
