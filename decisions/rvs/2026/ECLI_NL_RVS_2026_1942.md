@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1942"
-published_in: ["Rechtspraak.nl", "NJB 2026/819"]
+published_in: ["Rechtspraak.nl", "NJB 2026/819", "AB 2026/126 met annotatie van W. Berkien", "JB 2026/100", "Gst. 2026/95 met annotatie van A.E.M. van den Berg, C.J. Loggen-ten Hoopen"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:3801, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:1942 Raad van State , 08-04-2026 / 202501603/1/A2
