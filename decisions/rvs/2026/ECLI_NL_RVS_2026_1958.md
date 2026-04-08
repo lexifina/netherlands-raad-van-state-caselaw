@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1958"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Milieurecht Totaal 2026/7953", "STAB-OGR-Updates.nl 2026-0100"]
 ---
 
 # ECLI:NL:RVS:2026:1958 Raad van State , 08-04-2026 / 202400592/1/R3
