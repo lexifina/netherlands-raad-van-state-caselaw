@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1946"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/147 met annotatie van N.A.A. Burghoorn"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2025:3276, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:1946 Raad van State , 08-04-2026 / 202503638/1/A2
