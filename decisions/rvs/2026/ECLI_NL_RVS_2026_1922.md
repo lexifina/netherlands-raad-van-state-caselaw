@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1922"
-published_in: ["Rechtspraak.nl", "Module Ruimtelijke Ordening 2026/8821"]
+published_in: ["Rechtspraak.nl", "Module Ruimtelijke Ordening 2026/8821 met annotatie van M.G.O. de Lange", "STAB-OGR-Updates.nl 2026-0103"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:3565, Bekrachtiging/bevestiging"]]
 ---
 
