@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Vreemdelingenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1984"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:20964, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:1984 Raad van State , 13-04-2026 / BRS.25.001963
