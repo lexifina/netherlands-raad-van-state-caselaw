@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak bestuurlijke lus"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2092"
-published_in: ["Rechtspraak.nl", "ABkort 2026/109"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/109", "Milieurecht Totaal 2026/7963", "STAB-OGR-Updates.nl 2026-0101", "Module Ruimtelijke Ordening 2026/8832 met annotatie van R. Frusch"]
 ---
 
 # ECLI:NL:RVS:2026:2092 Raad van State , 15-04-2026 / 202500964/1/R2
