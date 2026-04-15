@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2096"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/131 met annotatie van P.J. Stolk", "JBP 2026/58"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2023:3536, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RVS:2026:2096 Raad van State , 15-04-2026 / 202305278/1/A3
