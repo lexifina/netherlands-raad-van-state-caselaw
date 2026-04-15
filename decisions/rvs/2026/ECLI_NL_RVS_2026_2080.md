@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2080"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Milieurecht Totaal 2026/7961"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:4058, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
