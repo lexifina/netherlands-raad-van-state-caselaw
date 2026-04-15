@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2063"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBP 2026/61"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2024:13638, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:2063 Raad van State , 15-04-2026 / 202500536/1/A3
