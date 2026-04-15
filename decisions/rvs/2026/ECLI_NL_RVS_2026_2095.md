@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2095"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJB 2026/871", "JBP 2026/57"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2023:3535, Onduidelijk"]]
 ---
 
 # ECLI:NL:RVS:2026:2095 Raad van State , 15-04-2026 / 202305277/1/A3
