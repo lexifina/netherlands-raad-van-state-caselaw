@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2083"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JM 2026/76 met annotatie van F. Arents"]
 ---
 
 # ECLI:NL:RVS:2026:2083 Raad van State , 15-04-2026 / 202403256/1/R2
