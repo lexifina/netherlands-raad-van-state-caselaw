@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2090"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/87"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/87", "NJB 2026/872", "AB 2026/116 met annotatie van B. van der Vorm", "JB 2026/102"]
 ---
 
 # ECLI:NL:RVS:2026:2090 Raad van State , 15-04-2026 / 202600211/1/A2
