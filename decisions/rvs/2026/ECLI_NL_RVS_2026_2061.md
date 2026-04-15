@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2061"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2026/9372", "JM 2026/112 met annotatie van mr. H.S. de Vries"]
 ---
 
 # ECLI:NL:RVS:2026:2061 Raad van State , 15-04-2026 / 202206897/1/R3
