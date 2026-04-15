@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2060"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "School en Wet 2026/138"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2025:122, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RVS:2026:2060 Raad van State , 15-04-2026 / 202501338/1/A2
