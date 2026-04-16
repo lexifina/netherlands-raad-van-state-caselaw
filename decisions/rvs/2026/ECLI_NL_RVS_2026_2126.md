@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2126"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAF 2026/5"]
 ---
 
 # ECLI:NL:RVS:2026:2126 Raad van State , 16-04-2026 / 202600202/2/R4
