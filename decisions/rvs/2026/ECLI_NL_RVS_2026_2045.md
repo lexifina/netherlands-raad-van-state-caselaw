@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Vereenvoudigde behandeling"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2045"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Milieurecht Totaal 2026/7962", "ABkort 2026/131", "AB 2026/218 met annotatie van R.H.W. Frins"]
 ---
 
 # ECLI:NL:RVS:2026:2045 Raad van State , 16-04-2026 / 202600282/2/R2
