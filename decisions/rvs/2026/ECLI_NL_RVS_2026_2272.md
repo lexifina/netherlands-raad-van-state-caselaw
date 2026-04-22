@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2272"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/90", "Sdu Nieuws Bestuursrecht 2026/117"]
 ---
 
 # ECLI:NL:RVS:2026:2272 Raad van State , 22-04-2026 / 202501770/1/V6
