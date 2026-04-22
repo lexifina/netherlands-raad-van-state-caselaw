@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2303"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/182 met annotatie van B. van der Vorm"]
 ---
 
 # ECLI:NL:RVS:2026:2303 Raad van State , 22-04-2026 / 202501545/1/A3
