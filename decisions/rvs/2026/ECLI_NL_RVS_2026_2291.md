@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2291"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/116", "Module Ruimtelijke Ordening 2026/8826"]
 ---
 
 # ECLI:NL:RVS:2026:2291 Raad van State , 22-04-2026 / 202400552/1/R3
