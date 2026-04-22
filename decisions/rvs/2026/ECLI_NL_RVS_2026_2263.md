@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2263"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JB 2026/103", "AB 2026/163 met annotatie van L.J.A. Damen"]
 ---
 
 # ECLI:NL:RVS:2026:2263 Raad van State , 22-04-2026 / 202505731/1/A2
