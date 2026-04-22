@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2295"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBO 2026/20 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RVS:2026:2295 Raad van State , 22-04-2026 / 202107288/1/R2
