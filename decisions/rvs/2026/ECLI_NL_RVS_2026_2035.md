@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2035"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJB 2026/371", "NJB 2026/939", "JB 2026/165 met annotatie van mr. dr. M.K.G. Tjepkema"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2021:968"]]
 ---
 
 # ECLI:NL:RVS:2026:2035 Raad van State , 22-04-2026 / 202101773/1/A3
