@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2294"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/85"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/85", "V-N Vandaag 2026/857", "ABkort 2026/129", "Omgevingswet VTH 2026/631", "NJB 2026/938", "V-N 2026/23.19 met annotatie van Redactie", "JB 2026/106", "M en R 2026/73 met annotatie van H.D. Tolsma", "Jurisprudentie HSE 2026/46", "AB 2026/201 met annotatie van R. Stijnen"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2022:1823"]]
 ---
 
 # ECLI:NL:RVS:2026:2294 Raad van State , 22-04-2026 / 202203401/1/A3
