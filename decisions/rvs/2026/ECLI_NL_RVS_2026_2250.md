@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2250"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/115", "Gst. 2026/71 met annotatie van M. Buitenhuis"]
 ---
 
 # ECLI:NL:RVS:2026:2250 Raad van State , 22-04-2026 / 202501806/1/A2
