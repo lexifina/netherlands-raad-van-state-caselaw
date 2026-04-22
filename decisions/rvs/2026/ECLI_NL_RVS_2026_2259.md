@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2259"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/127"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2024:5837"]]
 ---
 
 # ECLI:NL:RVS:2026:2259 Raad van State , 22-04-2026 / 202406272/1/R2
