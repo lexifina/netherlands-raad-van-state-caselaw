@@ -1,0 +1,83 @@
+---
+ecli: "ECLI:NL:RVS:2026:3460"
+court: "Raad van State"
+court_code: "RVS"
+docket: "BRS.26.002284"
+decided: "2026-06-18"
+published: "2026-06-16"
+type: "uitspraak"
+procedure: "Voorlopige voorziening"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:3460"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RVS:2026:3460 Raad van State , 18-06-2026 / BRS.26.002284
+
+## Inhoudsindicatie
+
+Bij besluit van 9 april 2025 heeft de minister van Asiel en Migratie een aanvraag van betrokkene om hem een verblijfsvergunning asiel voor bepaalde tijd te verlenen, afgewezen.
+
+## Uitspraak
+
+BRS.26.002284
+
+ECLI:NL:RVS:2026:3460
+
+Datum uitspraak: 18 juni 2026
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak van de voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State op het verzoek om het treffen van een voorlopige voorziening (artikel 8:81 van de Algemene wet bestuursrecht), met toepassing van artikel 8:83, derde lid, van die wet, hangende het hoger beroep van onder meer:
+
+de minister van Asiel en Migratie,
+
+verzoeker,
+
+tegen de uitspraak van de rechtbank Den Haag, zittingsplaats Rotterdam, van 16 april 2026 in zaak nr. NL25.17221 in het geding tussen:
+
+[betrokkene]
+
+en
+
+de minister.
+
+Procesverloop
+
+Bij besluit van 9 april 2025 heeft de minister een aanvraag van betrokkene om hem een verblijfsvergunning asiel voor bepaalde tijd te verlenen, afgewezen.
+
+Bij uitspraak van 16 april 2026 heeft de rechtbank het daartegen door betrokkene ingestelde beroep gegrond verklaard, dat besluit vernietigd en bepaald dat de minister binnen zestien weken na de dag van verzending van de uitspraak met inachtneming ervan een nieuw besluit op de aanvraag neemt.
+
+Tegen deze uitspraak heeft de minister hoger beroep ingesteld. Ook heeft hij de voorzieningenrechter verzocht een voorlopige voorziening te treffen.
+
+Betrokkene heeft een schriftelijke uiteenzetting gegeven en incidenteel hoger beroep ingesteld.
+
+Overwegingen
+
+1.        De minister verzoekt de voorzieningenrechter de voorlopige voorziening te treffen dat hij de uitspraak van de rechtbank niet hoeft uit te voeren totdat de Afdeling op zijn hoger beroep heeft beslist.
+
+2.        De beoordeling van de grieven vergt nader onderzoek, waarvoor deze procedure zich niet goed leent. Daarom en gelet op de belangen die de minister en betrokkene naar voren hebben gebracht, treft de voorzieningenrechter een voorlopige voorziening.
+
+3.        De minister hoeft geen proceskosten te vergoeden.
+
+Beslissing
+
+De voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State:
+
+bepaalt bij wijze van voorlopige voorziening dat de minister van Asiel en Migratie geen uitvoering hoeft te geven aan de uitspraak van de rechtbank voordat de Afdeling op het hoger beroep heeft beslist.
+
+Aldus vastgesteld door mr. N. Verheij, voorzieningenrechter, in tegenwoordigheid van mr. T. Toonen, griffier.
+
+w.g. Verheij
+
+voorzieningenrechter
+
+w.g. Toonen
+
+griffier
+
+Uitgesproken in het openbaar op 18 juni 2026
+
+979
