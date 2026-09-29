@@ -1,0 +1,85 @@
+---
+ecli: "ECLI:NL:RVS:2026:5757"
+court: "Raad van State"
+court_code: "RVS"
+docket: "BRS.26.005066"
+decided: "2026-09-29"
+published: "2026-09-29"
+type: "uitspraak"
+procedure: "Voorlopige voorziening"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:5757"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RVS:2026:5757 Raad van State , 29-09-2026 / BRS.26.005066
+
+## Inhoudsindicatie
+
+Bij besluiten van 12 februari 2026 heeft de minister van Asiel en Migratie aanvragen van verzoekers om hun een verblijfsvergunning asiel voor bepaalde tijd te verlenen, niet-ontvankelijk verklaard.
+
+## Uitspraak
+
+BRS.26.005066
+
+ECLI:NL:RVS:2026:5757
+
+Datum uitspraak: 29 september 2026
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak van de voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State op een verzoek om het treffen van een voorlopige voorziening (artikel 8:81 van de Algemene wet bestuursrecht), met toepassing van artikel 8:83, derde lid, van die wet, hangende het hoger beroep van:
+
+[verzoeker A] en [verzoeker B], mede voor hun minderjarige kinderen] en [verzoeker C]
+
+verzoekers,
+
+tegen de uitspraak van de rechtbank Den Haag, zittingsplaats Groningen, van 22 september 2026 in zaken nrs. NL26.9432, NL26.934 en NL26.9436 in het geding tussen:
+
+[verzoeker A] en [verzoeker], mede voor hun minderjarige kinderen] en [verzoeker C]
+
+en
+
+de minister van Asiel en Migratie.
+
+Procesverloop
+
+Bij besluiten van 12 februari 2026 heeft de minister aanvragen van verzoekers om hun een verblijfsvergunning asiel voor bepaalde tijd te verlenen, niet-ontvankelijk verklaard.
+
+Bij uitspraak van 22 september 2026 heeft de rechtbank de daartegen door verzoekers ingestelde beroepen ongegrond verklaard.
+
+Tegen deze uitspraak hebben verzoekers hoger beroep ingesteld. Ook hebben zij de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.
+
+Verzoekers hebben een nader stuk ingediend.
+
+Overwegingen
+
+1.        Verzoekers hebben de voorzieningenrechter verzocht om de voorlopige voorziening te treffen dat zij niet worden overgedragen voordat op het hoger beroep is beslist en dat zij opvang en verstrekkingen krijgen.
+
+2.        Het hoger beroep vergt nader onderzoek, waarvoor deze procedure zich niet goed leent. Daarom treft de voorzieningenrechter een voorlopige voorziening.
+
+3.        De minister moet de proceskosten vergoeden.
+
+Beslissing
+
+De voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State:
+
+I.        bepaalt bij wijze van voorlopige voorziening dat verzoekers niet worden overgedragen, totdat op het door hen ingestelde hoger beroep is beslist;
+
+II.        veroordeelt de minister van Asiel en Migratie tot vergoeding van bij verzoekers in verband met de behandeling van het verzoek opgekomen proceskosten tot een bedrag van € 934,00 geheel toe te rekenen aan door een derde beroepsmatig verleende rechtsbijstand.
+
+Aldus vastgesteld door mr. D.A. Verburg, voorzieningenrechter, in tegenwoordigheid van mr. J.R. Kraak, griffier.
+
+w.g. Verburg
+
+voorzieningenrechter
+
+w.g. Kraak
+
+griffier
+
+Uitgesproken in het openbaar op 29 september 2026
+
+1073
