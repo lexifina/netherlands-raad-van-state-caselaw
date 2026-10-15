@@ -1,0 +1,83 @@
+---
+ecli: "ECLI:NL:RVS:2026:6120"
+court: "Raad van State"
+court_code: "RVS"
+docket: "BRS.26.005365"
+decided: "2026-10-15"
+published: "2026-10-15"
+type: "uitspraak"
+procedure: "Voorlopige voorziening"
+subject: "Bestuursrecht; Vreemdelingenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6120"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RVS:2026:6120 Raad van State , 15-10-2026 / BRS.26.005365
+
+## Inhoudsindicatie
+
+Bij besluit van 7 juli 2026 heeft de minister van Asiel en Migratie verzoeker in vreemdelingenbewaring gesteld.
+
+## Uitspraak
+
+BRS.26.005365
+
+ECLI:NL:RVS:2026:6120
+
+Datum uitspraak: 15 oktober 2026
+
+AFDELING
+
+BESTUURSRECHTSPRAAK
+
+Uitspraak van de voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State op een verzoek om het treffen van een voorlopige voorziening (artikel 8:81 van de Algemene wet bestuursrecht), met toepassing van artikel 8:83, derde lid, van die wet, hangende het hoger beroep van:
+
+[verzoeker],
+
+verzoeker,
+
+tegen de uitspraak van de rechtbank Den Haag, zittingsplaats Haarlem, van 16 juli 2026 in zaak nr. NL26.37816 in het geding tussen:
+
+[verzoeker]
+
+en
+
+de minister van Asiel en Migratie.
+
+Procesverloop
+
+Bij besluit van 7 juli 2026 heeft de minister verzoeker in vreemdelingenbewaring gesteld.
+
+Bij uitspraak van 16 juli 2026 heeft de rechtbank het met een kennisgeving daartegen ingestelde beroep ongegrond verklaard en het verzoek om schadevergoeding afgewezen.
+
+Tegen deze uitspraak heeft verzoeker hoger beroep ingesteld.
+
+De minister heeft een schriftelijke uiteenzetting gegeven, waarop appellant heeft gereageerd. Ook heeft hij de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.
+
+Overwegingen
+
+1.        Verzoeker heeft de voorzieningenrechter verzocht de maatregel van vreemdelingenbewaring op te heffen.
+
+2.        Het is op dit moment niet aannemelijk dat de uitspraak van de rechtbank in hoger beroep zal worden vernietigd. Daarom heft de voorzieningenrechter de maatregel niet op.
+
+3.        Het verzoek wordt afgewezen. De minister hoeft geen proceskosten te vergoeden.
+
+Beslissing
+
+De voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State:
+
+wijst het verzoek af.
+
+Aldus vastgesteld door mr. J.C.A. de Poorter, voorzieningenrechter, in tegenwoordigheid van mr. W.M. Vos, griffier.
+
+w.g. De Poorter
+
+voorzieningenrechter
+
+w.g. Vos
+
+griffier
+
+Uitgesproken in het openbaar op 15 oktober 2026
+
+644-1204
