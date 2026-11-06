@@ -1,5 +1,7 @@
 # Dutch case law: Raad van State
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of the Raad van State, Netherlands, which global-law reads at `netherlands/raad-van-state/caselaw/`.
+
 Every decision of Raad van State that the Rechtspraak publishes with its text, as a git history: one file per decision, one
 commit per decision, dated the day it was decided. 96,586 decisions from 1995-01-10 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `netherlands/raad-van-state/caselaw`.
